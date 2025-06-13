@@ -1,0 +1,9 @@
+Super Store SALES DASHBOARD INSIGHTS:
+
+1.South region recorded the highest total sales with ₹258,612.21, but it also shows wide fluctuations in profit.         This suggests potential issues with pricing, discounts, or shipping costs.
+
+2.Tables emerged as the top-performing sub-category, generating ₹91,091.08 in sales, making it a key product to track across multiple regions.
+
+3.August 2022 was the highest-grossing month, with total sales reaching ₹50,469.77, likely due to Q3(Jul–Sep) seasonal peaks.
+
+4.The Technology category leads in overall sales but also shows higher discounts, especially in Central and West regions, indicating a possible trade-off between volume and profitability.

@@ -1,0 +1,2001 @@
+Order ID,Customer ID,Category,Sales,Quantity,Discount,Profit,Region,Order Date,Ship Mode,Sub-Category
+ORD-0001,CUST-8270,Technology,896.39,5,0.24,293.21,Central,2022-06-07,First Class,Copiers
+ORD-0002,CUST-1860,Technology,669.8,4,0.21,166.15,Central,2022-07-23,First Class,Copiers
+ORD-0003,CUST-6390,Technology,789.51,9,0.49,188.47,Central,2023-10-23,Second Class,Accessories
+ORD-0004,CUST-6191,Technology,459.8,5,0.1,236.23,East,2022-03-16,First Class,Accessories
+ORD-0005,CUST-6734,Technology,633.94,2,0.11,-92.18,West,2023-01-15,Same Day,Copiers
+ORD-0006,CUST-7265,Technology,255.9,8,0.15,-158.1,South,2022-10-31,Same Day,Accessories
+ORD-0007,CUST-1466,Office Supplies,708.41,7,0.09,41.45,South,2022-03-03,First Class,Binders
+ORD-0008,CUST-5426,Furniture,433.33,8,0.19,57.04,East,2023-07-24,First Class,Furnishings
+ORD-0009,CUST-6578,Furniture,448.12,3,0.46,214.59,Central,2022-04-18,Second Class,Tables
+ORD-0010,CUST-9322,Office Supplies,652.83,4,0.31,21.89,West,2022-07-06,Second Class,Labels
+ORD-0011,CUST-2685,Office Supplies,936.92,5,0.21,85.43,West,2022-08-17,First Class,Paper
+ORD-0012,CUST-1769,Office Supplies,73.37,6,0.47,63.54,Central,2022-02-17,Second Class,Art
+ORD-0013,CUST-7949,Office Supplies,826.5,1,0.02,-180.9,South,2022-09-25,Standard Class,Paper
+ORD-0014,CUST-3433,Technology,299.46,4,0.11,107.61,South,2023-12-28,First Class,Machines
+ORD-0015,CUST-6311,Furniture,449.48,5,0.28,214.02,West,2022-09-11,Second Class,Furnishings
+ORD-0016,CUST-6051,Technology,31.69,7,0.31,-121.25,West,2022-03-28,Same Day,Copiers
+ORD-0017,CUST-7420,Furniture,308.04,5,0.02,97.17,Central,2022-06-30,First Class,Furnishings
+ORD-0018,CUST-2184,Furniture,507.6,1,0.2,96.81,South,2022-01-25,First Class,Bookcases
+ORD-0019,CUST-5555,Office Supplies,65.61,7,0.32,-117.91,West,2023-01-23,Same Day,Art
+ORD-0020,CUST-4385,Technology,496.18,8,0.35,-138.27,South,2022-08-10,Same Day,Machines
+ORD-0021,CUST-7396,Office Supplies,927.84,7,0.32,290.03,West,2023-02-01,Second Class,Binders
+ORD-0022,CUST-9666,Technology,114.34,4,0.16,-3.14,Central,2023-05-26,Same Day,Machines
+ORD-0023,CUST-3558,Furniture,766.8,8,0.05,-86.29,South,2023-07-15,Standard Class,Furnishings
+ORD-0024,CUST-8849,Office Supplies,415.57,5,0.21,-114.34,West,2023-03-16,First Class,Paper
+ORD-0025,CUST-3047,Office Supplies,658.62,9,0.06,133.8,West,2022-06-24,Standard Class,Labels
+ORD-0026,CUST-3747,Furniture,267.63,5,0.47,104.72,West,2022-11-07,Second Class,Tables
+ORD-0027,CUST-1189,Furniture,167.9,1,0.24,121.78,West,2022-10-01,Same Day,Tables
+ORD-0028,CUST-3734,Furniture,168.86,9,0.16,-156.0,Central,2022-02-04,First Class,Furnishings
+ORD-0029,CUST-4005,Office Supplies,79.79,5,0.38,246.77,South,2022-08-05,Same Day,Art
+ORD-0030,CUST-5658,Technology,193.79,6,0.25,-5.37,South,2023-12-22,Same Day,Phones
+ORD-0031,CUST-2899,Office Supplies,667.58,4,0.16,-43.32,East,2023-11-03,Second Class,Labels
+ORD-0032,CUST-8734,Technology,882.87,6,0.41,31.18,South,2023-02-12,Second Class,Machines
+ORD-0033,CUST-2267,Office Supplies,815.98,8,0.43,-4.97,East,2023-06-03,Second Class,Art
+ORD-0034,CUST-2528,Office Supplies,688.28,3,0.34,231.79,West,2022-09-26,Second Class,Paper
+ORD-0035,CUST-4556,Furniture,119.33,5,0.02,264.63,Central,2023-09-30,First Class,Bookcases
+ORD-0036,CUST-4890,Technology,296.3,2,0.28,-48.27,Central,2023-04-20,Standard Class,Copiers
+ORD-0037,CUST-9838,Office Supplies,316.71,2,0.38,231.97,West,2022-11-21,Standard Class,Paper
+ORD-0038,CUST-6393,Office Supplies,257.46,7,0.07,190.76,East,2022-12-22,First Class,Labels
+ORD-0039,CUST-9792,Furniture,519.86,6,0.11,265.4,West,2022-03-31,Same Day,Bookcases
+ORD-0040,CUST-9433,Furniture,540.2,4,0.44,-77.12,Central,2022-02-11,First Class,Bookcases
+ORD-0041,CUST-8513,Technology,363.32,5,0.01,88.48,Central,2022-12-31,Standard Class,Machines
+ORD-0042,CUST-3612,Office Supplies,360.25,1,0.38,-62.73,South,2023-11-02,Standard Class,Labels
+ORD-0043,CUST-8041,Technology,830.27,7,0.24,212.05,East,2022-07-21,First Class,Phones
+ORD-0044,CUST-7235,Office Supplies,791.4,8,0.22,-197.34,South,2023-01-01,Second Class,Art
+ORD-0045,CUST-6486,Technology,314.72,9,0.0,82.41,Central,2022-10-15,Same Day,Phones
+ORD-0046,CUST-8099,Furniture,914.65,8,0.41,-30.4,Central,2023-08-26,First Class,Tables
+ORD-0047,CUST-1775,Office Supplies,953.29,5,0.18,-38.66,South,2023-04-26,Standard Class,Labels
+ORD-0048,CUST-9226,Technology,333.48,3,0.27,122.45,South,2023-09-29,Second Class,Machines
+ORD-0049,CUST-4152,Furniture,360.88,9,0.34,225.74,Central,2023-05-16,Same Day,Chairs
+ORD-0050,CUST-2585,Furniture,510.58,6,0.35,104.6,South,2023-09-30,Standard Class,Bookcases
+ORD-0051,CUST-4943,Technology,941.71,5,0.48,226.59,South,2022-02-21,Same Day,Accessories
+ORD-0052,CUST-8555,Office Supplies,877.56,3,0.27,-67.7,East,2022-04-13,Second Class,Art
+ORD-0053,CUST-4073,Office Supplies,111.54,6,0.2,59.75,Central,2022-12-27,Standard Class,Art
+ORD-0054,CUST-2021,Furniture,398.8,3,0.48,25.27,West,2023-02-28,Second Class,Chairs
+ORD-0055,CUST-4843,Office Supplies,557.84,6,0.32,-194.18,East,2023-11-30,First Class,Art
+ORD-0056,CUST-8989,Office Supplies,508.1,4,0.15,78.41,West,2022-07-24,First Class,Binders
+ORD-0057,CUST-7873,Office Supplies,201.92,2,0.06,130.76,South,2022-01-14,Same Day,Labels
+ORD-0058,CUST-6675,Furniture,860.23,8,0.42,95.96,South,2023-09-08,Second Class,Furnishings
+ORD-0059,CUST-1161,Technology,680.17,4,0.18,168.14,West,2023-09-21,Second Class,Machines
+ORD-0060,CUST-5297,Office Supplies,839.53,9,0.33,85.67,South,2023-04-15,Same Day,Paper
+ORD-0061,CUST-1995,Furniture,860.18,7,0.24,-166.62,South,2023-04-11,Same Day,Tables
+ORD-0062,CUST-8629,Furniture,750.87,2,0.1,-141.78,East,2022-10-31,Same Day,Bookcases
+ORD-0063,CUST-2016,Technology,444.82,4,0.3,98.24,West,2023-08-28,First Class,Phones
+ORD-0064,CUST-8869,Office Supplies,614.44,5,0.03,-62.51,East,2023-03-03,Same Day,Art
+ORD-0065,CUST-7439,Office Supplies,168.76,3,0.21,-160.18,West,2023-10-18,First Class,Labels
+ORD-0066,CUST-8892,Technology,676.91,9,0.27,14.8,East,2022-04-20,Same Day,Copiers
+ORD-0067,CUST-7863,Technology,187.46,5,0.22,77.16,Central,2023-11-06,Second Class,Copiers
+ORD-0068,CUST-8916,Furniture,697.01,2,0.37,-35.63,Central,2023-07-19,Second Class,Bookcases
+ORD-0069,CUST-9529,Furniture,237.3,3,0.41,160.22,West,2023-05-30,Same Day,Furnishings
+ORD-0070,CUST-1878,Technology,126.38,9,0.39,121.89,Central,2022-03-09,Same Day,Phones
+ORD-0071,CUST-5887,Office Supplies,173.63,7,0.02,-33.59,East,2022-09-03,First Class,Art
+ORD-0072,CUST-5859,Furniture,11.97,2,0.1,177.44,West,2023-01-24,Standard Class,Furnishings
+ORD-0073,CUST-7331,Furniture,721.55,9,0.27,124.35,Central,2023-10-12,First Class,Tables
+ORD-0074,CUST-9571,Office Supplies,735.08,4,0.47,118.72,Central,2022-11-04,Second Class,Binders
+ORD-0075,CUST-9684,Furniture,519.78,9,0.42,76.71,West,2022-12-18,Same Day,Furnishings
+ORD-0076,CUST-8208,Office Supplies,169.75,2,0.42,-194.31,Central,2022-03-07,Second Class,Art
+ORD-0077,CUST-6276,Office Supplies,92.72,4,0.15,148.25,Central,2023-04-05,Standard Class,Labels
+ORD-0078,CUST-3062,Office Supplies,28.94,5,0.21,-11.98,West,2022-12-13,First Class,Binders
+ORD-0079,CUST-1064,Technology,174.09,2,0.24,271.3,Central,2022-11-21,Second Class,Copiers
+ORD-0080,CUST-9006,Technology,891.95,1,0.08,208.99,Central,2023-10-29,First Class,Accessories
+ORD-0081,CUST-3568,Technology,249.12,7,0.02,93.85,Central,2023-08-22,Same Day,Accessories
+ORD-0082,CUST-6463,Office Supplies,360.73,1,0.47,-73.91,Central,2022-02-02,Second Class,Paper
+ORD-0083,CUST-3027,Office Supplies,114.29,8,0.12,-98.14,South,2022-03-09,Standard Class,Labels
+ORD-0084,CUST-3695,Technology,230.14,3,0.12,-29.81,West,2022-07-06,First Class,Phones
+ORD-0085,CUST-6258,Furniture,524.03,6,0.04,38.28,South,2022-07-11,First Class,Tables
+ORD-0086,CUST-6618,Office Supplies,611.68,7,0.46,-51.97,South,2022-08-01,Standard Class,Art
+ORD-0087,CUST-7736,Furniture,252.9,1,0.29,57.46,East,2023-08-23,Second Class,Bookcases
+ORD-0088,CUST-1391,Furniture,67.15,6,0.33,-117.31,South,2023-03-04,Second Class,Bookcases
+ORD-0089,CUST-6892,Office Supplies,397.12,7,0.46,288.86,South,2022-12-17,First Class,Labels
+ORD-0090,CUST-4561,Office Supplies,241.86,6,0.17,-146.04,East,2022-04-18,Standard Class,Binders
+ORD-0091,CUST-7184,Furniture,227.36,4,0.31,265.97,Central,2022-08-28,First Class,Chairs
+ORD-0092,CUST-4099,Furniture,960.26,1,0.02,256.79,Central,2022-08-04,First Class,Tables
+ORD-0093,CUST-7278,Technology,620.14,9,0.09,62.68,South,2022-06-26,Same Day,Phones
+ORD-0094,CUST-9392,Technology,561.31,4,0.42,162.46,East,2023-07-19,Second Class,Copiers
+ORD-0095,CUST-4104,Office Supplies,421.62,7,0.38,18.02,Central,2022-11-26,Second Class,Art
+ORD-0096,CUST-8215,Technology,434.65,7,0.18,115.02,East,2023-07-15,Same Day,Machines
+ORD-0097,CUST-3454,Technology,545.5,2,0.19,-29.71,West,2023-09-18,Second Class,Copiers
+ORD-0098,CUST-9996,Technology,699.47,1,0.27,-49.42,West,2023-03-26,Second Class,Phones
+ORD-0099,CUST-3731,Technology,705.12,8,0.0,89.11,West,2023-08-30,Second Class,Copiers
+ORD-0100,CUST-9154,Furniture,179.98,8,0.12,49.06,West,2023-03-23,Standard Class,Tables
+ORD-0101,CUST-6056,Office Supplies,505.11,7,0.1,89.77,South,2023-06-21,Same Day,Labels
+ORD-0102,CUST-9110,Technology,417.84,8,0.13,-56.67,West,2023-10-06,First Class,Machines
+ORD-0103,CUST-4840,Furniture,871.82,3,0.4,-16.52,West,2022-06-28,Standard Class,Chairs
+ORD-0104,CUST-2028,Furniture,635.1,2,0.14,-158.05,East,2023-01-30,First Class,Bookcases
+ORD-0105,CUST-8385,Furniture,537.18,7,0.1,-173.86,Central,2022-05-25,Same Day,Bookcases
+ORD-0106,CUST-1502,Technology,124.24,8,0.25,-73.27,East,2022-07-17,Same Day,Phones
+ORD-0107,CUST-7910,Technology,609.58,1,0.43,-162.88,South,2022-03-25,Same Day,Phones
+ORD-0108,CUST-7938,Office Supplies,126.03,9,0.12,-148.11,West,2023-10-31,Second Class,Paper
+ORD-0109,CUST-5488,Technology,343.83,4,0.04,206.46,Central,2022-03-26,Standard Class,Phones
+ORD-0110,CUST-1206,Technology,151.41,4,0.18,-180.56,Central,2023-04-02,Same Day,Copiers
+ORD-0111,CUST-6134,Furniture,695.15,3,0.37,129.47,West,2023-04-21,First Class,Tables
+ORD-0112,CUST-6977,Office Supplies,214.19,6,0.28,-63.72,West,2022-09-10,Second Class,Labels
+ORD-0113,CUST-8721,Technology,397.94,1,0.41,235.77,South,2022-03-13,Second Class,Copiers
+ORD-0114,CUST-8035,Technology,896.72,6,0.48,42.5,South,2022-08-11,Standard Class,Machines
+ORD-0115,CUST-2484,Furniture,212.27,2,0.4,-47.21,West,2022-10-03,Standard Class,Furnishings
+ORD-0116,CUST-8858,Furniture,512.73,9,0.3,58.82,West,2022-09-03,Standard Class,Furnishings
+ORD-0117,CUST-1863,Technology,425.08,2,0.25,-9.02,West,2022-12-07,Second Class,Copiers
+ORD-0118,CUST-3790,Office Supplies,27.94,7,0.02,82.15,West,2023-07-27,Same Day,Labels
+ORD-0119,CUST-8408,Office Supplies,794.83,1,0.49,-142.73,Central,2023-04-16,First Class,Art
+ORD-0120,CUST-9755,Furniture,78.36,7,0.19,298.5,South,2023-03-30,Same Day,Furnishings
+ORD-0121,CUST-6116,Furniture,479.51,5,0.08,12.78,West,2022-01-07,First Class,Chairs
+ORD-0122,CUST-7019,Technology,565.07,8,0.33,-25.88,West,2022-07-07,Same Day,Phones
+ORD-0123,CUST-2757,Furniture,632.14,4,0.14,155.1,Central,2022-01-04,Standard Class,Bookcases
+ORD-0124,CUST-8574,Technology,691.75,7,0.29,-18.05,East,2023-10-07,First Class,Machines
+ORD-0125,CUST-7374,Office Supplies,260.74,6,0.29,216.64,West,2022-05-05,Second Class,Labels
+ORD-0126,CUST-7892,Office Supplies,19.88,5,0.22,27.14,Central,2022-01-15,First Class,Labels
+ORD-0127,CUST-2678,Technology,726.21,4,0.42,159.78,Central,2023-06-09,Second Class,Phones
+ORD-0128,CUST-4242,Furniture,540.3,7,0.13,-146.27,East,2023-09-22,Same Day,Furnishings
+ORD-0129,CUST-5636,Office Supplies,837.76,5,0.22,223.06,South,2022-08-28,Standard Class,Labels
+ORD-0130,CUST-2059,Furniture,823.17,5,0.27,167.86,South,2022-12-26,First Class,Bookcases
+ORD-0131,CUST-7668,Office Supplies,844.89,1,0.33,-94.14,South,2023-06-02,Second Class,Labels
+ORD-0132,CUST-4157,Technology,490.24,2,0.39,-127.36,West,2022-11-16,Same Day,Phones
+ORD-0133,CUST-6915,Technology,340.29,5,0.2,-41.85,South,2022-08-19,Standard Class,Machines
+ORD-0134,CUST-3693,Technology,793.64,3,0.32,288.04,West,2022-01-30,Standard Class,Phones
+ORD-0135,CUST-4627,Office Supplies,456.78,2,0.08,-71.58,West,2023-06-18,Standard Class,Binders
+ORD-0136,CUST-6450,Furniture,191.61,4,0.47,28.06,Central,2022-06-05,Same Day,Tables
+ORD-0137,CUST-2663,Furniture,856.42,4,0.19,-184.99,South,2023-09-22,Same Day,Chairs
+ORD-0138,CUST-6592,Furniture,883.73,4,0.36,-1.39,South,2023-12-06,Same Day,Tables
+ORD-0139,CUST-8392,Office Supplies,471.65,4,0.01,85.66,South,2023-02-03,Standard Class,Paper
+ORD-0140,CUST-2306,Office Supplies,84.94,3,0.1,276.56,West,2022-12-12,First Class,Labels
+ORD-0141,CUST-7776,Office Supplies,393.95,7,0.24,58.37,West,2022-07-14,Second Class,Paper
+ORD-0142,CUST-6864,Office Supplies,805.5,9,0.44,209.55,South,2022-06-17,Same Day,Art
+ORD-0143,CUST-8526,Office Supplies,902.76,5,0.26,73.56,West,2023-01-12,First Class,Binders
+ORD-0144,CUST-9901,Furniture,211.44,4,0.46,-179.61,West,2023-05-04,Second Class,Bookcases
+ORD-0145,CUST-6575,Office Supplies,76.3,2,0.24,-42.5,East,2022-12-28,Standard Class,Paper
+ORD-0146,CUST-6530,Office Supplies,878.58,2,0.25,87.77,East,2023-04-27,First Class,Labels
+ORD-0147,CUST-5413,Furniture,395.51,5,0.06,275.3,South,2022-09-01,Standard Class,Chairs
+ORD-0148,CUST-4748,Office Supplies,546.34,7,0.4,229.57,South,2023-08-04,Second Class,Art
+ORD-0149,CUST-1663,Furniture,968.39,9,0.12,-85.82,East,2023-08-30,Same Day,Furnishings
+ORD-0150,CUST-2998,Furniture,75.9,7,0.45,-89.95,West,2023-08-12,Standard Class,Tables
+ORD-0151,CUST-8994,Technology,651.83,5,0.46,-99.41,West,2022-06-20,First Class,Machines
+ORD-0152,CUST-2495,Technology,83.36,6,0.47,261.25,Central,2023-05-28,Same Day,Copiers
+ORD-0153,CUST-4304,Technology,381.71,3,0.26,226.33,South,2023-02-10,First Class,Machines
+ORD-0154,CUST-4763,Technology,805.78,5,0.34,187.44,South,2023-07-28,Second Class,Copiers
+ORD-0155,CUST-6232,Office Supplies,439.14,8,0.39,-3.63,South,2022-07-26,Second Class,Labels
+ORD-0156,CUST-2853,Technology,997.21,1,0.07,52.19,Central,2022-06-03,Same Day,Phones
+ORD-0157,CUST-7585,Furniture,563.47,1,0.3,32.17,Central,2022-02-17,First Class,Furnishings
+ORD-0158,CUST-2291,Office Supplies,327.95,7,0.02,-73.3,West,2023-10-11,First Class,Binders
+ORD-0159,CUST-4581,Technology,227.91,5,0.25,52.51,East,2022-01-01,First Class,Copiers
+ORD-0160,CUST-8554,Furniture,357.02,5,0.08,-184.75,East,2023-02-11,First Class,Chairs
+ORD-0161,CUST-8280,Office Supplies,378.81,1,0.09,-134.09,East,2022-04-17,Second Class,Labels
+ORD-0162,CUST-2636,Office Supplies,78.03,9,0.18,243.29,West,2022-06-22,First Class,Binders
+ORD-0163,CUST-4696,Technology,375.88,1,0.22,175.84,East,2023-05-21,Second Class,Copiers
+ORD-0164,CUST-1698,Office Supplies,469.6,5,0.31,11.43,Central,2022-05-10,First Class,Labels
+ORD-0165,CUST-5737,Furniture,725.51,9,0.04,58.58,Central,2023-02-02,First Class,Chairs
+ORD-0166,CUST-1854,Office Supplies,660.16,4,0.25,-15.0,South,2022-10-21,Standard Class,Binders
+ORD-0167,CUST-9164,Furniture,711.68,8,0.09,170.39,East,2023-07-06,Standard Class,Tables
+ORD-0168,CUST-6855,Office Supplies,18.28,6,0.29,192.09,Central,2023-03-23,First Class,Binders
+ORD-0169,CUST-8392,Technology,225.49,3,0.32,181.64,South,2022-01-16,Second Class,Accessories
+ORD-0170,CUST-7528,Furniture,665.07,4,0.28,161.31,East,2023-10-01,First Class,Bookcases
+ORD-0171,CUST-6249,Office Supplies,489.15,2,0.37,-97.75,East,2022-12-15,Standard Class,Paper
+ORD-0172,CUST-6172,Office Supplies,15.26,1,0.17,-31.02,Central,2022-07-22,First Class,Art
+ORD-0173,CUST-2707,Office Supplies,806.45,8,0.38,34.92,South,2022-05-14,Standard Class,Binders
+ORD-0174,CUST-6791,Furniture,775.08,1,0.22,-34.6,South,2023-06-10,First Class,Chairs
+ORD-0175,CUST-6535,Furniture,552.93,1,0.24,177.47,Central,2023-05-23,Same Day,Tables
+ORD-0176,CUST-5931,Furniture,75.8,4,0.32,-35.32,Central,2022-03-07,First Class,Bookcases
+ORD-0177,CUST-4510,Technology,768.85,6,0.01,-130.88,Central,2023-04-25,Second Class,Phones
+ORD-0178,CUST-1202,Technology,587.88,9,0.33,-0.48,East,2023-04-04,Standard Class,Accessories
+ORD-0179,CUST-5218,Furniture,784.14,1,0.31,289.96,Central,2022-12-08,Same Day,Tables
+ORD-0180,CUST-9958,Office Supplies,754.23,7,0.15,-87.06,Central,2023-12-08,Standard Class,Paper
+ORD-0181,CUST-5389,Technology,804.97,5,0.04,106.08,West,2023-09-18,Standard Class,Phones
+ORD-0182,CUST-3327,Furniture,522.83,8,0.05,16.49,Central,2022-06-08,Second Class,Bookcases
+ORD-0183,CUST-9004,Office Supplies,148.92,7,0.46,-164.49,Central,2022-06-10,First Class,Binders
+ORD-0184,CUST-3931,Technology,674.45,4,0.34,43.94,East,2022-09-11,Second Class,Machines
+ORD-0185,CUST-8777,Office Supplies,624.27,4,0.06,151.08,South,2023-06-11,First Class,Labels
+ORD-0186,CUST-1197,Office Supplies,744.83,6,0.18,56.61,East,2023-07-03,Same Day,Binders
+ORD-0187,CUST-8125,Office Supplies,178.18,6,0.3,236.05,West,2022-06-04,Second Class,Art
+ORD-0188,CUST-2930,Office Supplies,203.03,9,0.42,-55.53,Central,2023-05-01,Second Class,Paper
+ORD-0189,CUST-7287,Technology,891.51,5,0.02,-156.88,Central,2023-03-08,Standard Class,Machines
+ORD-0190,CUST-9800,Technology,752.48,8,0.12,268.28,Central,2022-01-27,Second Class,Machines
+ORD-0191,CUST-5282,Technology,909.15,5,0.44,-10.9,Central,2022-01-12,First Class,Phones
+ORD-0192,CUST-3511,Furniture,761.13,2,0.0,88.2,Central,2022-03-08,Second Class,Furnishings
+ORD-0193,CUST-1659,Technology,601.18,6,0.1,196.0,Central,2023-06-26,Second Class,Machines
+ORD-0194,CUST-3811,Office Supplies,657.59,9,0.48,-37.84,West,2022-04-06,Same Day,Paper
+ORD-0195,CUST-8098,Technology,890.24,3,0.31,158.08,Central,2022-08-03,First Class,Accessories
+ORD-0196,CUST-7546,Office Supplies,583.02,1,0.13,-132.29,Central,2022-07-13,Standard Class,Art
+ORD-0197,CUST-2986,Furniture,636.07,1,0.03,-54.35,Central,2023-10-09,First Class,Furnishings
+ORD-0198,CUST-9338,Office Supplies,164.91,3,0.01,-127.64,West,2022-10-17,Same Day,Art
+ORD-0199,CUST-3911,Office Supplies,479.18,5,0.12,205.62,Central,2023-06-28,First Class,Art
+ORD-0200,CUST-2734,Office Supplies,719.23,3,0.44,-88.68,West,2022-02-08,First Class,Paper
+ORD-0201,CUST-2843,Furniture,278.23,9,0.21,158.7,East,2022-07-25,Second Class,Tables
+ORD-0202,CUST-9680,Technology,210.23,8,0.36,271.65,Central,2023-07-09,Second Class,Phones
+ORD-0203,CUST-3976,Technology,320.69,3,0.46,63.89,South,2023-04-29,First Class,Accessories
+ORD-0204,CUST-2959,Furniture,249.09,9,0.2,70.01,West,2022-12-03,First Class,Bookcases
+ORD-0205,CUST-6759,Office Supplies,222.76,6,0.1,30.52,East,2023-05-11,Standard Class,Labels
+ORD-0206,CUST-7694,Technology,430.6,7,0.26,-37.05,West,2022-09-06,Same Day,Copiers
+ORD-0207,CUST-3385,Furniture,908.76,4,0.45,37.83,West,2022-03-15,Second Class,Bookcases
+ORD-0208,CUST-5736,Technology,511.99,4,0.4,101.4,East,2023-01-08,Second Class,Copiers
+ORD-0209,CUST-2802,Furniture,196.04,2,0.03,293.0,Central,2023-12-03,Second Class,Tables
+ORD-0210,CUST-9155,Office Supplies,86.2,5,0.35,268.88,Central,2022-05-18,Second Class,Art
+ORD-0211,CUST-9120,Technology,699.19,8,0.29,231.08,West,2023-04-02,First Class,Phones
+ORD-0212,CUST-7616,Furniture,388.97,7,0.45,244.57,East,2023-03-20,First Class,Furnishings
+ORD-0213,CUST-6534,Technology,823.61,7,0.06,33.92,Central,2022-12-19,Standard Class,Accessories
+ORD-0214,CUST-5061,Technology,662.92,6,0.27,128.72,West,2023-02-15,Second Class,Copiers
+ORD-0215,CUST-1262,Technology,798.28,3,0.44,247.53,South,2023-11-09,Second Class,Phones
+ORD-0216,CUST-7287,Technology,279.23,5,0.21,-3.52,East,2023-06-22,First Class,Machines
+ORD-0217,CUST-9815,Furniture,695.44,1,0.24,280.88,South,2023-03-29,Standard Class,Bookcases
+ORD-0218,CUST-3049,Office Supplies,271.42,7,0.04,7.89,South,2023-02-23,First Class,Labels
+ORD-0219,CUST-6423,Furniture,939.68,9,0.14,100.54,West,2023-03-26,Second Class,Tables
+ORD-0220,CUST-5548,Furniture,640.01,1,0.16,154.9,East,2023-08-08,Second Class,Tables
+ORD-0221,CUST-4108,Furniture,331.27,2,0.47,275.3,Central,2022-04-25,Same Day,Chairs
+ORD-0222,CUST-8158,Office Supplies,276.82,3,0.14,-77.69,Central,2022-02-20,Same Day,Paper
+ORD-0223,CUST-8400,Technology,199.02,3,0.23,173.07,West,2023-01-04,Same Day,Phones
+ORD-0224,CUST-4170,Technology,697.69,8,0.34,60.41,Central,2023-11-14,Standard Class,Copiers
+ORD-0225,CUST-3255,Technology,226.53,7,0.08,-65.72,Central,2023-05-30,First Class,Machines
+ORD-0226,CUST-2154,Office Supplies,599.35,6,0.24,188.3,South,2022-07-29,Second Class,Paper
+ORD-0227,CUST-5499,Technology,271.99,4,0.37,76.11,South,2023-09-19,Second Class,Machines
+ORD-0228,CUST-7295,Office Supplies,665.35,9,0.43,130.49,East,2023-11-10,Standard Class,Labels
+ORD-0229,CUST-7197,Technology,816.79,1,0.31,-38.55,South,2023-03-11,Second Class,Copiers
+ORD-0230,CUST-2648,Technology,780.24,2,0.33,40.64,Central,2022-08-15,Second Class,Copiers
+ORD-0231,CUST-6539,Furniture,763.24,4,0.06,108.68,East,2023-10-25,First Class,Tables
+ORD-0232,CUST-5199,Office Supplies,195.85,3,0.47,2.46,East,2022-09-25,Same Day,Art
+ORD-0233,CUST-9445,Furniture,97.5,1,0.07,-100.81,West,2022-04-26,Same Day,Furnishings
+ORD-0234,CUST-3557,Furniture,701.96,5,0.39,280.82,South,2023-08-23,Standard Class,Chairs
+ORD-0235,CUST-6592,Furniture,374.66,7,0.13,55.73,East,2022-12-26,Same Day,Chairs
+ORD-0236,CUST-1098,Office Supplies,438.02,2,0.47,166.96,Central,2022-11-25,Same Day,Binders
+ORD-0237,CUST-3200,Office Supplies,40.84,5,0.36,5.52,East,2022-02-09,Standard Class,Paper
+ORD-0238,CUST-3961,Technology,266.98,6,0.38,-22.43,East,2022-07-01,Standard Class,Copiers
+ORD-0239,CUST-5973,Furniture,43.34,7,0.11,3.58,West,2023-05-05,Same Day,Bookcases
+ORD-0240,CUST-5433,Technology,880.39,1,0.22,4.6,Central,2022-07-28,First Class,Copiers
+ORD-0241,CUST-3869,Furniture,250.96,7,0.31,72.09,Central,2022-09-30,Standard Class,Bookcases
+ORD-0242,CUST-1956,Office Supplies,561.76,4,0.38,71.73,South,2022-04-29,Second Class,Labels
+ORD-0243,CUST-9352,Office Supplies,48.59,8,0.05,48.58,Central,2023-01-17,Standard Class,Binders
+ORD-0244,CUST-6699,Office Supplies,670.18,4,0.48,-132.61,East,2023-06-20,Second Class,Labels
+ORD-0245,CUST-7944,Furniture,329.8,6,0.45,48.04,Central,2022-09-15,Standard Class,Tables
+ORD-0246,CUST-5493,Office Supplies,898.94,9,0.14,-115.45,Central,2023-04-28,Standard Class,Binders
+ORD-0247,CUST-5911,Furniture,889.24,5,0.41,-136.93,East,2023-05-24,Same Day,Chairs
+ORD-0248,CUST-4987,Technology,332.04,4,0.26,266.32,West,2022-04-02,Same Day,Machines
+ORD-0249,CUST-7015,Furniture,901.95,8,0.23,102.48,South,2022-06-10,Same Day,Tables
+ORD-0250,CUST-2218,Technology,996.2,9,0.16,129.75,South,2022-05-29,First Class,Accessories
+ORD-0251,CUST-5496,Furniture,827.16,4,0.29,0.9,West,2022-04-27,Same Day,Chairs
+ORD-0252,CUST-5735,Technology,846.42,3,0.36,254.49,East,2023-04-03,Same Day,Copiers
+ORD-0253,CUST-5555,Office Supplies,256.52,8,0.21,118.97,South,2023-07-19,Standard Class,Paper
+ORD-0254,CUST-9050,Technology,580.94,5,0.31,184.58,West,2022-02-14,Standard Class,Machines
+ORD-0255,CUST-4446,Office Supplies,76.58,2,0.35,-15.72,West,2022-08-22,First Class,Paper
+ORD-0256,CUST-2045,Office Supplies,103.97,9,0.36,280.01,West,2023-01-10,Second Class,Binders
+ORD-0257,CUST-7893,Technology,998.9,3,0.03,210.23,South,2023-07-01,Standard Class,Copiers
+ORD-0258,CUST-2693,Furniture,333.37,2,0.43,226.97,South,2022-07-16,Standard Class,Tables
+ORD-0259,CUST-4436,Furniture,750.7,1,0.23,-113.9,South,2022-01-25,Second Class,Chairs
+ORD-0260,CUST-9754,Furniture,808.6,8,0.13,-64.52,South,2023-01-30,First Class,Tables
+ORD-0261,CUST-6895,Furniture,859.44,3,0.12,-57.19,Central,2023-12-15,Standard Class,Bookcases
+ORD-0262,CUST-4354,Furniture,997.65,7,0.24,-64.55,West,2022-02-05,Same Day,Furnishings
+ORD-0263,CUST-1225,Office Supplies,249.08,1,0.44,227.7,Central,2023-04-19,First Class,Binders
+ORD-0264,CUST-5893,Furniture,49.95,1,0.19,-184.06,West,2022-08-11,Second Class,Chairs
+ORD-0265,CUST-8022,Office Supplies,417.08,9,0.37,-161.95,South,2023-06-14,Second Class,Art
+ORD-0266,CUST-6600,Office Supplies,138.78,8,0.05,-63.04,South,2022-07-07,Same Day,Binders
+ORD-0267,CUST-8996,Office Supplies,32.2,3,0.24,-100.06,Central,2023-02-06,Same Day,Art
+ORD-0268,CUST-8683,Technology,366.82,6,0.5,-84.07,East,2022-09-14,Same Day,Phones
+ORD-0269,CUST-5642,Technology,785.9,3,0.39,198.97,South,2023-10-16,First Class,Copiers
+ORD-0270,CUST-8679,Office Supplies,570.52,4,0.11,81.56,East,2022-05-16,Second Class,Paper
+ORD-0271,CUST-9208,Technology,319.65,1,0.25,-197.11,West,2023-08-14,Same Day,Accessories
+ORD-0272,CUST-8339,Furniture,657.8,5,0.12,14.66,Central,2023-03-20,Same Day,Tables
+ORD-0273,CUST-3205,Furniture,239.7,1,0.2,3.94,East,2023-02-22,Second Class,Chairs
+ORD-0274,CUST-2069,Office Supplies,24.24,1,0.39,-143.03,East,2022-10-19,Standard Class,Art
+ORD-0275,CUST-4444,Furniture,766.71,7,0.39,138.07,South,2023-07-28,First Class,Bookcases
+ORD-0276,CUST-2060,Office Supplies,627.51,6,0.11,151.05,East,2022-05-09,Standard Class,Labels
+ORD-0277,CUST-3327,Office Supplies,764.68,2,0.46,160.45,East,2022-12-07,Same Day,Paper
+ORD-0278,CUST-4420,Furniture,48.55,2,0.3,164.24,West,2022-09-14,First Class,Furnishings
+ORD-0279,CUST-1301,Technology,838.75,7,0.19,-199.97,Central,2023-12-25,Standard Class,Accessories
+ORD-0280,CUST-1606,Furniture,623.33,1,0.25,276.96,South,2023-07-20,Second Class,Furnishings
+ORD-0281,CUST-4170,Furniture,567.76,2,0.3,207.1,South,2023-11-18,Same Day,Tables
+ORD-0282,CUST-1699,Office Supplies,628.37,8,0.28,251.99,East,2022-04-10,First Class,Art
+ORD-0283,CUST-6088,Office Supplies,865.79,6,0.24,-192.18,West,2022-02-08,First Class,Paper
+ORD-0284,CUST-1190,Office Supplies,591.07,2,0.25,266.93,East,2022-09-20,First Class,Binders
+ORD-0285,CUST-1980,Office Supplies,585.14,7,0.09,204.89,East,2022-05-30,First Class,Paper
+ORD-0286,CUST-3975,Technology,990.77,4,0.41,218.61,South,2023-09-25,Same Day,Accessories
+ORD-0287,CUST-7102,Technology,759.16,2,0.27,-153.36,East,2023-11-21,Same Day,Copiers
+ORD-0288,CUST-2184,Technology,447.87,6,0.07,169.39,East,2022-11-26,Second Class,Phones
+ORD-0289,CUST-4327,Office Supplies,710.32,9,0.38,279.96,West,2022-04-30,Second Class,Art
+ORD-0290,CUST-4394,Office Supplies,395.34,9,0.47,139.27,South,2023-08-07,Second Class,Labels
+ORD-0291,CUST-9319,Office Supplies,236.59,8,0.47,85.28,Central,2022-08-07,Standard Class,Labels
+ORD-0292,CUST-2816,Technology,600.88,3,0.18,272.81,West,2022-05-03,Second Class,Phones
+ORD-0293,CUST-6854,Office Supplies,928.9,3,0.07,21.47,West,2022-09-01,Same Day,Labels
+ORD-0294,CUST-7709,Furniture,929.85,2,0.26,99.65,West,2023-08-10,Standard Class,Chairs
+ORD-0295,CUST-1569,Furniture,348.49,5,0.06,38.17,South,2023-06-02,Same Day,Tables
+ORD-0296,CUST-6442,Office Supplies,532.4,4,0.47,266.42,East,2022-01-21,Standard Class,Labels
+ORD-0297,CUST-2895,Furniture,219.52,7,0.09,-161.96,Central,2022-07-09,Second Class,Tables
+ORD-0298,CUST-3733,Furniture,995.67,4,0.13,50.56,South,2022-08-13,Second Class,Bookcases
+ORD-0299,CUST-4863,Technology,981.31,9,0.2,143.48,East,2023-09-07,Second Class,Machines
+ORD-0300,CUST-8455,Office Supplies,653.01,2,0.19,195.95,West,2023-04-11,Standard Class,Art
+ORD-0301,CUST-5014,Office Supplies,806.37,6,0.4,91.51,South,2022-04-09,Same Day,Art
+ORD-0302,CUST-2686,Technology,717.95,7,0.23,254.46,East,2022-12-29,First Class,Phones
+ORD-0303,CUST-4009,Furniture,597.23,4,0.09,271.0,Central,2022-03-24,Same Day,Bookcases
+ORD-0304,CUST-8806,Furniture,62.81,6,0.13,-167.84,Central,2023-11-24,Second Class,Chairs
+ORD-0305,CUST-1154,Office Supplies,460.22,7,0.25,1.19,East,2023-10-26,Standard Class,Binders
+ORD-0306,CUST-2409,Furniture,678.04,4,0.07,-188.27,South,2022-02-25,Standard Class,Chairs
+ORD-0307,CUST-1784,Technology,680.76,8,0.31,-35.29,West,2023-12-03,Second Class,Phones
+ORD-0308,CUST-9096,Technology,379.39,9,0.28,68.43,East,2022-01-22,Standard Class,Phones
+ORD-0309,CUST-8560,Office Supplies,942.28,1,0.36,255.4,West,2023-08-03,Second Class,Paper
+ORD-0310,CUST-8343,Technology,175.68,7,0.47,223.28,Central,2022-07-04,Same Day,Phones
+ORD-0311,CUST-8206,Technology,505.36,9,0.46,-136.25,East,2023-06-06,Standard Class,Machines
+ORD-0312,CUST-6596,Office Supplies,693.98,5,0.47,-153.48,Central,2023-08-01,First Class,Binders
+ORD-0313,CUST-6801,Technology,700.16,2,0.12,94.63,West,2022-09-21,Standard Class,Accessories
+ORD-0314,CUST-3806,Technology,652.15,6,0.07,66.06,West,2022-08-13,Second Class,Machines
+ORD-0315,CUST-1537,Technology,282.54,7,0.15,-66.81,East,2023-09-27,First Class,Machines
+ORD-0316,CUST-6986,Furniture,164.64,2,0.45,249.73,East,2022-02-07,Second Class,Tables
+ORD-0317,CUST-2841,Office Supplies,639.58,2,0.49,263.68,East,2022-05-03,Standard Class,Labels
+ORD-0318,CUST-9716,Office Supplies,603.31,1,0.43,1.31,Central,2022-06-05,First Class,Paper
+ORD-0319,CUST-7971,Office Supplies,187.56,4,0.06,245.15,West,2022-10-28,First Class,Art
+ORD-0320,CUST-6625,Furniture,708.09,7,0.47,-8.03,West,2022-03-08,Standard Class,Bookcases
+ORD-0321,CUST-3950,Furniture,460.62,9,0.21,168.41,Central,2023-10-07,First Class,Chairs
+ORD-0322,CUST-8992,Office Supplies,671.08,3,0.0,37.97,East,2023-01-29,Same Day,Binders
+ORD-0323,CUST-5780,Furniture,838.99,7,0.22,-138.71,South,2023-10-14,First Class,Chairs
+ORD-0324,CUST-3368,Office Supplies,178.03,7,0.02,263.97,East,2023-08-17,First Class,Binders
+ORD-0325,CUST-7655,Furniture,28.95,7,0.27,27.05,South,2023-07-24,Same Day,Tables
+ORD-0326,CUST-9173,Technology,781.31,2,0.17,167.24,South,2023-10-23,Second Class,Copiers
+ORD-0327,CUST-5495,Technology,613.6,6,0.24,-16.41,Central,2023-02-09,Second Class,Accessories
+ORD-0328,CUST-7002,Office Supplies,702.64,2,0.31,-190.56,West,2023-03-25,Same Day,Labels
+ORD-0329,CUST-7614,Furniture,839.77,6,0.43,-149.73,West,2022-05-11,First Class,Furnishings
+ORD-0330,CUST-6919,Furniture,804.78,3,0.33,48.11,West,2022-03-10,Standard Class,Furnishings
+ORD-0331,CUST-1853,Technology,961.31,2,0.22,144.98,West,2022-12-11,Same Day,Machines
+ORD-0332,CUST-5146,Technology,540.58,6,0.41,-32.63,Central,2022-11-16,Standard Class,Machines
+ORD-0333,CUST-4769,Furniture,493.61,2,0.45,147.74,South,2022-06-26,Second Class,Bookcases
+ORD-0334,CUST-1574,Furniture,407.87,5,0.06,149.32,West,2023-08-07,Same Day,Tables
+ORD-0335,CUST-2148,Furniture,162.15,2,0.27,151.97,South,2023-06-13,Standard Class,Furnishings
+ORD-0336,CUST-7293,Furniture,576.88,3,0.14,46.26,Central,2022-06-09,First Class,Chairs
+ORD-0337,CUST-7457,Furniture,284.24,3,0.02,257.44,East,2023-08-05,Same Day,Bookcases
+ORD-0338,CUST-8509,Furniture,922.09,6,0.33,44.6,Central,2023-09-17,Standard Class,Chairs
+ORD-0339,CUST-5777,Office Supplies,587.36,6,0.43,25.13,West,2023-06-17,Same Day,Art
+ORD-0340,CUST-4854,Furniture,596.91,3,0.08,-100.31,East,2022-05-15,Same Day,Bookcases
+ORD-0341,CUST-3491,Technology,361.38,3,0.41,-46.17,Central,2022-04-21,Second Class,Phones
+ORD-0342,CUST-4124,Office Supplies,61.47,1,0.43,-178.83,Central,2022-10-10,Second Class,Binders
+ORD-0343,CUST-6691,Furniture,41.43,7,0.46,116.77,South,2023-06-04,First Class,Furnishings
+ORD-0344,CUST-4051,Technology,429.1,8,0.13,-75.73,Central,2023-12-20,Second Class,Phones
+ORD-0345,CUST-1004,Office Supplies,93.72,2,0.45,-47.92,East,2022-07-13,Second Class,Paper
+ORD-0346,CUST-6222,Technology,610.78,4,0.16,185.41,Central,2022-02-16,Second Class,Copiers
+ORD-0347,CUST-6315,Furniture,882.16,7,0.28,-36.39,West,2022-12-08,Standard Class,Bookcases
+ORD-0348,CUST-5869,Furniture,884.09,8,0.03,-78.9,South,2022-08-30,Same Day,Furnishings
+ORD-0349,CUST-1876,Furniture,662.45,1,0.02,-115.47,East,2023-06-06,Second Class,Bookcases
+ORD-0350,CUST-8027,Furniture,219.12,4,0.36,187.43,East,2023-01-05,Standard Class,Chairs
+ORD-0351,CUST-5142,Office Supplies,864.37,6,0.22,-135.15,Central,2022-05-11,Same Day,Art
+ORD-0352,CUST-7966,Office Supplies,887.23,3,0.13,26.88,West,2022-09-27,Second Class,Art
+ORD-0353,CUST-8079,Technology,204.69,5,0.1,53.47,South,2022-03-02,Second Class,Phones
+ORD-0354,CUST-8987,Furniture,740.05,9,0.33,143.69,East,2022-06-13,Same Day,Chairs
+ORD-0355,CUST-7799,Technology,293.65,3,0.0,116.64,South,2023-06-09,Standard Class,Copiers
+ORD-0356,CUST-5465,Office Supplies,804.61,5,0.4,205.36,Central,2022-09-29,Standard Class,Paper
+ORD-0357,CUST-1635,Furniture,997.27,8,0.04,-177.62,West,2023-12-21,First Class,Chairs
+ORD-0358,CUST-2693,Furniture,39.73,6,0.1,-51.78,Central,2022-05-13,Same Day,Tables
+ORD-0359,CUST-5752,Office Supplies,898.39,4,0.19,-59.93,South,2022-09-01,First Class,Paper
+ORD-0360,CUST-9311,Office Supplies,626.4,8,0.24,-126.99,Central,2023-03-10,Standard Class,Labels
+ORD-0361,CUST-1830,Office Supplies,973.65,3,0.18,-55.41,South,2022-02-07,Second Class,Paper
+ORD-0362,CUST-6177,Office Supplies,470.36,3,0.16,-45.12,East,2023-07-22,First Class,Labels
+ORD-0363,CUST-9932,Office Supplies,848.91,4,0.48,60.94,East,2022-11-15,Standard Class,Paper
+ORD-0364,CUST-9308,Furniture,71.77,9,0.32,131.85,Central,2023-05-25,Standard Class,Furnishings
+ORD-0365,CUST-6949,Office Supplies,341.93,5,0.01,-9.45,East,2023-01-11,Second Class,Binders
+ORD-0366,CUST-3838,Furniture,76.35,8,0.22,159.74,South,2023-07-14,Same Day,Bookcases
+ORD-0367,CUST-2150,Furniture,975.59,6,0.44,-31.92,East,2023-09-09,Standard Class,Bookcases
+ORD-0368,CUST-8560,Office Supplies,818.8,3,0.15,-54.86,West,2023-04-19,First Class,Labels
+ORD-0369,CUST-2931,Office Supplies,854.02,8,0.05,70.59,West,2022-02-28,Second Class,Binders
+ORD-0370,CUST-2664,Furniture,938.59,9,0.38,-188.14,Central,2023-08-12,Same Day,Furnishings
+ORD-0371,CUST-2081,Office Supplies,94.25,8,0.3,-160.11,Central,2023-05-14,Same Day,Labels
+ORD-0372,CUST-1512,Office Supplies,391.74,4,0.29,8.98,Central,2022-08-06,Same Day,Binders
+ORD-0373,CUST-8805,Office Supplies,80.32,6,0.03,271.46,Central,2023-07-21,Standard Class,Paper
+ORD-0374,CUST-6237,Technology,218.69,1,0.07,160.76,South,2023-07-21,Same Day,Accessories
+ORD-0375,CUST-1559,Furniture,237.07,4,0.31,-155.94,South,2022-05-09,Standard Class,Chairs
+ORD-0376,CUST-4672,Technology,474.42,8,0.1,223.16,West,2023-01-18,Second Class,Machines
+ORD-0377,CUST-8404,Office Supplies,275.88,1,0.25,166.15,South,2023-01-23,Second Class,Art
+ORD-0378,CUST-4343,Technology,109.97,3,0.27,105.47,East,2022-03-26,Same Day,Machines
+ORD-0379,CUST-5070,Office Supplies,175.82,1,0.14,210.15,West,2023-05-25,Second Class,Paper
+ORD-0380,CUST-1580,Technology,155.8,9,0.47,2.05,Central,2023-12-27,First Class,Phones
+ORD-0381,CUST-8004,Office Supplies,973.35,2,0.42,-89.25,Central,2023-09-19,First Class,Binders
+ORD-0382,CUST-9130,Technology,761.7,9,0.36,56.01,South,2023-03-13,Standard Class,Phones
+ORD-0383,CUST-4147,Technology,968.08,4,0.04,74.42,West,2022-10-20,Same Day,Accessories
+ORD-0384,CUST-5249,Technology,445.34,2,0.05,69.16,South,2022-02-18,Standard Class,Machines
+ORD-0385,CUST-2679,Furniture,285.58,4,0.25,82.54,South,2022-03-08,Second Class,Chairs
+ORD-0386,CUST-4506,Technology,800.31,6,0.08,274.35,South,2022-05-09,Same Day,Copiers
+ORD-0387,CUST-8253,Furniture,332.99,7,0.49,251.12,West,2022-01-29,Standard Class,Chairs
+ORD-0388,CUST-3744,Office Supplies,306.39,3,0.08,237.86,Central,2022-12-09,Same Day,Labels
+ORD-0389,CUST-6188,Technology,240.18,3,0.24,200.71,East,2023-06-29,Same Day,Accessories
+ORD-0390,CUST-3141,Office Supplies,138.38,8,0.18,271.71,Central,2022-04-29,Standard Class,Art
+ORD-0391,CUST-7617,Office Supplies,263.9,5,0.32,-150.75,West,2023-11-23,Same Day,Art
+ORD-0392,CUST-3479,Technology,361.77,4,0.06,-67.44,Central,2023-10-25,Second Class,Phones
+ORD-0393,CUST-7484,Furniture,677.25,7,0.22,47.53,Central,2022-05-13,First Class,Furnishings
+ORD-0394,CUST-8421,Technology,71.94,7,0.14,223.27,East,2022-11-23,First Class,Phones
+ORD-0395,CUST-5452,Office Supplies,218.4,9,0.44,52.58,Central,2022-07-04,Same Day,Art
+ORD-0396,CUST-6881,Office Supplies,810.93,9,0.02,174.02,Central,2023-05-21,First Class,Binders
+ORD-0397,CUST-7665,Technology,155.45,5,0.46,-130.52,Central,2023-10-08,Same Day,Machines
+ORD-0398,CUST-3849,Furniture,349.22,8,0.42,-73.79,South,2023-11-20,Standard Class,Tables
+ORD-0399,CUST-8390,Furniture,866.01,1,0.15,165.89,West,2023-06-18,Second Class,Bookcases
+ORD-0400,CUST-7905,Office Supplies,163.38,9,0.39,-117.63,West,2022-08-29,First Class,Labels
+ORD-0401,CUST-3489,Office Supplies,91.91,8,0.02,-24.32,East,2023-08-12,Standard Class,Binders
+ORD-0402,CUST-5611,Furniture,489.69,6,0.48,-67.57,South,2023-12-17,Second Class,Bookcases
+ORD-0403,CUST-3839,Technology,309.4,3,0.26,-25.07,South,2023-05-31,First Class,Phones
+ORD-0404,CUST-9527,Office Supplies,567.77,3,0.15,154.16,Central,2022-06-14,First Class,Binders
+ORD-0405,CUST-6878,Furniture,805.77,8,0.18,-16.08,West,2023-10-02,Second Class,Tables
+ORD-0406,CUST-7303,Office Supplies,145.78,5,0.03,77.63,East,2023-07-11,Standard Class,Binders
+ORD-0407,CUST-1851,Technology,584.89,7,0.49,-150.03,South,2022-08-06,Standard Class,Phones
+ORD-0408,CUST-2687,Furniture,510.45,5,0.02,202.51,Central,2023-10-10,First Class,Furnishings
+ORD-0409,CUST-7833,Office Supplies,152.64,8,0.33,-15.06,East,2023-11-11,Second Class,Binders
+ORD-0410,CUST-3427,Technology,627.76,4,0.22,124.27,South,2023-08-28,Standard Class,Accessories
+ORD-0411,CUST-5000,Office Supplies,280.9,2,0.47,162.69,East,2022-01-05,Second Class,Binders
+ORD-0412,CUST-6052,Technology,492.96,3,0.12,-95.17,South,2023-10-30,Second Class,Phones
+ORD-0413,CUST-3738,Technology,91.45,8,0.27,242.34,East,2022-03-22,First Class,Phones
+ORD-0414,CUST-6732,Furniture,464.99,7,0.24,108.11,South,2022-09-04,Second Class,Bookcases
+ORD-0415,CUST-6387,Technology,313.4,2,0.35,14.36,South,2023-05-08,Second Class,Accessories
+ORD-0416,CUST-9002,Office Supplies,824.16,6,0.03,-108.83,East,2023-10-11,Same Day,Art
+ORD-0417,CUST-6536,Technology,66.41,9,0.1,271.15,South,2023-01-21,Second Class,Accessories
+ORD-0418,CUST-4913,Technology,424.42,4,0.11,177.53,South,2023-07-29,Standard Class,Accessories
+ORD-0419,CUST-2066,Furniture,463.85,9,0.37,-95.99,South,2022-11-03,First Class,Furnishings
+ORD-0420,CUST-8723,Technology,727.76,2,0.09,-31.14,East,2023-09-20,First Class,Copiers
+ORD-0421,CUST-5380,Technology,578.54,2,0.29,204.84,East,2023-09-17,Second Class,Accessories
+ORD-0422,CUST-5107,Office Supplies,670.54,9,0.11,147.84,South,2023-06-27,Second Class,Paper
+ORD-0423,CUST-6726,Furniture,779.28,7,0.43,182.89,South,2022-01-07,Standard Class,Furnishings
+ORD-0424,CUST-4373,Furniture,863.58,7,0.47,20.6,East,2023-05-30,Same Day,Bookcases
+ORD-0425,CUST-9945,Furniture,320.74,1,0.26,158.24,Central,2023-07-22,First Class,Chairs
+ORD-0426,CUST-3082,Technology,542.64,6,0.18,-6.75,South,2022-03-14,Same Day,Machines
+ORD-0427,CUST-9967,Furniture,841.71,7,0.12,-94.37,Central,2022-01-10,Standard Class,Tables
+ORD-0428,CUST-7748,Technology,989.56,6,0.02,116.34,East,2023-07-27,First Class,Copiers
+ORD-0429,CUST-1417,Technology,890.62,6,0.13,288.01,South,2023-07-16,Standard Class,Accessories
+ORD-0430,CUST-9306,Office Supplies,377.75,2,0.33,-44.7,Central,2022-05-02,Second Class,Labels
+ORD-0431,CUST-9808,Office Supplies,203.21,6,0.27,30.48,East,2023-11-18,Standard Class,Labels
+ORD-0432,CUST-4974,Office Supplies,494.5,4,0.47,137.0,Central,2023-05-28,Second Class,Art
+ORD-0433,CUST-4267,Office Supplies,744.23,9,0.2,70.75,West,2023-03-17,Same Day,Labels
+ORD-0434,CUST-1825,Office Supplies,497.64,1,0.35,221.71,East,2022-02-07,First Class,Labels
+ORD-0435,CUST-8668,Technology,488.35,8,0.24,180.87,West,2023-12-03,First Class,Phones
+ORD-0436,CUST-6745,Technology,839.85,5,0.26,-170.85,East,2023-08-14,Same Day,Accessories
+ORD-0437,CUST-1412,Furniture,367.79,1,0.13,299.21,East,2022-12-11,Second Class,Chairs
+ORD-0438,CUST-8543,Technology,861.2,4,0.23,176.2,South,2022-12-04,First Class,Phones
+ORD-0439,CUST-8587,Technology,412.74,1,0.24,231.95,West,2023-12-03,Standard Class,Copiers
+ORD-0440,CUST-1728,Office Supplies,334.95,6,0.35,125.6,West,2022-07-03,Second Class,Labels
+ORD-0441,CUST-8164,Technology,459.45,2,0.47,228.14,West,2022-03-08,First Class,Accessories
+ORD-0442,CUST-9867,Office Supplies,764.82,5,0.16,-143.81,East,2022-01-17,Standard Class,Paper
+ORD-0443,CUST-6988,Furniture,134.74,7,0.02,-26.13,West,2023-01-18,Standard Class,Tables
+ORD-0444,CUST-3504,Furniture,204.46,2,0.25,238.21,West,2023-01-03,First Class,Furnishings
+ORD-0445,CUST-3967,Technology,951.93,6,0.27,-99.17,South,2022-11-12,Same Day,Accessories
+ORD-0446,CUST-3786,Furniture,183.74,6,0.08,-160.88,Central,2023-05-12,Same Day,Tables
+ORD-0447,CUST-2122,Technology,572.05,5,0.38,194.06,Central,2023-12-22,First Class,Machines
+ORD-0448,CUST-5079,Furniture,583.52,5,0.49,217.74,West,2022-12-11,Standard Class,Bookcases
+ORD-0449,CUST-2571,Office Supplies,494.73,3,0.47,-118.67,West,2023-07-07,Same Day,Paper
+ORD-0450,CUST-6073,Office Supplies,648.3,2,0.1,227.17,West,2023-04-18,Same Day,Labels
+ORD-0451,CUST-6104,Office Supplies,237.53,7,0.44,143.38,West,2022-04-25,Same Day,Binders
+ORD-0452,CUST-3143,Office Supplies,557.14,1,0.35,60.04,Central,2022-04-10,Second Class,Labels
+ORD-0453,CUST-7806,Technology,378.45,6,0.23,215.13,South,2023-03-14,Same Day,Phones
+ORD-0454,CUST-8357,Furniture,665.05,6,0.27,9.62,East,2022-12-11,First Class,Furnishings
+ORD-0455,CUST-4440,Technology,149.81,3,0.42,-103.0,West,2022-12-15,First Class,Accessories
+ORD-0456,CUST-4766,Office Supplies,575.17,2,0.24,-57.57,West,2022-05-19,Second Class,Art
+ORD-0457,CUST-6644,Technology,193.42,2,0.19,52.58,Central,2022-11-20,Second Class,Copiers
+ORD-0458,CUST-3914,Furniture,285.86,9,0.25,65.67,West,2022-10-29,First Class,Tables
+ORD-0459,CUST-5968,Technology,226.52,5,0.29,202.79,South,2022-10-21,Second Class,Phones
+ORD-0460,CUST-6917,Furniture,191.01,7,0.09,195.68,South,2023-06-13,Same Day,Furnishings
+ORD-0461,CUST-9787,Technology,827.45,5,0.45,90.68,West,2022-10-19,Standard Class,Accessories
+ORD-0462,CUST-1728,Furniture,292.85,7,0.34,190.39,Central,2022-03-15,Standard Class,Furnishings
+ORD-0463,CUST-2365,Furniture,927.85,4,0.32,-104.11,West,2023-04-29,Standard Class,Tables
+ORD-0464,CUST-5492,Office Supplies,970.23,8,0.05,-174.97,West,2022-01-16,First Class,Paper
+ORD-0465,CUST-1698,Furniture,575.55,7,0.3,236.82,Central,2023-06-10,Second Class,Furnishings
+ORD-0466,CUST-8186,Office Supplies,151.57,5,0.06,-162.22,South,2022-12-02,Standard Class,Art
+ORD-0467,CUST-1395,Office Supplies,380.8,6,0.04,-76.66,East,2023-05-31,Same Day,Art
+ORD-0468,CUST-8400,Office Supplies,799.75,5,0.26,147.66,West,2022-05-07,Same Day,Binders
+ORD-0469,CUST-9082,Technology,373.72,7,0.2,4.72,South,2023-06-02,Same Day,Machines
+ORD-0470,CUST-5171,Technology,96.15,2,0.29,238.16,West,2022-05-09,Second Class,Phones
+ORD-0471,CUST-5360,Technology,561.22,5,0.04,-51.01,East,2023-05-26,Standard Class,Accessories
+ORD-0472,CUST-3502,Technology,846.67,3,0.22,-194.06,Central,2023-02-27,Same Day,Phones
+ORD-0473,CUST-1717,Furniture,797.97,9,0.09,-49.67,South,2023-01-20,Second Class,Tables
+ORD-0474,CUST-3782,Furniture,183.37,6,0.49,89.04,East,2022-08-20,Same Day,Furnishings
+ORD-0475,CUST-5946,Technology,676.04,3,0.28,-12.03,West,2022-07-14,Standard Class,Machines
+ORD-0476,CUST-6486,Furniture,228.3,7,0.34,67.44,East,2022-03-06,Standard Class,Furnishings
+ORD-0477,CUST-9335,Furniture,226.03,4,0.16,238.3,South,2023-09-07,Standard Class,Furnishings
+ORD-0478,CUST-5980,Office Supplies,875.33,3,0.05,256.24,Central,2022-10-04,Standard Class,Binders
+ORD-0479,CUST-8266,Office Supplies,257.17,8,0.49,-67.01,West,2023-11-01,Standard Class,Paper
+ORD-0480,CUST-5491,Office Supplies,270.61,4,0.14,31.07,Central,2022-08-12,Same Day,Art
+ORD-0481,CUST-8192,Office Supplies,10.65,1,0.21,74.57,Central,2022-10-05,Standard Class,Labels
+ORD-0482,CUST-6588,Furniture,871.96,6,0.32,274.56,East,2023-11-25,Same Day,Furnishings
+ORD-0483,CUST-8651,Technology,794.67,1,0.01,299.31,East,2023-01-01,Standard Class,Accessories
+ORD-0484,CUST-4636,Furniture,631.06,5,0.41,-82.3,South,2023-05-31,Same Day,Bookcases
+ORD-0485,CUST-2167,Furniture,752.76,7,0.27,163.49,South,2022-08-03,Standard Class,Furnishings
+ORD-0486,CUST-2062,Furniture,160.53,6,0.14,-10.98,Central,2023-03-15,Same Day,Bookcases
+ORD-0487,CUST-3156,Office Supplies,463.74,2,0.03,-195.95,South,2023-03-04,Standard Class,Labels
+ORD-0488,CUST-8860,Office Supplies,357.71,4,0.08,-195.37,Central,2023-12-30,Second Class,Binders
+ORD-0489,CUST-6161,Office Supplies,102.84,2,0.45,30.28,West,2023-01-31,Same Day,Binders
+ORD-0490,CUST-6305,Technology,491.27,1,0.34,44.17,Central,2022-07-28,Second Class,Copiers
+ORD-0491,CUST-7541,Furniture,921.53,3,0.12,-188.72,South,2023-05-16,Same Day,Tables
+ORD-0492,CUST-5729,Technology,49.66,3,0.03,143.46,South,2023-04-08,Same Day,Accessories
+ORD-0493,CUST-8330,Office Supplies,298.55,7,0.35,-53.0,Central,2023-08-09,Same Day,Binders
+ORD-0494,CUST-6334,Technology,215.47,1,0.29,79.95,East,2022-08-15,First Class,Accessories
+ORD-0495,CUST-9924,Furniture,245.77,9,0.2,-49.54,Central,2023-01-10,Standard Class,Tables
+ORD-0496,CUST-5330,Furniture,909.35,6,0.18,-116.43,Central,2023-05-15,Second Class,Tables
+ORD-0497,CUST-9010,Office Supplies,473.39,4,0.11,3.59,East,2022-04-03,Second Class,Art
+ORD-0498,CUST-7801,Office Supplies,471.64,3,0.33,-83.86,West,2023-04-05,Same Day,Art
+ORD-0499,CUST-5846,Technology,762.97,3,0.49,67.4,East,2023-07-31,Second Class,Accessories
+ORD-0500,CUST-7731,Office Supplies,162.95,2,0.09,-100.59,South,2022-11-17,Second Class,Binders
+ORD-0501,CUST-8241,Office Supplies,492.39,2,0.3,54.2,East,2022-01-10,Second Class,Paper
+ORD-0502,CUST-1953,Furniture,435.69,5,0.21,-121.31,South,2022-10-30,Second Class,Furnishings
+ORD-0503,CUST-3539,Office Supplies,600.94,9,0.22,135.49,South,2022-11-18,First Class,Binders
+ORD-0504,CUST-8056,Office Supplies,999.56,2,0.13,176.97,Central,2023-04-01,Same Day,Art
+ORD-0505,CUST-2542,Furniture,771.75,2,0.41,-144.8,Central,2022-10-05,Second Class,Furnishings
+ORD-0506,CUST-6293,Furniture,403.89,6,0.24,33.9,West,2023-08-21,First Class,Tables
+ORD-0507,CUST-2191,Technology,829.28,2,0.27,-164.56,South,2023-06-22,First Class,Accessories
+ORD-0508,CUST-7313,Office Supplies,179.0,4,0.15,99.09,Central,2023-12-31,Same Day,Binders
+ORD-0509,CUST-7938,Furniture,40.16,6,0.09,-67.8,South,2023-01-28,Standard Class,Chairs
+ORD-0510,CUST-3681,Technology,212.4,5,0.04,63.81,West,2022-04-05,Standard Class,Accessories
+ORD-0511,CUST-2540,Technology,347.01,1,0.36,58.73,South,2022-04-17,Standard Class,Accessories
+ORD-0512,CUST-7172,Office Supplies,515.47,6,0.1,262.18,West,2023-01-25,Second Class,Binders
+ORD-0513,CUST-6541,Office Supplies,618.98,1,0.35,74.54,West,2023-06-10,Same Day,Labels
+ORD-0514,CUST-2365,Technology,911.5,3,0.2,91.5,West,2023-11-04,Standard Class,Copiers
+ORD-0515,CUST-9691,Furniture,514.76,5,0.21,0.83,Central,2022-03-12,Second Class,Chairs
+ORD-0516,CUST-9702,Technology,506.26,5,0.23,274.54,East,2023-10-26,Same Day,Machines
+ORD-0517,CUST-8494,Office Supplies,59.74,6,0.18,188.59,East,2023-08-10,Second Class,Paper
+ORD-0518,CUST-5312,Furniture,44.56,8,0.05,-57.3,Central,2023-01-11,Standard Class,Bookcases
+ORD-0519,CUST-2324,Furniture,555.65,5,0.15,222.1,South,2023-12-28,Standard Class,Furnishings
+ORD-0520,CUST-4141,Technology,443.8,1,0.33,16.2,Central,2023-01-03,First Class,Copiers
+ORD-0521,CUST-8419,Office Supplies,840.79,5,0.33,214.33,South,2022-02-20,First Class,Art
+ORD-0522,CUST-4486,Technology,169.07,3,0.14,211.44,West,2022-05-23,Same Day,Copiers
+ORD-0523,CUST-2810,Technology,34.72,4,0.23,-105.56,Central,2023-02-23,Second Class,Machines
+ORD-0524,CUST-7588,Technology,454.55,8,0.1,150.57,East,2023-07-02,Second Class,Machines
+ORD-0525,CUST-3923,Furniture,245.1,7,0.11,-54.68,South,2023-05-15,Standard Class,Tables
+ORD-0526,CUST-6301,Furniture,59.12,5,0.01,-51.25,Central,2022-06-16,Standard Class,Bookcases
+ORD-0527,CUST-5186,Office Supplies,727.35,2,0.45,-51.83,Central,2022-09-17,Same Day,Binders
+ORD-0528,CUST-9905,Office Supplies,120.48,6,0.11,162.78,South,2022-07-11,First Class,Binders
+ORD-0529,CUST-6977,Technology,612.24,6,0.11,-85.09,West,2022-07-21,Standard Class,Phones
+ORD-0530,CUST-5268,Technology,288.24,6,0.14,-199.55,West,2022-07-04,Second Class,Machines
+ORD-0531,CUST-5748,Technology,181.76,9,0.06,157.62,West,2022-06-07,Standard Class,Accessories
+ORD-0532,CUST-5849,Office Supplies,385.95,8,0.32,-114.41,West,2023-09-14,First Class,Labels
+ORD-0533,CUST-4709,Furniture,803.43,8,0.04,-147.76,South,2022-04-09,Second Class,Bookcases
+ORD-0534,CUST-7619,Furniture,398.17,1,0.07,-81.24,East,2022-08-29,First Class,Chairs
+ORD-0535,CUST-9647,Technology,753.26,5,0.32,-10.05,Central,2023-05-06,Same Day,Machines
+ORD-0536,CUST-4072,Technology,134.23,7,0.17,37.95,Central,2022-07-21,Same Day,Phones
+ORD-0537,CUST-7530,Technology,775.04,6,0.35,-177.71,West,2023-09-26,First Class,Machines
+ORD-0538,CUST-1504,Technology,244.56,5,0.28,285.29,South,2023-05-24,Second Class,Phones
+ORD-0539,CUST-2214,Office Supplies,680.62,8,0.13,158.03,East,2023-09-21,First Class,Art
+ORD-0540,CUST-2531,Furniture,570.12,3,0.33,-38.4,East,2022-04-06,Standard Class,Chairs
+ORD-0541,CUST-8576,Technology,929.85,6,0.06,-40.65,Central,2023-05-05,Standard Class,Copiers
+ORD-0542,CUST-1823,Office Supplies,393.45,5,0.27,24.27,West,2023-08-02,First Class,Art
+ORD-0543,CUST-1928,Technology,75.5,8,0.22,113.12,Central,2022-08-06,Standard Class,Machines
+ORD-0544,CUST-6029,Technology,28.96,4,0.13,-126.81,Central,2023-06-11,First Class,Machines
+ORD-0545,CUST-1133,Furniture,828.59,8,0.3,-105.54,East,2022-09-30,Standard Class,Furnishings
+ORD-0546,CUST-3105,Technology,529.49,2,0.44,229.72,South,2022-08-07,First Class,Copiers
+ORD-0547,CUST-4627,Furniture,777.49,9,0.5,-71.87,East,2023-10-21,Standard Class,Tables
+ORD-0548,CUST-7316,Furniture,242.08,9,0.3,-9.9,Central,2022-11-28,Second Class,Tables
+ORD-0549,CUST-2852,Furniture,351.63,6,0.2,235.64,West,2023-03-29,Second Class,Bookcases
+ORD-0550,CUST-5910,Office Supplies,39.8,4,0.11,131.57,West,2022-06-01,Standard Class,Art
+ORD-0551,CUST-5175,Office Supplies,961.88,4,0.13,-29.14,South,2022-12-13,First Class,Labels
+ORD-0552,CUST-6348,Furniture,671.19,6,0.24,141.85,South,2023-02-18,Standard Class,Furnishings
+ORD-0553,CUST-7190,Technology,933.87,5,0.18,-190.16,South,2023-06-11,Same Day,Machines
+ORD-0554,CUST-2256,Furniture,272.84,6,0.46,167.82,Central,2023-03-07,Same Day,Tables
+ORD-0555,CUST-4376,Technology,615.35,7,0.18,43.51,Central,2023-01-14,First Class,Accessories
+ORD-0556,CUST-6645,Furniture,681.71,7,0.19,206.59,South,2023-03-04,Standard Class,Bookcases
+ORD-0557,CUST-4486,Technology,324.37,9,0.19,277.32,West,2022-03-25,Standard Class,Accessories
+ORD-0558,CUST-4584,Office Supplies,849.63,8,0.42,262.89,West,2022-07-11,Second Class,Labels
+ORD-0559,CUST-9053,Technology,947.69,6,0.33,254.63,West,2022-02-10,First Class,Machines
+ORD-0560,CUST-4330,Furniture,886.01,6,0.31,56.08,Central,2022-11-05,Same Day,Furnishings
+ORD-0561,CUST-3703,Office Supplies,741.68,5,0.17,-19.93,East,2023-01-13,Same Day,Labels
+ORD-0562,CUST-9662,Technology,284.69,1,0.41,32.52,West,2022-05-16,First Class,Machines
+ORD-0563,CUST-9120,Technology,288.8,9,0.02,144.95,West,2022-04-16,Same Day,Phones
+ORD-0564,CUST-8114,Technology,963.73,9,0.44,242.0,West,2023-06-03,First Class,Copiers
+ORD-0565,CUST-2353,Technology,20.18,9,0.26,-96.51,South,2023-06-26,Same Day,Copiers
+ORD-0566,CUST-6063,Technology,718.89,8,0.2,259.1,Central,2022-05-06,Same Day,Accessories
+ORD-0567,CUST-9549,Office Supplies,709.18,3,0.25,207.59,South,2022-12-23,First Class,Labels
+ORD-0568,CUST-8575,Office Supplies,626.46,1,0.33,289.43,South,2023-02-04,First Class,Binders
+ORD-0569,CUST-1667,Office Supplies,990.21,8,0.01,240.13,East,2022-03-20,Same Day,Labels
+ORD-0570,CUST-5468,Office Supplies,318.76,7,0.44,-60.03,South,2023-01-24,Same Day,Labels
+ORD-0571,CUST-7819,Furniture,346.57,5,0.22,-147.02,East,2023-08-02,Second Class,Tables
+ORD-0572,CUST-4719,Office Supplies,88.15,7,0.17,-143.88,South,2023-06-19,Standard Class,Binders
+ORD-0573,CUST-3745,Technology,448.37,4,0.07,-54.39,West,2023-12-02,First Class,Phones
+ORD-0574,CUST-8483,Technology,268.44,9,0.22,107.09,Central,2022-03-15,First Class,Copiers
+ORD-0575,CUST-1539,Office Supplies,349.95,2,0.25,202.16,South,2022-01-05,Standard Class,Labels
+ORD-0576,CUST-5964,Technology,836.23,9,0.2,249.63,East,2023-04-08,Second Class,Phones
+ORD-0577,CUST-5835,Office Supplies,936.13,9,0.34,111.88,Central,2022-03-23,Same Day,Art
+ORD-0578,CUST-4775,Technology,193.88,5,0.21,-197.18,East,2023-06-21,Same Day,Phones
+ORD-0579,CUST-7042,Furniture,378.78,1,0.48,-106.84,West,2023-02-09,Second Class,Furnishings
+ORD-0580,CUST-8102,Furniture,929.34,7,0.3,-150.14,South,2023-05-29,Second Class,Bookcases
+ORD-0581,CUST-8312,Office Supplies,71.19,4,0.4,-18.34,Central,2022-10-05,Standard Class,Binders
+ORD-0582,CUST-6320,Office Supplies,101.44,9,0.05,50.68,West,2022-08-12,Standard Class,Paper
+ORD-0583,CUST-7132,Office Supplies,171.16,6,0.2,-178.3,South,2023-08-07,Same Day,Binders
+ORD-0584,CUST-8891,Technology,599.26,3,0.17,-25.76,South,2022-03-09,Second Class,Machines
+ORD-0585,CUST-3779,Office Supplies,158.97,6,0.28,-110.41,East,2022-11-16,Second Class,Paper
+ORD-0586,CUST-1924,Furniture,968.4,6,0.43,123.54,East,2023-08-29,Same Day,Chairs
+ORD-0587,CUST-2581,Technology,452.25,5,0.04,32.14,West,2022-01-19,Same Day,Phones
+ORD-0588,CUST-8714,Office Supplies,506.5,2,0.04,47.66,East,2023-10-02,Same Day,Art
+ORD-0589,CUST-4324,Technology,254.19,2,0.43,13.85,West,2022-12-09,Same Day,Machines
+ORD-0590,CUST-6713,Technology,476.25,7,0.11,278.01,West,2023-08-17,Same Day,Phones
+ORD-0591,CUST-8026,Office Supplies,665.29,2,0.33,-92.63,West,2022-12-09,Standard Class,Binders
+ORD-0592,CUST-1255,Technology,753.67,6,0.27,58.33,East,2022-04-07,Same Day,Phones
+ORD-0593,CUST-5804,Furniture,756.33,5,0.42,168.01,Central,2022-02-21,Second Class,Furnishings
+ORD-0594,CUST-2838,Furniture,582.11,4,0.06,78.42,West,2022-06-24,First Class,Tables
+ORD-0595,CUST-1009,Technology,905.32,7,0.06,264.51,Central,2022-12-04,Standard Class,Machines
+ORD-0596,CUST-3871,Office Supplies,819.23,8,0.28,-11.02,South,2023-11-25,Second Class,Art
+ORD-0597,CUST-9989,Technology,759.48,4,0.47,31.84,East,2022-12-19,First Class,Copiers
+ORD-0598,CUST-8409,Furniture,65.05,1,0.21,-155.74,East,2023-01-26,Standard Class,Furnishings
+ORD-0599,CUST-8418,Technology,16.81,1,0.16,104.5,Central,2022-04-25,Same Day,Phones
+ORD-0600,CUST-6124,Technology,220.32,1,0.3,-55.89,South,2022-12-14,Standard Class,Phones
+ORD-0601,CUST-2015,Furniture,666.89,1,0.47,-119.85,South,2022-01-01,Same Day,Tables
+ORD-0602,CUST-3193,Technology,417.09,5,0.42,72.27,West,2022-03-04,Same Day,Machines
+ORD-0603,CUST-9415,Technology,408.38,4,0.5,66.16,East,2022-08-14,Same Day,Machines
+ORD-0604,CUST-8449,Office Supplies,885.74,9,0.01,-162.06,South,2023-02-27,First Class,Binders
+ORD-0605,CUST-5158,Office Supplies,896.61,3,0.06,149.11,South,2022-01-19,Standard Class,Art
+ORD-0606,CUST-4925,Furniture,910.08,7,0.3,111.89,West,2022-01-31,Same Day,Bookcases
+ORD-0607,CUST-7970,Furniture,320.74,8,0.41,-105.49,West,2023-09-25,Second Class,Tables
+ORD-0608,CUST-7938,Furniture,694.15,6,0.14,34.72,Central,2022-01-24,Standard Class,Tables
+ORD-0609,CUST-5784,Office Supplies,278.92,1,0.12,160.16,East,2022-07-30,Second Class,Art
+ORD-0610,CUST-5000,Furniture,198.7,8,0.39,64.72,South,2022-06-10,First Class,Furnishings
+ORD-0611,CUST-2633,Furniture,192.79,3,0.03,-2.26,Central,2022-09-12,First Class,Tables
+ORD-0612,CUST-8266,Furniture,348.69,8,0.18,-38.83,East,2023-07-25,Standard Class,Chairs
+ORD-0613,CUST-9702,Office Supplies,435.66,4,0.25,105.2,Central,2022-04-24,First Class,Labels
+ORD-0614,CUST-1384,Technology,832.64,8,0.28,269.55,East,2023-05-19,First Class,Phones
+ORD-0615,CUST-1404,Furniture,128.69,1,0.36,135.87,East,2023-11-03,Standard Class,Tables
+ORD-0616,CUST-9175,Technology,737.58,3,0.18,-162.63,South,2022-08-08,Second Class,Copiers
+ORD-0617,CUST-3000,Furniture,536.14,6,0.31,30.34,East,2022-12-23,Same Day,Tables
+ORD-0618,CUST-6989,Technology,295.07,9,0.29,245.41,West,2022-06-18,Standard Class,Copiers
+ORD-0619,CUST-2460,Office Supplies,497.89,2,0.27,-152.77,South,2023-06-08,Standard Class,Labels
+ORD-0620,CUST-8190,Office Supplies,306.94,1,0.32,294.44,West,2022-08-30,Same Day,Paper
+ORD-0621,CUST-8140,Furniture,600.12,3,0.13,274.53,Central,2023-01-10,Second Class,Tables
+ORD-0622,CUST-4636,Technology,439.51,4,0.04,-160.86,Central,2022-05-19,Same Day,Accessories
+ORD-0623,CUST-5809,Office Supplies,172.76,5,0.06,266.71,East,2022-04-07,Same Day,Labels
+ORD-0624,CUST-5178,Furniture,125.42,3,0.11,-18.43,East,2022-05-27,Second Class,Chairs
+ORD-0625,CUST-8245,Furniture,551.23,2,0.25,222.35,West,2022-07-01,Second Class,Chairs
+ORD-0626,CUST-7600,Office Supplies,903.39,2,0.42,9.19,West,2022-02-26,Same Day,Art
+ORD-0627,CUST-6997,Office Supplies,350.52,7,0.35,20.43,West,2022-02-11,Same Day,Paper
+ORD-0628,CUST-3048,Furniture,735.67,9,0.39,117.12,Central,2023-12-12,Standard Class,Chairs
+ORD-0629,CUST-5780,Technology,662.07,2,0.18,187.24,West,2023-06-27,Second Class,Machines
+ORD-0630,CUST-1716,Technology,932.24,7,0.2,-183.11,South,2023-11-23,First Class,Accessories
+ORD-0631,CUST-8939,Technology,822.77,7,0.2,96.58,South,2022-01-02,Second Class,Copiers
+ORD-0632,CUST-6565,Furniture,570.94,7,0.1,-106.63,Central,2022-10-15,Same Day,Chairs
+ORD-0633,CUST-5544,Office Supplies,660.46,3,0.03,-27.03,West,2022-05-18,Same Day,Labels
+ORD-0634,CUST-5976,Furniture,899.4,7,0.3,-26.02,West,2023-09-09,Same Day,Furnishings
+ORD-0635,CUST-4419,Office Supplies,405.52,1,0.49,34.53,East,2023-05-27,Same Day,Art
+ORD-0636,CUST-8239,Technology,333.53,1,0.08,-32.93,South,2023-12-31,First Class,Phones
+ORD-0637,CUST-1249,Technology,20.7,5,0.02,-146.32,Central,2022-08-10,Second Class,Accessories
+ORD-0638,CUST-9865,Office Supplies,828.29,2,0.39,-127.19,West,2022-11-27,First Class,Labels
+ORD-0639,CUST-1770,Office Supplies,802.97,9,0.13,-183.28,East,2023-09-09,First Class,Art
+ORD-0640,CUST-5363,Furniture,113.41,7,0.41,35.12,Central,2023-02-08,Same Day,Furnishings
+ORD-0641,CUST-2077,Technology,581.09,4,0.35,277.22,Central,2023-05-23,First Class,Machines
+ORD-0642,CUST-9427,Furniture,469.34,4,0.47,-142.16,South,2022-05-07,Same Day,Chairs
+ORD-0643,CUST-9580,Furniture,127.52,2,0.2,273.13,West,2022-09-22,Same Day,Chairs
+ORD-0644,CUST-8901,Furniture,980.76,5,0.33,166.68,Central,2023-12-13,Same Day,Tables
+ORD-0645,CUST-5858,Technology,222.55,4,0.23,118.75,East,2022-01-15,First Class,Machines
+ORD-0646,CUST-7544,Furniture,76.56,1,0.32,122.64,East,2022-08-14,Same Day,Bookcases
+ORD-0647,CUST-5719,Furniture,598.9,8,0.22,213.36,Central,2022-04-15,First Class,Furnishings
+ORD-0648,CUST-3814,Furniture,741.48,3,0.09,-146.54,East,2023-05-08,Second Class,Bookcases
+ORD-0649,CUST-4374,Furniture,42.12,6,0.25,52.38,Central,2022-11-15,Same Day,Furnishings
+ORD-0650,CUST-2252,Furniture,662.13,4,0.26,148.55,East,2022-08-07,Standard Class,Bookcases
+ORD-0651,CUST-7996,Furniture,536.97,9,0.41,93.41,Central,2022-10-04,Standard Class,Furnishings
+ORD-0652,CUST-5673,Technology,112.23,7,0.37,216.39,Central,2022-12-07,Standard Class,Machines
+ORD-0653,CUST-5530,Furniture,180.8,9,0.33,-163.86,Central,2023-03-28,Standard Class,Tables
+ORD-0654,CUST-7881,Office Supplies,572.29,3,0.06,145.35,East,2023-01-04,Standard Class,Binders
+ORD-0655,CUST-7949,Furniture,303.39,1,0.36,67.01,Central,2023-04-19,First Class,Chairs
+ORD-0656,CUST-7241,Furniture,938.93,5,0.25,-10.42,South,2022-07-09,Second Class,Bookcases
+ORD-0657,CUST-9017,Technology,820.55,3,0.45,-29.86,Central,2023-02-23,First Class,Machines
+ORD-0658,CUST-7941,Technology,983.73,6,0.46,110.42,West,2023-12-11,Same Day,Machines
+ORD-0659,CUST-8002,Office Supplies,267.07,8,0.03,245.5,West,2023-05-10,Second Class,Binders
+ORD-0660,CUST-2331,Office Supplies,970.03,4,0.41,48.09,South,2022-02-08,Second Class,Art
+ORD-0661,CUST-5261,Technology,436.92,5,0.02,212.36,Central,2022-06-11,Second Class,Accessories
+ORD-0662,CUST-8648,Technology,354.04,5,0.18,1.08,West,2022-05-01,Second Class,Accessories
+ORD-0663,CUST-6115,Furniture,59.85,4,0.27,-148.8,Central,2023-02-03,Standard Class,Tables
+ORD-0664,CUST-5637,Technology,62.24,4,0.07,-169.25,West,2022-09-19,Same Day,Machines
+ORD-0665,CUST-5854,Office Supplies,695.09,4,0.37,-174.33,East,2023-12-29,Second Class,Art
+ORD-0666,CUST-4177,Furniture,463.35,4,0.0,-9.92,East,2023-07-15,Second Class,Chairs
+ORD-0667,CUST-8730,Office Supplies,234.26,4,0.08,-31.38,South,2023-08-27,Standard Class,Labels
+ORD-0668,CUST-3180,Furniture,617.83,5,0.29,158.97,South,2022-05-09,First Class,Furnishings
+ORD-0669,CUST-5892,Technology,260.33,2,0.36,171.41,Central,2023-06-24,First Class,Accessories
+ORD-0670,CUST-8043,Office Supplies,581.86,2,0.46,-174.57,South,2022-12-22,First Class,Art
+ORD-0671,CUST-1137,Furniture,365.62,9,0.35,-89.44,Central,2023-10-22,Same Day,Bookcases
+ORD-0672,CUST-7327,Furniture,825.32,2,0.34,-62.87,East,2023-03-08,First Class,Tables
+ORD-0673,CUST-4472,Technology,822.49,6,0.2,73.81,East,2022-03-06,Second Class,Accessories
+ORD-0674,CUST-6449,Technology,482.58,2,0.0,-127.74,West,2022-08-06,Standard Class,Accessories
+ORD-0675,CUST-3832,Technology,357.31,5,0.06,-133.03,Central,2023-07-17,Standard Class,Machines
+ORD-0676,CUST-4579,Office Supplies,368.93,4,0.27,271.89,East,2023-03-03,First Class,Labels
+ORD-0677,CUST-6971,Furniture,807.66,7,0.34,202.1,East,2022-03-15,Standard Class,Furnishings
+ORD-0678,CUST-5164,Technology,334.9,7,0.21,-109.67,Central,2023-04-05,Second Class,Phones
+ORD-0679,CUST-8941,Office Supplies,216.97,6,0.37,3.28,West,2023-03-01,First Class,Binders
+ORD-0680,CUST-6569,Office Supplies,93.84,5,0.26,-22.19,West,2023-12-12,Second Class,Art
+ORD-0681,CUST-5300,Office Supplies,472.03,1,0.04,195.5,West,2022-07-11,Same Day,Paper
+ORD-0682,CUST-7269,Technology,487.31,3,0.1,55.11,West,2022-07-08,Second Class,Accessories
+ORD-0683,CUST-4818,Technology,842.5,9,0.42,-136.08,East,2022-01-12,Second Class,Machines
+ORD-0684,CUST-2906,Furniture,229.03,1,0.36,169.5,Central,2022-08-27,Second Class,Chairs
+ORD-0685,CUST-7254,Furniture,387.18,5,0.45,-1.56,Central,2023-08-16,Second Class,Tables
+ORD-0686,CUST-1760,Technology,810.32,2,0.06,-68.54,East,2023-03-29,Same Day,Copiers
+ORD-0687,CUST-8830,Office Supplies,825.39,4,0.5,-12.25,East,2023-01-18,First Class,Paper
+ORD-0688,CUST-8350,Office Supplies,390.76,1,0.1,48.88,East,2022-02-17,Second Class,Labels
+ORD-0689,CUST-7238,Office Supplies,464.53,3,0.01,-28.44,South,2022-11-13,First Class,Labels
+ORD-0690,CUST-7090,Furniture,310.25,7,0.5,-79.05,Central,2022-07-28,Standard Class,Chairs
+ORD-0691,CUST-7031,Office Supplies,933.23,3,0.14,-0.75,Central,2023-07-01,Second Class,Art
+ORD-0692,CUST-8687,Furniture,127.46,4,0.33,-190.41,Central,2022-04-29,Second Class,Bookcases
+ORD-0693,CUST-9472,Furniture,934.41,2,0.09,186.25,West,2023-07-31,Standard Class,Tables
+ORD-0694,CUST-2887,Office Supplies,687.03,3,0.29,-114.53,East,2022-11-11,First Class,Art
+ORD-0695,CUST-4266,Office Supplies,536.26,9,0.45,-178.05,East,2022-02-05,Same Day,Paper
+ORD-0696,CUST-1666,Technology,42.33,3,0.16,126.85,East,2023-04-08,Second Class,Accessories
+ORD-0697,CUST-5188,Technology,480.84,5,0.34,186.97,South,2023-07-08,Standard Class,Phones
+ORD-0698,CUST-1671,Office Supplies,413.67,2,0.09,206.91,Central,2023-08-04,Standard Class,Art
+ORD-0699,CUST-7777,Furniture,169.61,4,0.31,46.75,East,2023-02-07,Second Class,Furnishings
+ORD-0700,CUST-8570,Furniture,659.85,7,0.17,-97.32,South,2022-04-17,First Class,Tables
+ORD-0701,CUST-8956,Furniture,971.44,7,0.11,168.61,East,2022-02-08,First Class,Tables
+ORD-0702,CUST-6124,Furniture,566.57,3,0.16,149.86,West,2023-08-04,Second Class,Tables
+ORD-0703,CUST-6585,Furniture,717.61,5,0.09,-76.86,Central,2022-06-29,Standard Class,Bookcases
+ORD-0704,CUST-5777,Technology,77.77,1,0.45,251.7,South,2022-01-12,Second Class,Copiers
+ORD-0705,CUST-4900,Office Supplies,423.49,1,0.2,-147.81,East,2022-12-05,Same Day,Art
+ORD-0706,CUST-7677,Technology,125.19,5,0.12,291.34,Central,2023-12-17,Same Day,Accessories
+ORD-0707,CUST-7981,Furniture,616.67,9,0.22,230.12,South,2023-07-02,First Class,Furnishings
+ORD-0708,CUST-7376,Furniture,939.1,1,0.16,143.95,Central,2022-05-06,Same Day,Furnishings
+ORD-0709,CUST-1523,Furniture,665.16,1,0.37,269.37,Central,2022-03-04,Standard Class,Bookcases
+ORD-0710,CUST-3393,Furniture,86.04,4,0.49,161.16,West,2022-03-23,Same Day,Furnishings
+ORD-0711,CUST-3593,Office Supplies,361.12,4,0.22,-104.77,Central,2022-10-26,Second Class,Paper
+ORD-0712,CUST-8240,Furniture,555.16,2,0.43,21.08,South,2022-02-03,Standard Class,Bookcases
+ORD-0713,CUST-7937,Office Supplies,409.18,9,0.28,-164.25,Central,2023-09-01,First Class,Art
+ORD-0714,CUST-7190,Furniture,835.31,9,0.08,-5.17,South,2022-02-18,First Class,Tables
+ORD-0715,CUST-6240,Office Supplies,816.52,2,0.35,170.8,Central,2023-10-20,Same Day,Art
+ORD-0716,CUST-7493,Technology,615.71,9,0.26,-6.78,East,2023-09-29,First Class,Accessories
+ORD-0717,CUST-3878,Furniture,379.72,6,0.33,-34.85,West,2023-12-02,Second Class,Bookcases
+ORD-0718,CUST-5143,Office Supplies,262.78,8,0.44,97.68,East,2022-02-26,Standard Class,Labels
+ORD-0719,CUST-4644,Technology,114.82,4,0.22,236.1,West,2022-04-19,Second Class,Copiers
+ORD-0720,CUST-5432,Furniture,361.35,2,0.45,-176.21,South,2023-06-01,Second Class,Bookcases
+ORD-0721,CUST-2276,Furniture,419.04,2,0.38,-7.26,West,2022-01-24,Second Class,Bookcases
+ORD-0722,CUST-6811,Furniture,679.06,9,0.24,-120.88,Central,2022-08-09,Second Class,Chairs
+ORD-0723,CUST-1302,Office Supplies,661.58,1,0.3,147.68,Central,2022-11-11,Standard Class,Labels
+ORD-0724,CUST-1638,Office Supplies,79.41,7,0.16,-147.14,East,2022-10-21,Standard Class,Paper
+ORD-0725,CUST-1055,Technology,401.31,3,0.49,132.4,West,2022-01-10,Second Class,Phones
+ORD-0726,CUST-9717,Office Supplies,189.96,3,0.33,-56.91,South,2023-11-08,Second Class,Labels
+ORD-0727,CUST-9150,Office Supplies,165.24,2,0.02,-100.54,South,2023-04-26,First Class,Art
+ORD-0728,CUST-3125,Furniture,829.03,6,0.16,268.18,Central,2023-12-28,First Class,Bookcases
+ORD-0729,CUST-1364,Furniture,51.5,2,0.31,-190.74,South,2023-09-30,Standard Class,Tables
+ORD-0730,CUST-7809,Furniture,424.99,4,0.03,18.89,Central,2022-09-24,First Class,Tables
+ORD-0731,CUST-5621,Furniture,176.52,9,0.01,-189.19,Central,2022-03-29,Standard Class,Furnishings
+ORD-0732,CUST-6126,Furniture,880.54,9,0.23,41.8,Central,2023-03-31,Standard Class,Furnishings
+ORD-0733,CUST-6122,Furniture,561.47,6,0.17,50.52,East,2023-09-18,Same Day,Tables
+ORD-0734,CUST-2646,Furniture,239.07,4,0.22,-39.17,East,2023-06-17,Standard Class,Furnishings
+ORD-0735,CUST-1918,Technology,507.4,7,0.13,-133.92,Central,2022-05-28,First Class,Accessories
+ORD-0736,CUST-3797,Technology,734.17,1,0.08,-11.81,Central,2023-12-30,Same Day,Copiers
+ORD-0737,CUST-7506,Technology,958.54,4,0.34,136.13,Central,2023-03-07,First Class,Accessories
+ORD-0738,CUST-6870,Technology,228.24,5,0.26,191.2,South,2022-08-30,Standard Class,Phones
+ORD-0739,CUST-2531,Furniture,887.32,8,0.1,65.38,Central,2023-12-03,Standard Class,Tables
+ORD-0740,CUST-9172,Technology,934.96,2,0.16,94.92,Central,2022-03-07,Second Class,Accessories
+ORD-0741,CUST-4345,Furniture,917.26,5,0.3,-99.69,West,2023-01-13,Standard Class,Chairs
+ORD-0742,CUST-8673,Technology,639.06,6,0.04,-56.33,West,2023-01-23,Same Day,Phones
+ORD-0743,CUST-7949,Office Supplies,633.52,5,0.07,-119.05,West,2022-07-28,Standard Class,Binders
+ORD-0744,CUST-7882,Technology,409.18,9,0.04,-75.35,West,2023-02-19,Second Class,Phones
+ORD-0745,CUST-2906,Technology,754.87,1,0.41,-87.56,Central,2022-01-16,Standard Class,Accessories
+ORD-0746,CUST-4086,Furniture,535.98,3,0.38,59.72,West,2022-10-24,Standard Class,Furnishings
+ORD-0747,CUST-9152,Technology,680.66,2,0.38,81.34,South,2022-08-08,Standard Class,Phones
+ORD-0748,CUST-6750,Office Supplies,434.17,3,0.36,272.47,South,2023-01-02,Second Class,Art
+ORD-0749,CUST-9905,Furniture,734.18,9,0.33,-102.21,West,2022-08-17,First Class,Tables
+ORD-0750,CUST-2062,Furniture,826.23,9,0.24,120.84,East,2023-09-23,Standard Class,Furnishings
+ORD-0751,CUST-2976,Technology,154.97,2,0.32,208.63,South,2023-03-16,Same Day,Copiers
+ORD-0752,CUST-2296,Furniture,834.6,3,0.02,80.12,South,2023-11-21,Second Class,Tables
+ORD-0753,CUST-7229,Furniture,544.89,4,0.31,-72.5,West,2023-06-16,Same Day,Tables
+ORD-0754,CUST-8641,Furniture,846.22,9,0.39,-68.72,West,2023-03-26,Standard Class,Bookcases
+ORD-0755,CUST-1125,Furniture,436.99,3,0.25,-180.37,Central,2022-02-05,Second Class,Chairs
+ORD-0756,CUST-5632,Furniture,385.25,7,0.18,-47.28,South,2023-02-26,Standard Class,Chairs
+ORD-0757,CUST-7288,Furniture,915.91,3,0.14,172.3,West,2023-09-12,Same Day,Bookcases
+ORD-0758,CUST-4596,Office Supplies,258.66,7,0.32,-176.24,West,2022-07-08,Second Class,Labels
+ORD-0759,CUST-7168,Technology,845.77,7,0.35,-90.35,Central,2022-06-27,First Class,Phones
+ORD-0760,CUST-8561,Office Supplies,489.18,9,0.44,153.12,South,2023-08-31,First Class,Paper
+ORD-0761,CUST-9258,Furniture,518.95,2,0.17,191.33,West,2022-11-11,First Class,Tables
+ORD-0762,CUST-1232,Furniture,315.38,6,0.38,27.66,Central,2022-01-20,Standard Class,Furnishings
+ORD-0763,CUST-7371,Technology,577.31,9,0.28,149.04,West,2023-11-07,Second Class,Accessories
+ORD-0764,CUST-5206,Office Supplies,331.96,2,0.44,-6.02,East,2023-01-17,Same Day,Binders
+ORD-0765,CUST-8943,Technology,48.88,2,0.26,-120.04,East,2023-09-01,Same Day,Machines
+ORD-0766,CUST-7891,Office Supplies,279.28,5,0.26,-0.93,West,2022-05-23,Standard Class,Binders
+ORD-0767,CUST-7738,Furniture,16.32,8,0.29,89.98,South,2022-03-03,Standard Class,Furnishings
+ORD-0768,CUST-3472,Technology,978.57,9,0.37,274.03,East,2022-08-30,Same Day,Copiers
+ORD-0769,CUST-3739,Technology,966.09,2,0.48,-165.62,Central,2022-08-26,Second Class,Accessories
+ORD-0770,CUST-6401,Furniture,401.2,5,0.04,53.7,West,2022-05-11,Standard Class,Furnishings
+ORD-0771,CUST-2761,Technology,731.09,7,0.03,-35.54,Central,2023-08-28,Second Class,Copiers
+ORD-0772,CUST-1876,Office Supplies,352.35,6,0.47,54.16,East,2023-08-26,Same Day,Binders
+ORD-0773,CUST-4812,Office Supplies,674.38,6,0.26,-188.01,South,2023-10-07,Second Class,Art
+ORD-0774,CUST-2460,Office Supplies,807.38,7,0.31,-43.49,Central,2022-05-03,First Class,Binders
+ORD-0775,CUST-2733,Office Supplies,947.29,3,0.24,209.93,East,2023-03-16,Same Day,Labels
+ORD-0776,CUST-2605,Furniture,406.21,3,0.05,76.97,East,2022-12-08,First Class,Furnishings
+ORD-0777,CUST-6622,Technology,785.47,9,0.38,25.29,East,2023-02-23,Same Day,Accessories
+ORD-0778,CUST-7767,Office Supplies,273.27,8,0.37,-57.24,Central,2023-09-22,First Class,Paper
+ORD-0779,CUST-7986,Furniture,990.43,5,0.16,-50.98,East,2023-03-31,Second Class,Furnishings
+ORD-0780,CUST-4517,Technology,35.51,6,0.15,-8.45,West,2022-07-17,Same Day,Phones
+ORD-0781,CUST-4735,Technology,607.49,1,0.42,217.79,East,2022-10-09,Same Day,Phones
+ORD-0782,CUST-9434,Furniture,662.91,1,0.04,283.61,West,2022-01-01,First Class,Furnishings
+ORD-0783,CUST-3590,Furniture,691.17,4,0.44,19.33,South,2023-12-24,Second Class,Chairs
+ORD-0784,CUST-2063,Office Supplies,129.18,2,0.13,-3.32,West,2022-11-28,Same Day,Labels
+ORD-0785,CUST-5324,Technology,939.14,7,0.3,223.28,South,2022-07-31,Standard Class,Accessories
+ORD-0786,CUST-6342,Technology,189.37,2,0.47,13.45,South,2022-03-28,First Class,Phones
+ORD-0787,CUST-1005,Furniture,626.53,2,0.34,76.01,West,2023-10-27,Same Day,Tables
+ORD-0788,CUST-8489,Technology,230.45,5,0.21,-84.53,South,2023-11-30,Second Class,Copiers
+ORD-0789,CUST-9659,Office Supplies,314.14,4,0.34,171.75,West,2022-03-02,Second Class,Paper
+ORD-0790,CUST-9195,Technology,550.99,8,0.17,65.99,Central,2022-04-05,Second Class,Copiers
+ORD-0791,CUST-6966,Furniture,423.02,4,0.14,204.52,South,2023-07-07,Second Class,Tables
+ORD-0792,CUST-9837,Furniture,168.62,6,0.5,190.37,West,2022-05-27,First Class,Tables
+ORD-0793,CUST-1117,Office Supplies,179.23,5,0.38,-92.5,South,2022-09-03,Same Day,Binders
+ORD-0794,CUST-3551,Office Supplies,423.96,2,0.32,157.82,East,2023-10-06,First Class,Paper
+ORD-0795,CUST-6560,Technology,759.71,8,0.18,200.03,West,2022-10-24,First Class,Machines
+ORD-0796,CUST-5289,Technology,898.99,2,0.02,-26.95,East,2022-05-03,Second Class,Phones
+ORD-0797,CUST-1846,Furniture,93.29,9,0.02,-113.7,South,2023-10-17,Standard Class,Chairs
+ORD-0798,CUST-7316,Office Supplies,399.17,9,0.28,-198.68,South,2023-11-25,Second Class,Binders
+ORD-0799,CUST-7469,Office Supplies,109.24,3,0.38,25.45,Central,2023-12-05,Standard Class,Paper
+ORD-0800,CUST-9915,Office Supplies,26.43,4,0.27,-23.78,West,2023-04-01,First Class,Binders
+ORD-0801,CUST-1224,Technology,665.1,8,0.42,77.45,East,2023-02-03,Second Class,Copiers
+ORD-0802,CUST-5208,Office Supplies,606.42,9,0.02,-105.98,Central,2023-12-20,Second Class,Art
+ORD-0803,CUST-7283,Furniture,171.39,3,0.18,229.83,South,2022-08-19,First Class,Tables
+ORD-0804,CUST-3048,Furniture,241.47,5,0.12,-71.12,South,2023-06-18,Second Class,Chairs
+ORD-0805,CUST-7233,Technology,33.47,8,0.22,-86.79,Central,2023-02-06,Same Day,Machines
+ORD-0806,CUST-2828,Technology,836.6,3,0.04,40.36,East,2023-08-15,Standard Class,Machines
+ORD-0807,CUST-2917,Office Supplies,974.94,7,0.48,49.43,South,2022-05-10,Standard Class,Art
+ORD-0808,CUST-5234,Technology,144.1,8,0.11,-92.46,South,2022-10-19,Standard Class,Accessories
+ORD-0809,CUST-7988,Furniture,239.16,3,0.46,-64.07,West,2022-10-03,Second Class,Tables
+ORD-0810,CUST-3026,Office Supplies,869.73,2,0.21,-115.15,Central,2023-01-11,Same Day,Paper
+ORD-0811,CUST-4744,Furniture,927.2,7,0.49,159.23,South,2022-02-24,Second Class,Tables
+ORD-0812,CUST-1009,Office Supplies,425.43,9,0.28,185.04,East,2023-08-01,Standard Class,Paper
+ORD-0813,CUST-1260,Technology,60.12,1,0.47,31.16,West,2022-01-26,Second Class,Phones
+ORD-0814,CUST-7038,Office Supplies,49.0,3,0.0,157.04,Central,2023-03-17,Standard Class,Binders
+ORD-0815,CUST-3219,Office Supplies,578.21,5,0.37,167.97,East,2022-07-16,First Class,Binders
+ORD-0816,CUST-8041,Furniture,398.97,3,0.45,-130.86,South,2023-10-04,Standard Class,Furnishings
+ORD-0817,CUST-3060,Furniture,38.37,1,0.07,283.09,Central,2022-08-31,First Class,Chairs
+ORD-0818,CUST-6287,Office Supplies,587.42,7,0.05,210.52,Central,2023-12-25,First Class,Paper
+ORD-0819,CUST-2619,Technology,21.19,7,0.21,-97.76,East,2022-07-09,First Class,Accessories
+ORD-0820,CUST-9512,Technology,789.5,8,0.47,-106.92,Central,2023-07-22,Standard Class,Machines
+ORD-0821,CUST-2342,Furniture,313.37,5,0.27,-137.17,East,2023-07-21,Same Day,Furnishings
+ORD-0822,CUST-3832,Technology,49.86,5,0.26,-130.81,South,2022-10-03,Standard Class,Copiers
+ORD-0823,CUST-3824,Furniture,592.47,5,0.07,174.08,West,2023-02-13,Second Class,Furnishings
+ORD-0824,CUST-2994,Technology,403.71,1,0.0,34.83,East,2022-12-06,Second Class,Copiers
+ORD-0825,CUST-4490,Office Supplies,974.06,5,0.41,191.47,West,2022-06-02,Same Day,Binders
+ORD-0826,CUST-8984,Furniture,548.76,6,0.04,173.13,Central,2023-07-19,Same Day,Tables
+ORD-0827,CUST-2604,Furniture,282.49,1,0.32,102.31,East,2023-02-02,Same Day,Bookcases
+ORD-0828,CUST-1235,Office Supplies,712.34,7,0.46,143.18,South,2023-03-20,First Class,Art
+ORD-0829,CUST-2908,Furniture,278.78,1,0.1,-190.82,East,2023-09-15,Same Day,Bookcases
+ORD-0830,CUST-9567,Technology,905.2,2,0.33,-44.11,East,2023-03-03,Same Day,Machines
+ORD-0831,CUST-4530,Technology,380.97,2,0.04,118.91,East,2023-05-02,Same Day,Machines
+ORD-0832,CUST-6256,Furniture,554.37,5,0.3,-195.33,West,2022-07-23,Standard Class,Furnishings
+ORD-0833,CUST-3635,Technology,60.07,7,0.08,-183.51,West,2022-04-22,Second Class,Copiers
+ORD-0834,CUST-9162,Furniture,431.86,1,0.37,225.94,Central,2022-11-21,Second Class,Chairs
+ORD-0835,CUST-3560,Office Supplies,834.04,1,0.15,142.01,Central,2022-09-15,Same Day,Paper
+ORD-0836,CUST-6415,Furniture,807.59,1,0.23,-67.32,Central,2023-06-12,Second Class,Furnishings
+ORD-0837,CUST-4391,Office Supplies,232.08,6,0.3,143.98,Central,2022-12-16,Standard Class,Binders
+ORD-0838,CUST-6951,Technology,233.82,2,0.09,196.23,East,2023-11-09,Second Class,Machines
+ORD-0839,CUST-6468,Office Supplies,819.13,1,0.37,-46.6,West,2023-03-11,First Class,Labels
+ORD-0840,CUST-9007,Technology,931.09,6,0.15,-181.98,West,2023-03-02,Standard Class,Copiers
+ORD-0841,CUST-7413,Furniture,104.41,2,0.33,266.39,West,2022-10-07,Second Class,Bookcases
+ORD-0842,CUST-7941,Technology,455.56,6,0.08,-27.41,West,2023-01-06,Second Class,Machines
+ORD-0843,CUST-5820,Furniture,344.08,8,0.34,-146.76,Central,2023-11-01,Standard Class,Tables
+ORD-0844,CUST-3898,Furniture,871.98,2,0.06,45.93,East,2022-09-06,Second Class,Furnishings
+ORD-0845,CUST-8546,Office Supplies,92.69,9,0.21,184.23,West,2022-06-30,Second Class,Paper
+ORD-0846,CUST-1077,Office Supplies,219.01,8,0.12,-89.18,South,2023-12-04,Same Day,Binders
+ORD-0847,CUST-8577,Office Supplies,754.94,1,0.37,-65.25,East,2023-10-13,First Class,Labels
+ORD-0848,CUST-5227,Office Supplies,60.78,7,0.13,-78.64,South,2022-03-19,Standard Class,Paper
+ORD-0849,CUST-1600,Technology,497.61,6,0.44,295.84,East,2022-12-02,Same Day,Phones
+ORD-0850,CUST-2065,Technology,447.69,6,0.45,-101.3,East,2022-02-19,Second Class,Phones
+ORD-0851,CUST-3136,Technology,341.06,6,0.1,87.76,East,2022-03-26,Standard Class,Copiers
+ORD-0852,CUST-7943,Furniture,400.63,6,0.31,262.63,South,2023-11-26,Standard Class,Chairs
+ORD-0853,CUST-8804,Technology,534.64,7,0.04,-126.55,West,2023-11-26,First Class,Copiers
+ORD-0854,CUST-7565,Technology,169.75,3,0.2,285.43,West,2022-01-04,First Class,Phones
+ORD-0855,CUST-6984,Technology,576.28,6,0.36,273.74,South,2022-11-13,Standard Class,Phones
+ORD-0856,CUST-6142,Office Supplies,807.38,3,0.33,242.29,West,2022-04-21,First Class,Paper
+ORD-0857,CUST-5670,Technology,762.56,7,0.31,-92.72,Central,2022-11-30,First Class,Accessories
+ORD-0858,CUST-3190,Furniture,162.36,7,0.14,117.03,West,2022-05-13,Second Class,Bookcases
+ORD-0859,CUST-3712,Office Supplies,157.76,8,0.19,180.45,Central,2023-09-04,First Class,Labels
+ORD-0860,CUST-3192,Furniture,275.49,2,0.05,293.01,Central,2023-11-15,First Class,Tables
+ORD-0861,CUST-2248,Technology,367.46,9,0.36,-109.79,Central,2022-04-29,Same Day,Phones
+ORD-0862,CUST-5033,Office Supplies,414.37,5,0.25,183.01,South,2022-12-16,Second Class,Art
+ORD-0863,CUST-2997,Furniture,682.9,9,0.35,-30.6,West,2023-11-18,Second Class,Bookcases
+ORD-0864,CUST-4687,Technology,66.11,5,0.12,-112.19,West,2023-06-26,Standard Class,Copiers
+ORD-0865,CUST-5018,Furniture,44.33,7,0.16,10.69,South,2022-02-24,First Class,Chairs
+ORD-0866,CUST-2970,Furniture,397.99,9,0.17,196.92,South,2022-12-27,Same Day,Tables
+ORD-0867,CUST-9389,Furniture,700.19,4,0.01,32.42,West,2023-12-09,Same Day,Furnishings
+ORD-0868,CUST-6765,Technology,201.5,2,0.17,68.76,South,2023-03-29,Second Class,Copiers
+ORD-0869,CUST-2202,Technology,645.09,9,0.4,297.58,South,2023-07-07,First Class,Phones
+ORD-0870,CUST-9135,Furniture,267.23,2,0.45,-0.45,Central,2023-11-16,Same Day,Tables
+ORD-0871,CUST-6567,Office Supplies,887.23,3,0.26,107.7,South,2022-11-26,Standard Class,Paper
+ORD-0872,CUST-8667,Office Supplies,896.73,2,0.23,-17.38,Central,2022-08-07,First Class,Labels
+ORD-0873,CUST-6742,Technology,304.31,3,0.02,-3.61,East,2022-07-27,First Class,Copiers
+ORD-0874,CUST-6788,Technology,237.69,6,0.44,147.82,Central,2023-11-01,First Class,Phones
+ORD-0875,CUST-6408,Technology,417.19,3,0.01,268.94,Central,2022-03-26,Same Day,Accessories
+ORD-0876,CUST-9669,Technology,248.13,8,0.47,71.18,South,2023-11-16,Second Class,Phones
+ORD-0877,CUST-1922,Technology,675.66,6,0.24,184.2,West,2022-09-02,Second Class,Accessories
+ORD-0878,CUST-1419,Office Supplies,827.8,7,0.17,-155.4,East,2023-11-16,Standard Class,Art
+ORD-0879,CUST-3204,Technology,676.36,1,0.46,-94.42,East,2022-12-01,Same Day,Copiers
+ORD-0880,CUST-2120,Furniture,826.11,3,0.01,51.07,East,2022-07-31,First Class,Furnishings
+ORD-0881,CUST-1950,Furniture,403.02,3,0.29,-189.99,West,2023-08-19,Standard Class,Tables
+ORD-0882,CUST-3336,Office Supplies,164.75,2,0.27,-73.57,East,2023-11-16,Standard Class,Binders
+ORD-0883,CUST-6373,Furniture,740.57,7,0.11,58.7,East,2022-07-02,Second Class,Tables
+ORD-0884,CUST-3243,Office Supplies,366.87,9,0.21,-192.52,West,2022-05-13,First Class,Binders
+ORD-0885,CUST-3645,Office Supplies,674.56,4,0.33,-67.73,East,2022-12-16,First Class,Labels
+ORD-0886,CUST-5612,Furniture,277.94,5,0.36,57.02,South,2022-10-09,Same Day,Tables
+ORD-0887,CUST-2865,Technology,90.42,3,0.0,86.57,South,2022-10-20,Same Day,Copiers
+ORD-0888,CUST-7028,Furniture,992.66,9,0.47,262.88,Central,2022-09-26,Same Day,Chairs
+ORD-0889,CUST-8326,Furniture,164.64,4,0.08,122.67,Central,2022-07-16,Standard Class,Bookcases
+ORD-0890,CUST-7371,Office Supplies,988.54,5,0.12,7.37,Central,2023-06-21,First Class,Labels
+ORD-0891,CUST-7359,Furniture,977.51,1,0.13,265.18,South,2023-10-15,Second Class,Furnishings
+ORD-0892,CUST-8863,Office Supplies,795.88,2,0.02,192.44,South,2022-01-20,Standard Class,Binders
+ORD-0893,CUST-4228,Technology,662.83,9,0.06,-100.0,South,2023-12-14,Standard Class,Accessories
+ORD-0894,CUST-4719,Technology,582.03,2,0.49,-134.58,Central,2023-02-09,Second Class,Copiers
+ORD-0895,CUST-3371,Technology,867.44,5,0.16,137.91,Central,2022-04-25,Second Class,Copiers
+ORD-0896,CUST-3891,Furniture,296.55,8,0.06,79.94,Central,2023-12-02,Same Day,Chairs
+ORD-0897,CUST-4756,Office Supplies,473.0,3,0.05,194.84,Central,2022-01-26,Second Class,Binders
+ORD-0898,CUST-5225,Technology,623.2,6,0.36,169.4,Central,2023-07-20,Second Class,Phones
+ORD-0899,CUST-1094,Office Supplies,417.08,4,0.43,112.61,Central,2023-11-13,Second Class,Labels
+ORD-0900,CUST-3674,Office Supplies,433.21,7,0.13,293.19,South,2023-01-30,Second Class,Labels
+ORD-0901,CUST-7898,Technology,336.98,3,0.01,66.79,West,2023-01-16,Same Day,Copiers
+ORD-0902,CUST-1793,Technology,568.59,6,0.11,-143.45,West,2023-06-07,Standard Class,Accessories
+ORD-0903,CUST-3116,Office Supplies,852.07,9,0.03,214.14,Central,2023-06-23,First Class,Binders
+ORD-0904,CUST-6779,Technology,209.51,1,0.05,-74.07,West,2022-03-24,First Class,Machines
+ORD-0905,CUST-7166,Office Supplies,935.09,3,0.22,188.65,West,2023-07-04,Standard Class,Paper
+ORD-0906,CUST-1814,Office Supplies,692.2,2,0.11,278.55,South,2023-03-21,First Class,Binders
+ORD-0907,CUST-1345,Technology,825.04,8,0.26,148.4,Central,2022-03-28,First Class,Accessories
+ORD-0908,CUST-9554,Furniture,560.63,7,0.13,98.02,Central,2023-01-22,Standard Class,Chairs
+ORD-0909,CUST-3443,Technology,781.72,2,0.47,30.19,West,2023-10-30,First Class,Accessories
+ORD-0910,CUST-8783,Furniture,26.04,6,0.45,-17.8,Central,2023-02-02,First Class,Bookcases
+ORD-0911,CUST-1984,Office Supplies,820.2,3,0.28,-23.5,Central,2022-10-13,Standard Class,Binders
+ORD-0912,CUST-8790,Office Supplies,49.74,8,0.18,118.19,Central,2023-11-29,First Class,Binders
+ORD-0913,CUST-1827,Furniture,891.01,3,0.19,175.64,Central,2023-11-25,Second Class,Bookcases
+ORD-0914,CUST-4531,Office Supplies,992.04,9,0.21,139.26,West,2023-01-04,Standard Class,Binders
+ORD-0915,CUST-8147,Furniture,301.13,1,0.36,-100.79,East,2023-10-17,Same Day,Chairs
+ORD-0916,CUST-5451,Furniture,218.22,5,0.23,46.99,West,2023-02-26,First Class,Furnishings
+ORD-0917,CUST-4876,Office Supplies,767.71,3,0.43,195.82,South,2023-12-19,Same Day,Art
+ORD-0918,CUST-6959,Furniture,260.5,6,0.47,37.85,East,2023-10-16,First Class,Furnishings
+ORD-0919,CUST-1126,Technology,866.91,2,0.17,68.31,East,2023-11-28,Second Class,Copiers
+ORD-0920,CUST-4177,Technology,111.81,9,0.28,185.57,East,2023-03-19,Standard Class,Accessories
+ORD-0921,CUST-9795,Office Supplies,134.7,6,0.05,130.63,West,2023-06-04,Same Day,Art
+ORD-0922,CUST-7024,Office Supplies,979.36,7,0.1,4.67,South,2023-08-07,Standard Class,Art
+ORD-0923,CUST-6109,Furniture,677.1,5,0.21,247.71,West,2022-10-15,Same Day,Furnishings
+ORD-0924,CUST-5146,Furniture,848.42,9,0.1,-118.72,South,2022-04-05,First Class,Chairs
+ORD-0925,CUST-8196,Furniture,331.09,1,0.44,297.76,West,2023-10-31,Second Class,Bookcases
+ORD-0926,CUST-4368,Furniture,679.72,5,0.08,-140.57,West,2022-02-10,Same Day,Chairs
+ORD-0927,CUST-4797,Technology,598.3,6,0.23,-192.53,West,2022-11-27,Same Day,Copiers
+ORD-0928,CUST-2792,Technology,607.12,7,0.3,245.01,East,2022-06-04,Second Class,Machines
+ORD-0929,CUST-6732,Office Supplies,685.71,4,0.35,-77.52,West,2023-05-19,Second Class,Art
+ORD-0930,CUST-4476,Furniture,579.61,1,0.19,164.85,South,2022-10-02,Second Class,Tables
+ORD-0931,CUST-4417,Furniture,434.77,8,0.43,205.51,South,2023-10-28,Second Class,Bookcases
+ORD-0932,CUST-2645,Office Supplies,283.16,4,0.28,229.49,South,2023-07-19,Second Class,Art
+ORD-0933,CUST-4030,Furniture,770.9,3,0.22,295.8,East,2022-06-28,Standard Class,Chairs
+ORD-0934,CUST-3872,Furniture,234.01,7,0.03,-52.98,West,2022-05-17,First Class,Chairs
+ORD-0935,CUST-4072,Furniture,695.43,2,0.23,155.12,West,2022-06-29,First Class,Tables
+ORD-0936,CUST-2854,Furniture,241.0,8,0.41,-142.3,Central,2022-07-01,Same Day,Bookcases
+ORD-0937,CUST-5021,Furniture,629.08,6,0.31,3.4,East,2022-09-16,Second Class,Chairs
+ORD-0938,CUST-5662,Office Supplies,749.61,7,0.42,223.99,South,2022-08-31,Standard Class,Art
+ORD-0939,CUST-7514,Furniture,226.53,5,0.25,-16.17,South,2022-04-06,Standard Class,Furnishings
+ORD-0940,CUST-6031,Office Supplies,69.34,9,0.06,95.55,West,2022-07-16,Same Day,Labels
+ORD-0941,CUST-3708,Furniture,139.66,5,0.01,51.89,South,2023-06-10,Second Class,Tables
+ORD-0942,CUST-8112,Technology,609.94,5,0.15,122.98,West,2023-09-24,First Class,Machines
+ORD-0943,CUST-9393,Technology,850.95,3,0.35,286.45,West,2023-01-22,Second Class,Phones
+ORD-0944,CUST-4507,Technology,54.55,1,0.4,-172.13,Central,2023-02-12,Standard Class,Phones
+ORD-0945,CUST-7456,Technology,736.81,2,0.15,86.98,East,2022-09-26,Second Class,Accessories
+ORD-0946,CUST-5212,Office Supplies,347.91,8,0.25,231.51,West,2022-06-20,First Class,Art
+ORD-0947,CUST-8970,Office Supplies,483.74,1,0.21,40.69,West,2023-08-07,First Class,Binders
+ORD-0948,CUST-9766,Furniture,929.57,7,0.21,-160.74,West,2023-11-22,Same Day,Furnishings
+ORD-0949,CUST-1536,Technology,338.65,5,0.12,80.27,Central,2022-06-19,Standard Class,Phones
+ORD-0950,CUST-2625,Office Supplies,470.68,3,0.07,-33.96,West,2022-06-08,Second Class,Paper
+ORD-0951,CUST-8973,Furniture,23.55,7,0.1,-122.53,East,2023-05-24,Second Class,Furnishings
+ORD-0952,CUST-9577,Furniture,90.78,9,0.03,224.52,East,2023-03-23,Same Day,Furnishings
+ORD-0953,CUST-9070,Office Supplies,266.01,2,0.1,60.8,South,2023-10-28,Same Day,Labels
+ORD-0954,CUST-9666,Technology,37.57,8,0.0,266.64,East,2022-03-23,Same Day,Accessories
+ORD-0955,CUST-9609,Furniture,635.06,9,0.31,203.01,South,2022-02-26,Standard Class,Tables
+ORD-0956,CUST-7490,Technology,432.13,3,0.16,146.49,East,2023-06-03,Second Class,Copiers
+ORD-0957,CUST-4600,Technology,552.66,2,0.49,-197.49,South,2022-04-22,Same Day,Copiers
+ORD-0958,CUST-7783,Technology,182.9,7,0.1,13.91,West,2022-02-17,Standard Class,Copiers
+ORD-0959,CUST-5971,Furniture,302.97,5,0.17,-101.26,Central,2023-08-15,Second Class,Tables
+ORD-0960,CUST-2205,Technology,667.19,5,0.18,255.4,Central,2023-01-11,First Class,Machines
+ORD-0961,CUST-2990,Furniture,965.65,5,0.0,-112.71,Central,2022-02-02,Same Day,Furnishings
+ORD-0962,CUST-6299,Technology,59.91,4,0.42,-56.97,West,2023-05-19,Standard Class,Phones
+ORD-0963,CUST-4572,Furniture,891.48,5,0.02,58.42,Central,2023-09-19,Second Class,Bookcases
+ORD-0964,CUST-6975,Technology,581.11,4,0.47,-68.32,East,2022-01-03,Second Class,Machines
+ORD-0965,CUST-7320,Office Supplies,568.28,6,0.45,-95.07,South,2023-05-01,Same Day,Labels
+ORD-0966,CUST-5380,Technology,505.28,4,0.27,99.55,West,2023-05-31,Same Day,Machines
+ORD-0967,CUST-5757,Technology,78.7,2,0.27,-155.54,Central,2022-02-11,Second Class,Machines
+ORD-0968,CUST-3713,Furniture,98.98,9,0.33,-170.92,East,2022-01-09,Standard Class,Tables
+ORD-0969,CUST-6588,Furniture,604.9,2,0.19,-13.88,East,2023-10-19,First Class,Bookcases
+ORD-0970,CUST-1966,Technology,347.55,9,0.32,160.33,West,2023-09-01,Second Class,Machines
+ORD-0971,CUST-5944,Office Supplies,918.1,6,0.02,77.4,West,2022-05-22,Standard Class,Labels
+ORD-0972,CUST-4432,Office Supplies,412.52,9,0.03,11.44,Central,2023-03-12,Same Day,Labels
+ORD-0973,CUST-1688,Furniture,151.85,9,0.23,82.88,South,2022-01-27,Second Class,Furnishings
+ORD-0974,CUST-5243,Office Supplies,717.57,3,0.27,-17.27,Central,2022-02-12,Same Day,Binders
+ORD-0975,CUST-4701,Technology,300.42,1,0.44,268.07,Central,2022-05-11,First Class,Machines
+ORD-0976,CUST-9533,Furniture,530.22,1,0.05,-172.55,West,2022-08-04,Same Day,Furnishings
+ORD-0977,CUST-6182,Technology,700.85,3,0.41,136.7,Central,2023-08-29,First Class,Machines
+ORD-0978,CUST-7704,Furniture,901.26,5,0.11,245.64,Central,2023-06-04,Same Day,Chairs
+ORD-0979,CUST-5422,Furniture,794.27,3,0.2,201.94,South,2023-08-21,Same Day,Tables
+ORD-0980,CUST-2759,Furniture,679.6,9,0.16,-107.98,East,2022-12-11,First Class,Chairs
+ORD-0981,CUST-3482,Furniture,682.84,9,0.2,-52.04,East,2023-05-23,Same Day,Furnishings
+ORD-0982,CUST-9058,Office Supplies,946.47,3,0.08,158.52,South,2023-10-12,Standard Class,Paper
+ORD-0983,CUST-1951,Technology,302.87,3,0.25,-157.86,East,2023-02-17,Same Day,Machines
+ORD-0984,CUST-9914,Technology,11.1,5,0.4,205.93,Central,2022-09-03,Second Class,Accessories
+ORD-0985,CUST-3079,Technology,279.24,2,0.22,159.45,South,2023-03-25,Same Day,Machines
+ORD-0986,CUST-3717,Furniture,225.71,6,0.25,164.8,South,2022-01-21,Standard Class,Furnishings
+ORD-0987,CUST-5524,Office Supplies,665.22,7,0.42,-149.88,West,2023-02-12,Second Class,Paper
+ORD-0988,CUST-9477,Technology,637.37,9,0.35,158.88,East,2023-04-02,Standard Class,Accessories
+ORD-0989,CUST-8311,Office Supplies,597.53,6,0.25,139.91,West,2023-03-20,Second Class,Labels
+ORD-0990,CUST-8186,Furniture,26.08,3,0.13,215.46,Central,2022-09-22,Same Day,Chairs
+ORD-0991,CUST-3065,Technology,731.49,5,0.44,-179.2,South,2023-10-22,Standard Class,Phones
+ORD-0992,CUST-1768,Office Supplies,330.3,4,0.29,-188.44,Central,2022-07-03,Same Day,Binders
+ORD-0993,CUST-6490,Furniture,668.41,5,0.11,-13.5,East,2022-08-15,Second Class,Chairs
+ORD-0994,CUST-7645,Office Supplies,561.01,8,0.13,-125.61,West,2023-07-02,Standard Class,Paper
+ORD-0995,CUST-6083,Technology,349.3,8,0.4,79.19,East,2022-09-03,First Class,Accessories
+ORD-0996,CUST-6232,Technology,143.23,6,0.02,258.67,Central,2022-03-14,Standard Class,Phones
+ORD-0997,CUST-6797,Furniture,103.47,1,0.5,-4.26,West,2022-05-30,Same Day,Bookcases
+ORD-0998,CUST-5926,Furniture,833.2,8,0.07,222.48,East,2023-05-28,First Class,Bookcases
+ORD-0999,CUST-7016,Furniture,919.21,8,0.4,-199.88,Central,2022-03-10,First Class,Bookcases
+ORD-1000,CUST-4335,Office Supplies,653.29,2,0.2,-115.74,East,2022-08-18,Second Class,Labels
+ORD-1001,CUST-9038,Office Supplies,112.4,4,0.25,-184.79,South,2023-12-24,First Class,Binders
+ORD-1002,CUST-5873,Office Supplies,408.01,2,0.44,-35.93,West,2022-03-13,First Class,Labels
+ORD-1003,CUST-2481,Furniture,731.65,4,0.21,254.09,West,2023-08-31,Second Class,Tables
+ORD-1004,CUST-7305,Technology,782.02,7,0.27,-151.52,West,2023-02-01,Standard Class,Accessories
+ORD-1005,CUST-4451,Technology,127.04,9,0.02,103.2,South,2022-03-25,Same Day,Copiers
+ORD-1006,CUST-1054,Office Supplies,10.03,8,0.0,25.75,West,2022-10-26,Standard Class,Art
+ORD-1007,CUST-8643,Office Supplies,715.02,9,0.12,269.23,South,2022-10-20,First Class,Paper
+ORD-1008,CUST-4462,Technology,363.03,8,0.34,-138.74,West,2022-08-11,Same Day,Copiers
+ORD-1009,CUST-1832,Technology,261.94,2,0.06,-93.99,East,2022-08-04,Standard Class,Copiers
+ORD-1010,CUST-6954,Office Supplies,22.77,7,0.06,-185.23,East,2022-08-19,Same Day,Paper
+ORD-1011,CUST-9519,Office Supplies,544.9,2,0.21,16.97,East,2023-02-09,First Class,Labels
+ORD-1012,CUST-8221,Technology,852.64,2,0.32,-61.08,East,2022-06-18,Standard Class,Copiers
+ORD-1013,CUST-4310,Furniture,958.06,4,0.36,234.95,South,2022-11-25,Same Day,Furnishings
+ORD-1014,CUST-4300,Office Supplies,570.09,1,0.09,102.47,Central,2023-03-02,Same Day,Art
+ORD-1015,CUST-7722,Technology,519.32,5,0.04,107.05,Central,2023-07-08,Standard Class,Phones
+ORD-1016,CUST-8218,Technology,94.21,6,0.47,65.96,East,2022-07-15,Standard Class,Machines
+ORD-1017,CUST-8776,Technology,553.38,9,0.13,-154.07,Central,2023-08-31,First Class,Machines
+ORD-1018,CUST-4675,Technology,386.18,8,0.43,22.51,Central,2023-06-10,Second Class,Copiers
+ORD-1019,CUST-4054,Furniture,611.06,2,0.43,299.75,West,2023-09-17,Same Day,Furnishings
+ORD-1020,CUST-8970,Technology,394.84,1,0.39,217.61,South,2022-03-18,Standard Class,Phones
+ORD-1021,CUST-3143,Office Supplies,247.9,2,0.08,246.73,East,2022-10-04,Standard Class,Paper
+ORD-1022,CUST-6207,Furniture,104.02,7,0.41,211.61,Central,2023-04-11,Standard Class,Chairs
+ORD-1023,CUST-3538,Technology,321.77,4,0.38,-148.48,Central,2023-03-24,Same Day,Accessories
+ORD-1024,CUST-5547,Furniture,105.68,5,0.3,-86.28,East,2022-11-16,First Class,Chairs
+ORD-1025,CUST-6619,Office Supplies,185.13,7,0.17,-198.44,West,2022-06-09,Second Class,Binders
+ORD-1026,CUST-9356,Technology,987.46,3,0.13,-48.24,East,2023-05-07,Same Day,Machines
+ORD-1027,CUST-7612,Office Supplies,449.66,2,0.06,-145.7,West,2022-11-09,First Class,Binders
+ORD-1028,CUST-6005,Technology,536.55,7,0.25,36.4,Central,2023-09-23,Same Day,Copiers
+ORD-1029,CUST-1822,Technology,874.88,5,0.29,138.56,South,2022-06-10,Same Day,Copiers
+ORD-1030,CUST-1943,Technology,995.61,1,0.18,237.25,West,2022-11-04,Standard Class,Copiers
+ORD-1031,CUST-7150,Technology,586.89,1,0.24,174.61,West,2022-05-26,First Class,Copiers
+ORD-1032,CUST-5425,Technology,814.35,9,0.18,269.29,East,2023-11-06,Standard Class,Machines
+ORD-1033,CUST-9966,Furniture,333.67,5,0.32,-173.05,Central,2023-01-31,Standard Class,Bookcases
+ORD-1034,CUST-3198,Technology,312.69,1,0.45,-193.91,South,2023-11-22,First Class,Phones
+ORD-1035,CUST-5242,Technology,408.68,7,0.08,130.67,East,2022-03-30,Standard Class,Copiers
+ORD-1036,CUST-4695,Furniture,675.78,9,0.19,-55.32,East,2022-11-04,Standard Class,Furnishings
+ORD-1037,CUST-4452,Furniture,685.37,1,0.07,-73.25,South,2023-06-30,Second Class,Tables
+ORD-1038,CUST-2308,Furniture,322.09,4,0.31,-34.56,Central,2023-01-06,First Class,Chairs
+ORD-1039,CUST-5177,Furniture,141.88,3,0.36,-65.1,South,2023-03-27,First Class,Chairs
+ORD-1040,CUST-9705,Furniture,636.07,5,0.47,55.72,East,2022-06-16,Standard Class,Furnishings
+ORD-1041,CUST-7852,Furniture,137.04,7,0.14,20.07,East,2023-01-27,Standard Class,Tables
+ORD-1042,CUST-7035,Technology,582.71,8,0.48,56.21,West,2023-09-29,First Class,Copiers
+ORD-1043,CUST-4594,Technology,696.49,2,0.03,136.36,South,2023-05-06,First Class,Accessories
+ORD-1044,CUST-5841,Office Supplies,703.61,7,0.3,-6.43,South,2022-05-30,Same Day,Binders
+ORD-1045,CUST-2409,Technology,755.94,1,0.03,-74.35,South,2023-04-13,First Class,Phones
+ORD-1046,CUST-5566,Technology,874.13,7,0.45,-116.9,East,2023-12-02,Same Day,Phones
+ORD-1047,CUST-5491,Furniture,504.96,8,0.26,-25.26,Central,2022-02-12,Standard Class,Tables
+ORD-1048,CUST-2555,Furniture,732.95,2,0.33,170.9,East,2022-01-29,Second Class,Bookcases
+ORD-1049,CUST-1804,Technology,622.98,9,0.42,178.35,West,2023-09-24,Second Class,Phones
+ORD-1050,CUST-2279,Office Supplies,194.77,1,0.08,133.45,East,2022-01-31,Same Day,Labels
+ORD-1051,CUST-8083,Furniture,35.43,6,0.02,-82.99,East,2023-11-24,Standard Class,Bookcases
+ORD-1052,CUST-6986,Technology,291.7,1,0.44,94.04,East,2023-11-05,Standard Class,Phones
+ORD-1053,CUST-6619,Technology,448.6,3,0.16,85.34,West,2022-05-08,Standard Class,Copiers
+ORD-1054,CUST-2387,Office Supplies,620.93,6,0.06,42.13,South,2022-10-21,First Class,Labels
+ORD-1055,CUST-3679,Office Supplies,851.46,3,0.23,74.99,Central,2023-03-17,Standard Class,Paper
+ORD-1056,CUST-3106,Furniture,204.28,8,0.3,45.9,Central,2023-01-23,First Class,Chairs
+ORD-1057,CUST-9173,Office Supplies,134.29,5,0.02,82.73,West,2023-10-04,Same Day,Labels
+ORD-1058,CUST-5223,Technology,963.85,2,0.14,157.75,South,2023-06-08,Second Class,Phones
+ORD-1059,CUST-5831,Technology,116.96,4,0.02,-145.19,South,2023-07-01,Same Day,Phones
+ORD-1060,CUST-3768,Office Supplies,483.71,9,0.21,174.81,West,2023-12-11,Standard Class,Paper
+ORD-1061,CUST-4186,Office Supplies,589.71,4,0.45,-132.06,East,2022-04-20,Standard Class,Paper
+ORD-1062,CUST-3573,Office Supplies,545.96,8,0.49,-166.69,South,2022-11-24,Same Day,Art
+ORD-1063,CUST-3599,Office Supplies,95.17,5,0.32,288.04,Central,2023-02-09,First Class,Labels
+ORD-1064,CUST-5033,Furniture,66.46,1,0.08,278.5,West,2022-09-02,First Class,Furnishings
+ORD-1065,CUST-9428,Office Supplies,114.43,7,0.45,-169.78,Central,2022-06-12,First Class,Paper
+ORD-1066,CUST-2304,Furniture,589.73,3,0.26,21.63,East,2023-07-14,Second Class,Chairs
+ORD-1067,CUST-8368,Technology,548.9,8,0.08,-106.88,West,2023-02-03,Second Class,Copiers
+ORD-1068,CUST-6877,Office Supplies,241.4,3,0.46,42.67,Central,2023-08-06,Standard Class,Paper
+ORD-1069,CUST-2301,Furniture,641.4,1,0.38,215.09,Central,2023-02-03,Same Day,Bookcases
+ORD-1070,CUST-3541,Office Supplies,821.87,5,0.37,275.31,East,2023-05-08,Same Day,Art
+ORD-1071,CUST-3051,Technology,51.16,2,0.35,117.13,West,2023-10-08,Standard Class,Machines
+ORD-1072,CUST-7809,Technology,503.15,4,0.1,-23.05,South,2022-08-27,First Class,Copiers
+ORD-1073,CUST-9633,Technology,692.42,1,0.11,101.66,South,2023-04-10,Second Class,Machines
+ORD-1074,CUST-9996,Office Supplies,259.79,9,0.34,-44.0,Central,2023-08-03,Same Day,Binders
+ORD-1075,CUST-1074,Office Supplies,314.69,6,0.11,254.91,East,2022-02-01,Standard Class,Binders
+ORD-1076,CUST-7981,Furniture,617.5,8,0.22,235.2,Central,2022-05-03,First Class,Tables
+ORD-1077,CUST-6475,Technology,898.96,4,0.39,79.12,East,2023-06-18,First Class,Phones
+ORD-1078,CUST-9232,Office Supplies,811.83,9,0.39,-37.6,South,2023-10-29,Second Class,Labels
+ORD-1079,CUST-8184,Technology,587.3,2,0.23,-53.31,Central,2022-04-20,Second Class,Copiers
+ORD-1080,CUST-6796,Technology,732.92,9,0.4,-183.29,Central,2022-09-28,Standard Class,Copiers
+ORD-1081,CUST-8141,Furniture,371.17,5,0.42,207.91,East,2023-01-15,Standard Class,Chairs
+ORD-1082,CUST-2622,Furniture,644.56,6,0.33,25.19,West,2022-10-27,First Class,Furnishings
+ORD-1083,CUST-9041,Furniture,471.52,3,0.11,-37.43,East,2023-09-19,First Class,Bookcases
+ORD-1084,CUST-1341,Furniture,198.04,4,0.14,35.56,West,2022-09-06,Same Day,Chairs
+ORD-1085,CUST-3074,Technology,704.72,6,0.16,209.37,South,2023-06-05,First Class,Machines
+ORD-1086,CUST-8992,Furniture,560.9,7,0.06,-137.69,Central,2022-02-03,Standard Class,Furnishings
+ORD-1087,CUST-1645,Furniture,365.04,1,0.14,228.83,Central,2022-08-16,Second Class,Bookcases
+ORD-1088,CUST-5263,Furniture,912.23,7,0.1,248.75,East,2023-08-08,Standard Class,Tables
+ORD-1089,CUST-9801,Furniture,30.72,1,0.23,273.35,East,2023-02-03,Same Day,Tables
+ORD-1090,CUST-7136,Technology,322.62,5,0.45,-1.26,South,2023-12-25,Same Day,Machines
+ORD-1091,CUST-9646,Furniture,66.31,6,0.05,-91.43,South,2023-08-07,Second Class,Furnishings
+ORD-1092,CUST-3969,Technology,768.86,2,0.36,-13.18,West,2023-07-24,Standard Class,Phones
+ORD-1093,CUST-4028,Office Supplies,705.09,9,0.34,-33.54,South,2022-08-08,Same Day,Labels
+ORD-1094,CUST-8643,Technology,338.04,6,0.05,-111.92,South,2023-01-06,Standard Class,Phones
+ORD-1095,CUST-3681,Technology,678.91,7,0.46,103.63,South,2023-06-12,Same Day,Phones
+ORD-1096,CUST-4629,Furniture,401.98,8,0.28,38.31,South,2022-03-16,Second Class,Chairs
+ORD-1097,CUST-5225,Office Supplies,758.69,1,0.18,232.85,West,2023-09-10,Same Day,Labels
+ORD-1098,CUST-4067,Office Supplies,459.64,8,0.38,-183.95,South,2022-05-16,Standard Class,Labels
+ORD-1099,CUST-6941,Office Supplies,418.16,4,0.13,121.93,West,2022-03-15,Standard Class,Binders
+ORD-1100,CUST-2386,Office Supplies,935.38,8,0.35,181.47,East,2022-09-11,Same Day,Art
+ORD-1101,CUST-3866,Technology,258.37,6,0.02,179.74,Central,2022-01-18,First Class,Machines
+ORD-1102,CUST-5788,Office Supplies,129.24,9,0.42,243.04,East,2022-02-12,Second Class,Paper
+ORD-1103,CUST-6490,Technology,588.7,4,0.22,164.52,South,2022-02-19,Second Class,Copiers
+ORD-1104,CUST-5124,Technology,969.63,2,0.32,263.91,Central,2023-05-30,Same Day,Accessories
+ORD-1105,CUST-9340,Technology,384.06,2,0.11,-33.67,South,2023-07-25,Same Day,Machines
+ORD-1106,CUST-4850,Office Supplies,71.42,5,0.34,51.6,South,2023-07-30,First Class,Art
+ORD-1107,CUST-6415,Furniture,345.91,9,0.39,-192.96,East,2023-08-05,Second Class,Furnishings
+ORD-1108,CUST-8679,Furniture,510.87,3,0.24,-196.52,South,2022-10-30,First Class,Furnishings
+ORD-1109,CUST-7819,Office Supplies,170.3,8,0.31,-79.94,East,2022-05-22,Second Class,Art
+ORD-1110,CUST-9378,Furniture,661.52,4,0.23,-149.6,South,2022-07-21,Same Day,Furnishings
+ORD-1111,CUST-2333,Furniture,997.77,6,0.45,-69.89,West,2022-07-26,Second Class,Bookcases
+ORD-1112,CUST-5150,Technology,457.22,6,0.25,-111.48,Central,2023-02-19,Second Class,Machines
+ORD-1113,CUST-7766,Technology,361.18,3,0.42,-185.74,East,2022-08-09,Second Class,Phones
+ORD-1114,CUST-3711,Office Supplies,406.7,5,0.4,254.65,East,2022-12-28,First Class,Paper
+ORD-1115,CUST-5853,Office Supplies,123.99,3,0.21,-195.89,Central,2022-03-22,First Class,Binders
+ORD-1116,CUST-7212,Furniture,884.44,1,0.12,168.04,East,2023-07-17,Second Class,Furnishings
+ORD-1117,CUST-8479,Technology,420.68,7,0.2,-123.93,Central,2022-10-12,Standard Class,Machines
+ORD-1118,CUST-6408,Office Supplies,393.4,4,0.41,256.11,West,2023-01-04,First Class,Labels
+ORD-1119,CUST-8715,Office Supplies,663.09,7,0.11,246.4,South,2023-05-07,Same Day,Binders
+ORD-1120,CUST-9942,Office Supplies,447.61,3,0.26,126.95,West,2022-12-12,Same Day,Labels
+ORD-1121,CUST-2762,Office Supplies,651.75,5,0.4,136.12,South,2022-07-23,Second Class,Art
+ORD-1122,CUST-8101,Office Supplies,70.83,5,0.18,-197.33,Central,2022-01-25,Same Day,Paper
+ORD-1123,CUST-8674,Office Supplies,815.59,2,0.32,292.44,West,2023-07-07,First Class,Labels
+ORD-1124,CUST-7122,Furniture,941.1,2,0.12,238.92,South,2022-03-10,Standard Class,Furnishings
+ORD-1125,CUST-1481,Technology,652.28,4,0.05,247.55,Central,2023-05-31,Standard Class,Accessories
+ORD-1126,CUST-1153,Technology,955.02,4,0.4,129.62,South,2023-05-07,Standard Class,Accessories
+ORD-1127,CUST-8617,Office Supplies,159.92,4,0.05,-27.61,East,2022-08-28,Same Day,Paper
+ORD-1128,CUST-2524,Technology,482.64,6,0.14,246.82,East,2022-12-27,Second Class,Phones
+ORD-1129,CUST-3120,Technology,605.79,2,0.43,-54.24,Central,2023-03-17,Same Day,Phones
+ORD-1130,CUST-3343,Technology,585.92,6,0.17,81.36,South,2022-01-31,Second Class,Machines
+ORD-1131,CUST-6136,Office Supplies,407.45,7,0.49,-150.13,East,2023-09-21,Standard Class,Paper
+ORD-1132,CUST-6760,Office Supplies,344.7,3,0.49,260.98,West,2023-12-08,First Class,Labels
+ORD-1133,CUST-2240,Technology,135.56,8,0.13,-129.61,South,2023-08-25,Same Day,Machines
+ORD-1134,CUST-1060,Technology,397.83,2,0.02,-87.55,South,2023-11-21,First Class,Machines
+ORD-1135,CUST-2639,Office Supplies,171.03,8,0.35,79.07,East,2023-10-19,Standard Class,Binders
+ORD-1136,CUST-7185,Furniture,737.02,5,0.23,182.05,East,2023-12-15,Second Class,Tables
+ORD-1137,CUST-8970,Technology,216.74,2,0.05,109.68,Central,2022-11-18,First Class,Machines
+ORD-1138,CUST-2252,Furniture,67.98,7,0.35,-83.93,South,2022-12-10,Same Day,Chairs
+ORD-1139,CUST-5203,Technology,556.84,2,0.02,-199.53,West,2023-12-16,First Class,Copiers
+ORD-1140,CUST-9363,Furniture,599.28,6,0.44,178.58,East,2023-06-20,First Class,Bookcases
+ORD-1141,CUST-4549,Furniture,873.19,3,0.07,292.6,South,2022-12-21,Same Day,Furnishings
+ORD-1142,CUST-5197,Furniture,581.21,9,0.06,204.96,East,2023-04-16,Second Class,Furnishings
+ORD-1143,CUST-8009,Office Supplies,352.03,3,0.09,30.1,Central,2022-04-15,Same Day,Paper
+ORD-1144,CUST-7667,Furniture,804.98,3,0.48,251.88,South,2022-11-18,Standard Class,Tables
+ORD-1145,CUST-3322,Furniture,544.88,5,0.35,4.92,South,2023-07-26,Second Class,Furnishings
+ORD-1146,CUST-5090,Furniture,88.49,7,0.4,62.47,Central,2023-06-11,First Class,Chairs
+ORD-1147,CUST-7960,Technology,570.19,8,0.2,38.56,West,2023-05-19,Same Day,Machines
+ORD-1148,CUST-4004,Furniture,908.94,7,0.17,23.81,East,2022-03-26,Standard Class,Tables
+ORD-1149,CUST-6136,Technology,402.35,9,0.12,187.6,Central,2023-12-10,Same Day,Accessories
+ORD-1150,CUST-1329,Furniture,303.36,5,0.24,63.38,South,2022-08-23,Second Class,Chairs
+ORD-1151,CUST-4640,Furniture,152.03,3,0.28,-41.64,Central,2022-09-20,Standard Class,Furnishings
+ORD-1152,CUST-8982,Office Supplies,159.93,6,0.32,-70.92,South,2022-01-06,First Class,Paper
+ORD-1153,CUST-5107,Technology,438.44,5,0.13,-181.13,Central,2023-05-09,Second Class,Machines
+ORD-1154,CUST-2341,Furniture,599.72,4,0.47,91.6,West,2022-10-16,Standard Class,Tables
+ORD-1155,CUST-9407,Technology,89.81,2,0.08,-85.02,South,2023-07-24,Second Class,Copiers
+ORD-1156,CUST-1338,Technology,940.17,7,0.48,-125.93,Central,2023-10-19,First Class,Copiers
+ORD-1157,CUST-6895,Office Supplies,757.58,5,0.01,126.91,West,2023-07-08,Standard Class,Art
+ORD-1158,CUST-3708,Office Supplies,590.76,4,0.24,140.6,West,2022-12-16,Same Day,Paper
+ORD-1159,CUST-2750,Office Supplies,830.15,8,0.17,176.08,East,2022-07-19,Same Day,Binders
+ORD-1160,CUST-6604,Office Supplies,89.38,9,0.22,51.79,South,2023-11-17,First Class,Art
+ORD-1161,CUST-3421,Office Supplies,482.07,9,0.29,247.03,East,2022-12-01,Standard Class,Paper
+ORD-1162,CUST-8119,Office Supplies,633.79,3,0.22,268.17,West,2023-08-30,First Class,Labels
+ORD-1163,CUST-9901,Office Supplies,830.37,3,0.21,203.69,East,2022-08-05,First Class,Art
+ORD-1164,CUST-6319,Office Supplies,785.63,5,0.37,117.8,East,2023-09-15,Second Class,Binders
+ORD-1165,CUST-7609,Furniture,284.3,5,0.34,-48.14,Central,2022-12-19,Same Day,Chairs
+ORD-1166,CUST-6387,Technology,941.47,2,0.42,291.47,East,2023-11-23,First Class,Phones
+ORD-1167,CUST-4993,Office Supplies,133.1,1,0.12,-62.93,West,2023-11-06,Second Class,Labels
+ORD-1168,CUST-9680,Office Supplies,876.38,8,0.3,-98.67,East,2023-09-23,First Class,Labels
+ORD-1169,CUST-9044,Technology,971.23,3,0.29,21.08,South,2022-11-21,First Class,Phones
+ORD-1170,CUST-9238,Furniture,185.38,1,0.18,-171.58,Central,2022-08-16,First Class,Chairs
+ORD-1171,CUST-5873,Technology,724.85,1,0.24,289.25,West,2022-05-25,Same Day,Phones
+ORD-1172,CUST-5806,Technology,49.88,2,0.16,94.22,East,2022-11-04,Standard Class,Machines
+ORD-1173,CUST-9592,Office Supplies,411.37,6,0.07,78.48,South,2023-10-16,Same Day,Labels
+ORD-1174,CUST-6913,Technology,521.12,6,0.11,127.9,West,2023-09-26,Second Class,Accessories
+ORD-1175,CUST-8124,Technology,584.84,3,0.05,48.51,East,2022-10-12,Standard Class,Copiers
+ORD-1176,CUST-4157,Office Supplies,936.58,4,0.34,-183.97,Central,2023-01-27,Second Class,Labels
+ORD-1177,CUST-1390,Office Supplies,675.53,2,0.33,106.16,East,2022-12-26,First Class,Binders
+ORD-1178,CUST-5430,Office Supplies,486.47,2,0.48,158.09,West,2022-06-14,Standard Class,Art
+ORD-1179,CUST-9820,Office Supplies,811.58,7,0.36,8.37,West,2023-08-04,Second Class,Labels
+ORD-1180,CUST-8686,Technology,951.03,1,0.03,178.65,West,2022-08-12,First Class,Copiers
+ORD-1181,CUST-5232,Technology,31.85,7,0.44,-86.5,South,2022-05-04,Second Class,Accessories
+ORD-1182,CUST-9007,Furniture,982.7,1,0.43,-89.36,East,2022-12-10,Second Class,Furnishings
+ORD-1183,CUST-2521,Furniture,95.27,6,0.22,-119.29,East,2023-06-08,Same Day,Chairs
+ORD-1184,CUST-2500,Technology,816.24,3,0.29,-14.0,East,2022-02-21,First Class,Phones
+ORD-1185,CUST-7737,Furniture,287.53,8,0.49,223.51,Central,2022-05-09,Same Day,Tables
+ORD-1186,CUST-4294,Technology,140.86,6,0.27,213.96,South,2022-05-15,Standard Class,Accessories
+ORD-1187,CUST-6085,Furniture,445.46,2,0.45,-8.59,South,2023-10-19,First Class,Tables
+ORD-1188,CUST-3419,Office Supplies,647.52,8,0.04,94.56,Central,2022-05-07,Same Day,Paper
+ORD-1189,CUST-4042,Furniture,387.14,5,0.1,160.41,South,2022-03-12,Same Day,Tables
+ORD-1190,CUST-5497,Office Supplies,64.02,8,0.22,-79.4,Central,2022-09-30,Standard Class,Labels
+ORD-1191,CUST-2466,Office Supplies,603.47,8,0.29,-115.93,West,2022-07-06,Second Class,Labels
+ORD-1192,CUST-4561,Office Supplies,903.38,6,0.41,286.05,West,2022-01-03,Second Class,Art
+ORD-1193,CUST-1614,Office Supplies,389.38,2,0.49,108.78,South,2022-10-12,Second Class,Paper
+ORD-1194,CUST-6392,Furniture,224.17,8,0.19,290.71,West,2022-01-22,Standard Class,Chairs
+ORD-1195,CUST-8693,Technology,448.15,6,0.02,-31.12,West,2022-06-15,Same Day,Phones
+ORD-1196,CUST-4223,Office Supplies,57.88,6,0.4,151.52,West,2022-11-06,First Class,Paper
+ORD-1197,CUST-8138,Furniture,822.28,8,0.3,-88.7,East,2023-04-22,Standard Class,Tables
+ORD-1198,CUST-3667,Office Supplies,828.08,1,0.1,-69.4,West,2023-05-13,Second Class,Paper
+ORD-1199,CUST-8980,Furniture,592.12,2,0.25,55.95,East,2023-03-10,Second Class,Tables
+ORD-1200,CUST-1130,Furniture,359.57,9,0.37,-40.19,Central,2022-08-22,First Class,Tables
+ORD-1201,CUST-3983,Furniture,801.79,8,0.39,-116.19,Central,2023-11-01,Standard Class,Chairs
+ORD-1202,CUST-5278,Technology,559.14,7,0.25,-68.56,Central,2023-10-25,Second Class,Copiers
+ORD-1203,CUST-8126,Furniture,827.67,7,0.15,-182.13,Central,2023-12-26,Standard Class,Tables
+ORD-1204,CUST-9230,Furniture,635.14,5,0.49,152.21,Central,2023-01-11,Same Day,Tables
+ORD-1205,CUST-8694,Technology,786.56,2,0.33,46.06,West,2023-12-31,Standard Class,Accessories
+ORD-1206,CUST-7640,Technology,602.58,6,0.2,-152.88,West,2022-09-03,Same Day,Machines
+ORD-1207,CUST-6468,Furniture,420.0,3,0.14,-114.15,West,2022-10-30,First Class,Chairs
+ORD-1208,CUST-1920,Technology,958.37,4,0.37,-148.73,Central,2023-02-09,Same Day,Phones
+ORD-1209,CUST-8564,Office Supplies,545.7,2,0.12,106.3,Central,2023-10-25,Same Day,Art
+ORD-1210,CUST-9684,Office Supplies,609.04,2,0.09,-152.89,East,2023-12-09,First Class,Labels
+ORD-1211,CUST-9502,Technology,228.28,8,0.26,177.14,South,2022-01-21,Second Class,Machines
+ORD-1212,CUST-9930,Technology,629.39,8,0.14,-189.74,West,2022-09-14,First Class,Machines
+ORD-1213,CUST-4241,Furniture,575.89,6,0.31,-75.31,South,2023-02-03,Standard Class,Bookcases
+ORD-1214,CUST-1545,Technology,192.99,5,0.06,245.33,Central,2023-06-13,First Class,Copiers
+ORD-1215,CUST-5346,Furniture,68.99,8,0.33,159.27,Central,2022-02-20,Standard Class,Bookcases
+ORD-1216,CUST-4810,Office Supplies,608.32,4,0.14,-163.52,Central,2023-03-23,Second Class,Labels
+ORD-1217,CUST-8206,Technology,766.06,4,0.0,210.56,South,2022-09-27,Standard Class,Phones
+ORD-1218,CUST-3032,Furniture,528.17,5,0.06,46.52,East,2023-08-18,First Class,Furnishings
+ORD-1219,CUST-9436,Furniture,234.5,1,0.47,223.39,Central,2023-09-28,First Class,Bookcases
+ORD-1220,CUST-1271,Office Supplies,669.86,1,0.43,100.37,East,2022-09-19,Second Class,Labels
+ORD-1221,CUST-4511,Technology,89.3,2,0.12,140.92,East,2022-12-31,First Class,Accessories
+ORD-1222,CUST-2771,Office Supplies,447.42,8,0.39,296.75,West,2022-02-18,Second Class,Labels
+ORD-1223,CUST-5361,Furniture,171.73,7,0.3,-83.83,South,2023-06-02,Second Class,Furnishings
+ORD-1224,CUST-8069,Furniture,192.61,9,0.49,111.97,Central,2023-09-21,First Class,Chairs
+ORD-1225,CUST-1920,Technology,210.27,5,0.19,30.16,East,2022-04-28,Same Day,Phones
+ORD-1226,CUST-9190,Furniture,392.84,2,0.34,-180.27,South,2023-03-29,Standard Class,Chairs
+ORD-1227,CUST-4430,Technology,60.64,7,0.03,-192.76,South,2023-10-03,Same Day,Accessories
+ORD-1228,CUST-5435,Office Supplies,403.82,8,0.2,-140.39,Central,2023-02-01,Second Class,Binders
+ORD-1229,CUST-4760,Technology,516.59,7,0.48,124.55,West,2023-11-14,Standard Class,Accessories
+ORD-1230,CUST-3050,Technology,488.46,7,0.27,83.58,West,2022-01-27,Same Day,Copiers
+ORD-1231,CUST-2165,Furniture,388.96,5,0.14,76.71,East,2023-12-12,First Class,Chairs
+ORD-1232,CUST-9567,Furniture,840.76,2,0.06,-184.07,West,2023-01-07,Same Day,Furnishings
+ORD-1233,CUST-3033,Technology,153.87,6,0.35,34.65,West,2022-04-07,Standard Class,Machines
+ORD-1234,CUST-7467,Furniture,510.64,4,0.32,262.31,West,2023-06-13,Standard Class,Tables
+ORD-1235,CUST-1145,Furniture,71.42,2,0.19,-1.2,South,2023-11-16,Standard Class,Chairs
+ORD-1236,CUST-5388,Furniture,80.44,9,0.48,112.46,Central,2023-09-05,Standard Class,Furnishings
+ORD-1237,CUST-8832,Technology,578.13,7,0.01,189.91,South,2022-07-05,Same Day,Copiers
+ORD-1238,CUST-9623,Furniture,570.36,6,0.15,191.96,South,2023-11-27,First Class,Chairs
+ORD-1239,CUST-9896,Technology,879.25,5,0.46,59.64,Central,2022-08-03,First Class,Copiers
+ORD-1240,CUST-9173,Furniture,562.29,3,0.16,228.98,South,2022-09-08,Standard Class,Furnishings
+ORD-1241,CUST-3632,Office Supplies,960.19,4,0.13,-4.31,East,2022-08-04,First Class,Binders
+ORD-1242,CUST-5494,Furniture,58.21,3,0.27,244.35,East,2022-01-29,Same Day,Tables
+ORD-1243,CUST-9056,Furniture,107.03,8,0.41,-79.89,South,2022-04-12,First Class,Furnishings
+ORD-1244,CUST-8511,Technology,53.63,3,0.05,-59.89,West,2022-05-03,Second Class,Copiers
+ORD-1245,CUST-2828,Technology,193.42,7,0.47,-173.44,South,2022-02-23,First Class,Phones
+ORD-1246,CUST-5805,Furniture,545.86,7,0.4,197.79,West,2022-10-10,Standard Class,Bookcases
+ORD-1247,CUST-1806,Office Supplies,649.12,7,0.09,8.53,South,2023-09-06,First Class,Art
+ORD-1248,CUST-8486,Furniture,55.13,7,0.36,-85.44,East,2022-04-27,First Class,Tables
+ORD-1249,CUST-9202,Furniture,946.51,2,0.19,-84.1,West,2023-09-08,First Class,Tables
+ORD-1250,CUST-2868,Office Supplies,843.74,3,0.2,250.7,East,2023-07-11,First Class,Labels
+ORD-1251,CUST-8878,Technology,303.65,9,0.39,216.96,South,2022-04-24,Second Class,Accessories
+ORD-1252,CUST-6690,Furniture,86.42,3,0.48,76.77,Central,2023-06-27,Same Day,Tables
+ORD-1253,CUST-8827,Technology,178.19,2,0.06,108.06,West,2023-11-07,Standard Class,Machines
+ORD-1254,CUST-6429,Technology,135.67,9,0.21,37.16,West,2023-12-02,Standard Class,Machines
+ORD-1255,CUST-4564,Office Supplies,132.05,9,0.24,-4.17,South,2022-10-20,First Class,Labels
+ORD-1256,CUST-2389,Office Supplies,523.38,4,0.19,257.74,South,2022-07-14,Same Day,Labels
+ORD-1257,CUST-8274,Technology,253.39,9,0.18,-137.19,West,2022-10-19,First Class,Copiers
+ORD-1258,CUST-1824,Furniture,364.56,3,0.03,9.22,Central,2022-09-18,Second Class,Bookcases
+ORD-1259,CUST-3265,Technology,989.61,7,0.34,-27.72,South,2022-07-26,Same Day,Machines
+ORD-1260,CUST-1936,Furniture,687.47,7,0.22,49.08,South,2023-07-18,Same Day,Furnishings
+ORD-1261,CUST-7402,Furniture,949.49,8,0.1,28.82,South,2022-02-18,Same Day,Chairs
+ORD-1262,CUST-4845,Office Supplies,151.13,4,0.41,59.44,Central,2022-01-06,Same Day,Binders
+ORD-1263,CUST-2796,Furniture,388.32,3,0.4,-130.04,West,2023-01-14,First Class,Chairs
+ORD-1264,CUST-9245,Furniture,559.18,3,0.24,56.57,East,2023-01-29,Second Class,Tables
+ORD-1265,CUST-8214,Technology,85.99,5,0.15,-78.79,South,2022-08-12,Same Day,Copiers
+ORD-1266,CUST-1726,Office Supplies,14.15,1,0.32,-107.83,Central,2022-01-23,Standard Class,Art
+ORD-1267,CUST-3736,Furniture,673.73,3,0.14,-167.58,West,2023-10-19,Standard Class,Chairs
+ORD-1268,CUST-2913,Furniture,645.4,6,0.12,181.33,West,2022-04-20,Second Class,Chairs
+ORD-1269,CUST-8657,Office Supplies,416.68,3,0.37,13.72,Central,2023-12-25,Standard Class,Art
+ORD-1270,CUST-3466,Technology,494.75,5,0.02,113.32,South,2023-07-07,First Class,Accessories
+ORD-1271,CUST-8312,Office Supplies,421.29,9,0.05,163.8,East,2023-02-03,First Class,Binders
+ORD-1272,CUST-9194,Office Supplies,33.76,2,0.0,139.66,South,2022-06-21,Second Class,Labels
+ORD-1273,CUST-8906,Furniture,342.02,2,0.08,35.25,West,2023-11-29,Same Day,Chairs
+ORD-1274,CUST-5876,Furniture,185.31,6,0.03,-6.05,East,2023-12-27,Standard Class,Bookcases
+ORD-1275,CUST-8287,Technology,107.44,6,0.5,-12.02,South,2022-11-02,Standard Class,Copiers
+ORD-1276,CUST-1892,Furniture,957.15,8,0.14,120.02,East,2023-07-18,Second Class,Chairs
+ORD-1277,CUST-5675,Furniture,603.37,2,0.07,47.4,Central,2023-08-05,Second Class,Chairs
+ORD-1278,CUST-2933,Office Supplies,731.37,9,0.12,224.57,South,2023-12-09,Standard Class,Labels
+ORD-1279,CUST-2380,Furniture,322.21,2,0.47,237.35,West,2022-05-31,Same Day,Furnishings
+ORD-1280,CUST-2290,Technology,399.22,1,0.26,-114.72,West,2023-03-04,Second Class,Accessories
+ORD-1281,CUST-2640,Office Supplies,244.55,2,0.18,-131.88,East,2023-09-13,First Class,Paper
+ORD-1282,CUST-8490,Technology,106.0,7,0.44,115.2,Central,2023-04-12,Standard Class,Machines
+ORD-1283,CUST-2218,Office Supplies,187.24,8,0.2,-49.39,South,2023-09-22,Second Class,Paper
+ORD-1284,CUST-6016,Furniture,799.54,5,0.17,-190.71,Central,2023-08-30,Second Class,Tables
+ORD-1285,CUST-7881,Office Supplies,680.77,6,0.1,244.32,Central,2023-07-10,Second Class,Binders
+ORD-1286,CUST-1954,Office Supplies,551.46,1,0.19,-86.55,East,2022-03-08,Standard Class,Labels
+ORD-1287,CUST-8291,Furniture,480.34,6,0.16,264.64,East,2022-06-05,First Class,Chairs
+ORD-1288,CUST-1974,Furniture,923.21,8,0.34,158.72,South,2022-07-25,First Class,Chairs
+ORD-1289,CUST-5133,Technology,82.01,3,0.14,181.33,West,2022-06-04,Standard Class,Accessories
+ORD-1290,CUST-6370,Technology,287.79,1,0.29,-99.27,South,2023-11-22,Second Class,Phones
+ORD-1291,CUST-4972,Furniture,356.44,4,0.03,-82.9,Central,2023-05-24,Standard Class,Bookcases
+ORD-1292,CUST-6295,Furniture,784.6,1,0.1,60.63,East,2023-07-26,Standard Class,Tables
+ORD-1293,CUST-9228,Furniture,992.59,8,0.2,-113.95,Central,2022-03-15,Second Class,Bookcases
+ORD-1294,CUST-4020,Office Supplies,248.26,5,0.47,-47.28,East,2022-02-18,Standard Class,Paper
+ORD-1295,CUST-9987,Office Supplies,875.56,1,0.19,-39.27,West,2023-04-12,Same Day,Binders
+ORD-1296,CUST-5036,Office Supplies,832.32,8,0.33,-120.19,Central,2023-08-08,First Class,Paper
+ORD-1297,CUST-6068,Furniture,232.41,9,0.13,-97.41,East,2023-12-09,Same Day,Bookcases
+ORD-1298,CUST-6233,Technology,405.34,2,0.06,194.28,South,2022-06-28,Same Day,Accessories
+ORD-1299,CUST-1317,Furniture,415.58,9,0.03,-116.4,South,2022-02-17,Same Day,Bookcases
+ORD-1300,CUST-3396,Office Supplies,978.44,8,0.15,-185.77,South,2022-03-13,Standard Class,Labels
+ORD-1301,CUST-3162,Office Supplies,189.08,7,0.08,114.68,Central,2022-04-23,Second Class,Binders
+ORD-1302,CUST-3745,Furniture,801.17,3,0.09,287.99,East,2022-06-08,Standard Class,Bookcases
+ORD-1303,CUST-2591,Furniture,340.85,2,0.38,-34.39,East,2022-01-30,First Class,Furnishings
+ORD-1304,CUST-7183,Office Supplies,733.56,7,0.01,-140.67,East,2022-04-07,Standard Class,Binders
+ORD-1305,CUST-4930,Office Supplies,425.81,5,0.28,85.19,Central,2022-09-08,Standard Class,Labels
+ORD-1306,CUST-2312,Office Supplies,582.58,6,0.19,253.18,East,2023-06-03,Standard Class,Art
+ORD-1307,CUST-5311,Furniture,834.29,4,0.25,192.03,West,2022-04-02,Standard Class,Chairs
+ORD-1308,CUST-8314,Office Supplies,806.12,2,0.28,111.26,Central,2022-04-23,Same Day,Labels
+ORD-1309,CUST-3383,Office Supplies,867.76,9,0.16,-42.47,West,2022-09-16,Second Class,Art
+ORD-1310,CUST-4239,Technology,69.02,3,0.15,70.94,West,2022-04-17,First Class,Machines
+ORD-1311,CUST-3139,Furniture,695.13,7,0.37,-154.38,South,2023-07-29,First Class,Chairs
+ORD-1312,CUST-2704,Technology,148.59,8,0.44,139.47,Central,2023-01-25,First Class,Phones
+ORD-1313,CUST-7924,Technology,421.66,2,0.1,162.55,East,2022-12-24,Standard Class,Phones
+ORD-1314,CUST-1362,Office Supplies,553.1,6,0.05,282.52,West,2022-07-18,First Class,Art
+ORD-1315,CUST-3604,Furniture,408.71,8,0.45,-69.8,Central,2023-03-03,Same Day,Furnishings
+ORD-1316,CUST-5286,Office Supplies,524.42,7,0.17,-190.77,East,2023-04-23,Second Class,Labels
+ORD-1317,CUST-4738,Furniture,996.56,3,0.28,72.8,South,2023-05-18,Standard Class,Bookcases
+ORD-1318,CUST-3469,Technology,143.87,1,0.18,153.4,Central,2023-10-20,Standard Class,Phones
+ORD-1319,CUST-5795,Furniture,678.7,6,0.06,195.2,Central,2023-07-27,Same Day,Tables
+ORD-1320,CUST-7150,Office Supplies,402.04,8,0.29,-103.13,Central,2022-04-30,First Class,Binders
+ORD-1321,CUST-1556,Office Supplies,141.68,6,0.26,-69.12,East,2023-07-27,Standard Class,Paper
+ORD-1322,CUST-3808,Office Supplies,167.15,5,0.1,56.3,West,2022-11-05,Standard Class,Binders
+ORD-1323,CUST-6150,Furniture,949.78,8,0.23,-34.7,West,2023-06-22,Same Day,Bookcases
+ORD-1324,CUST-8561,Technology,880.81,2,0.4,230.26,Central,2023-09-19,Same Day,Accessories
+ORD-1325,CUST-3719,Technology,907.97,1,0.3,36.88,Central,2023-04-20,First Class,Copiers
+ORD-1326,CUST-7506,Furniture,991.62,1,0.05,199.79,East,2023-07-06,Second Class,Tables
+ORD-1327,CUST-4741,Office Supplies,216.23,4,0.27,90.31,South,2022-12-10,Second Class,Labels
+ORD-1328,CUST-4998,Technology,361.88,6,0.35,186.55,Central,2023-09-20,First Class,Accessories
+ORD-1329,CUST-3403,Office Supplies,672.53,9,0.4,-33.66,Central,2022-05-16,Second Class,Paper
+ORD-1330,CUST-9780,Furniture,488.96,1,0.31,215.71,South,2022-10-04,Same Day,Tables
+ORD-1331,CUST-1294,Office Supplies,424.21,1,0.08,-62.71,Central,2023-06-17,Same Day,Labels
+ORD-1332,CUST-6343,Technology,364.23,5,0.36,73.05,West,2022-01-31,Same Day,Copiers
+ORD-1333,CUST-2136,Technology,597.84,5,0.34,-93.0,Central,2022-09-04,Second Class,Machines
+ORD-1334,CUST-3064,Office Supplies,579.84,5,0.01,37.76,West,2023-02-15,Second Class,Paper
+ORD-1335,CUST-8009,Furniture,169.84,6,0.21,-40.91,East,2022-01-27,Standard Class,Chairs
+ORD-1336,CUST-5543,Office Supplies,477.02,8,0.17,-66.65,East,2022-03-14,Standard Class,Labels
+ORD-1337,CUST-2007,Furniture,557.94,3,0.33,283.49,West,2022-04-07,Standard Class,Chairs
+ORD-1338,CUST-6445,Office Supplies,574.58,9,0.11,-119.96,West,2023-11-04,Second Class,Labels
+ORD-1339,CUST-6352,Technology,218.01,1,0.3,193.66,South,2022-12-12,Standard Class,Machines
+ORD-1340,CUST-2435,Furniture,744.85,4,0.46,292.08,West,2023-04-21,Same Day,Tables
+ORD-1341,CUST-1571,Furniture,34.95,9,0.4,-190.05,West,2022-10-27,Second Class,Bookcases
+ORD-1342,CUST-3382,Furniture,361.28,8,0.46,149.51,Central,2022-10-26,First Class,Bookcases
+ORD-1343,CUST-6084,Technology,782.41,9,0.49,-73.54,South,2022-10-14,Second Class,Accessories
+ORD-1344,CUST-1277,Office Supplies,568.25,1,0.01,-179.76,West,2023-03-25,Standard Class,Labels
+ORD-1345,CUST-8059,Technology,268.55,9,0.31,1.44,West,2022-07-31,Second Class,Copiers
+ORD-1346,CUST-2887,Furniture,698.0,3,0.21,267.61,West,2022-03-17,Standard Class,Bookcases
+ORD-1347,CUST-2265,Office Supplies,571.72,9,0.43,-194.12,Central,2023-02-05,Standard Class,Art
+ORD-1348,CUST-8491,Technology,798.28,1,0.13,93.94,Central,2023-10-17,First Class,Accessories
+ORD-1349,CUST-2040,Furniture,737.67,1,0.49,50.7,Central,2022-02-03,First Class,Chairs
+ORD-1350,CUST-9073,Furniture,614.01,9,0.31,236.69,East,2023-05-13,Same Day,Chairs
+ORD-1351,CUST-3752,Technology,493.3,6,0.4,-158.0,Central,2023-05-31,Standard Class,Phones
+ORD-1352,CUST-9213,Technology,141.85,4,0.04,140.76,West,2022-11-24,Second Class,Phones
+ORD-1353,CUST-5569,Technology,268.72,7,0.09,140.05,Central,2022-04-08,First Class,Phones
+ORD-1354,CUST-7353,Furniture,424.91,5,0.38,134.54,Central,2023-01-01,First Class,Bookcases
+ORD-1355,CUST-3353,Technology,603.31,7,0.01,271.17,South,2023-12-30,Standard Class,Copiers
+ORD-1356,CUST-8437,Furniture,518.57,8,0.41,211.54,West,2023-04-08,Second Class,Furnishings
+ORD-1357,CUST-5799,Technology,295.3,8,0.01,-179.01,Central,2022-01-28,First Class,Copiers
+ORD-1358,CUST-1686,Furniture,16.4,1,0.33,35.54,East,2023-12-14,First Class,Tables
+ORD-1359,CUST-9476,Furniture,501.28,8,0.18,-1.02,South,2023-01-21,Second Class,Furnishings
+ORD-1360,CUST-5811,Office Supplies,292.77,6,0.31,-44.93,Central,2022-09-30,First Class,Art
+ORD-1361,CUST-9954,Technology,737.26,4,0.35,25.67,South,2022-05-07,Second Class,Machines
+ORD-1362,CUST-6346,Technology,33.71,8,0.17,-7.9,South,2022-07-21,Standard Class,Machines
+ORD-1363,CUST-6043,Furniture,588.98,3,0.05,16.17,East,2023-06-05,First Class,Chairs
+ORD-1364,CUST-3428,Furniture,942.06,4,0.03,289.63,East,2022-10-14,Standard Class,Furnishings
+ORD-1365,CUST-6126,Furniture,182.67,6,0.29,-155.68,East,2023-03-26,Second Class,Bookcases
+ORD-1366,CUST-9220,Office Supplies,476.93,7,0.26,261.12,West,2022-03-29,Standard Class,Binders
+ORD-1367,CUST-8813,Office Supplies,100.51,4,0.37,40.12,South,2022-11-14,Standard Class,Art
+ORD-1368,CUST-4356,Furniture,629.43,4,0.25,111.87,Central,2022-01-19,Standard Class,Chairs
+ORD-1369,CUST-9707,Technology,555.03,7,0.21,215.09,East,2023-08-16,Same Day,Copiers
+ORD-1370,CUST-8266,Technology,413.29,6,0.2,-19.77,East,2022-04-17,Second Class,Phones
+ORD-1371,CUST-7540,Office Supplies,526.16,8,0.01,15.21,South,2023-04-03,Second Class,Binders
+ORD-1372,CUST-1038,Office Supplies,897.61,1,0.17,4.76,South,2022-11-07,Second Class,Paper
+ORD-1373,CUST-4342,Furniture,204.33,7,0.49,-12.63,South,2023-02-16,Second Class,Bookcases
+ORD-1374,CUST-3844,Technology,32.34,7,0.44,262.76,Central,2023-09-16,Second Class,Machines
+ORD-1375,CUST-2098,Furniture,863.05,7,0.16,214.46,West,2023-09-27,First Class,Chairs
+ORD-1376,CUST-8027,Office Supplies,581.35,7,0.29,-145.5,West,2023-05-13,First Class,Art
+ORD-1377,CUST-2823,Technology,891.75,8,0.42,-145.94,East,2022-09-01,First Class,Phones
+ORD-1378,CUST-4155,Technology,600.98,9,0.22,13.93,West,2023-11-21,Standard Class,Accessories
+ORD-1379,CUST-4093,Office Supplies,812.06,9,0.01,-150.67,Central,2023-07-31,Standard Class,Paper
+ORD-1380,CUST-6658,Furniture,435.38,2,0.04,109.55,West,2023-01-15,Second Class,Tables
+ORD-1381,CUST-4778,Furniture,752.36,7,0.26,-128.15,Central,2023-05-30,Same Day,Tables
+ORD-1382,CUST-3896,Technology,913.91,7,0.48,61.19,East,2022-07-26,Second Class,Machines
+ORD-1383,CUST-1988,Office Supplies,576.4,4,0.35,-196.39,South,2023-01-29,First Class,Labels
+ORD-1384,CUST-5116,Technology,188.98,9,0.04,-41.7,Central,2022-01-21,Second Class,Phones
+ORD-1385,CUST-7446,Office Supplies,276.11,8,0.09,138.6,South,2023-06-11,Standard Class,Art
+ORD-1386,CUST-5179,Furniture,206.66,1,0.39,42.02,East,2022-12-09,Second Class,Tables
+ORD-1387,CUST-2682,Office Supplies,254.39,2,0.42,289.13,Central,2023-12-19,First Class,Paper
+ORD-1388,CUST-6626,Furniture,313.35,2,0.31,237.05,Central,2022-07-21,Second Class,Furnishings
+ORD-1389,CUST-8424,Office Supplies,559.58,8,0.32,-20.46,West,2022-04-30,Standard Class,Labels
+ORD-1390,CUST-1933,Technology,592.11,1,0.01,-177.26,Central,2023-10-11,Same Day,Accessories
+ORD-1391,CUST-4598,Furniture,432.23,4,0.41,222.81,East,2023-01-24,First Class,Bookcases
+ORD-1392,CUST-2980,Technology,619.27,5,0.39,255.62,South,2023-06-21,Second Class,Phones
+ORD-1393,CUST-4056,Technology,90.76,9,0.13,210.31,Central,2022-08-22,Standard Class,Phones
+ORD-1394,CUST-9984,Furniture,96.91,7,0.35,-136.03,East,2023-09-25,First Class,Chairs
+ORD-1395,CUST-1791,Furniture,180.11,8,0.11,298.96,East,2023-08-25,First Class,Chairs
+ORD-1396,CUST-6390,Technology,522.9,9,0.02,-70.71,Central,2022-11-16,Standard Class,Copiers
+ORD-1397,CUST-7635,Technology,221.85,7,0.1,162.1,West,2023-12-13,Second Class,Copiers
+ORD-1398,CUST-3255,Technology,290.45,5,0.09,254.02,Central,2022-06-29,Second Class,Copiers
+ORD-1399,CUST-4610,Technology,406.31,5,0.17,-82.16,Central,2023-01-03,Second Class,Machines
+ORD-1400,CUST-2607,Furniture,813.75,6,0.21,254.13,West,2022-03-17,First Class,Tables
+ORD-1401,CUST-6179,Furniture,23.72,5,0.25,-45.26,East,2023-10-11,Same Day,Bookcases
+ORD-1402,CUST-7573,Technology,652.89,9,0.24,288.21,Central,2023-10-12,First Class,Phones
+ORD-1403,CUST-1984,Office Supplies,672.19,3,0.14,-59.37,West,2023-05-11,Second Class,Art
+ORD-1404,CUST-6776,Office Supplies,800.67,3,0.01,276.72,South,2023-06-06,First Class,Paper
+ORD-1405,CUST-4676,Furniture,933.43,7,0.3,-173.23,South,2022-07-20,Same Day,Furnishings
+ORD-1406,CUST-4380,Technology,29.94,7,0.2,154.64,West,2022-12-12,First Class,Phones
+ORD-1407,CUST-9711,Technology,162.25,6,0.15,66.06,East,2023-04-28,Standard Class,Machines
+ORD-1408,CUST-9782,Furniture,887.31,3,0.43,38.94,West,2022-08-07,Second Class,Bookcases
+ORD-1409,CUST-2050,Office Supplies,463.93,7,0.37,-88.25,East,2022-03-01,Second Class,Binders
+ORD-1410,CUST-4633,Office Supplies,568.94,5,0.43,152.8,South,2023-10-21,Second Class,Binders
+ORD-1411,CUST-7342,Office Supplies,666.4,7,0.25,-104.6,Central,2023-09-11,First Class,Art
+ORD-1412,CUST-1959,Furniture,682.28,2,0.07,76.42,West,2023-07-04,First Class,Bookcases
+ORD-1413,CUST-7059,Office Supplies,932.42,6,0.35,-73.38,South,2023-10-08,First Class,Paper
+ORD-1414,CUST-9884,Furniture,996.98,8,0.1,277.81,Central,2022-08-09,Second Class,Bookcases
+ORD-1415,CUST-6655,Furniture,722.96,1,0.22,-185.68,South,2023-05-17,First Class,Bookcases
+ORD-1416,CUST-5473,Technology,294.35,4,0.03,-100.14,West,2022-05-13,Second Class,Copiers
+ORD-1417,CUST-3946,Office Supplies,880.95,1,0.41,-78.84,West,2022-02-22,First Class,Binders
+ORD-1418,CUST-8725,Furniture,58.73,1,0.06,7.03,Central,2023-03-26,Second Class,Tables
+ORD-1419,CUST-1526,Office Supplies,238.77,8,0.45,-83.63,West,2022-03-03,Standard Class,Binders
+ORD-1420,CUST-4224,Office Supplies,898.41,7,0.43,45.67,South,2022-01-23,First Class,Art
+ORD-1421,CUST-2875,Technology,263.63,1,0.23,236.23,Central,2022-02-13,Second Class,Accessories
+ORD-1422,CUST-2763,Office Supplies,228.44,2,0.37,156.03,Central,2023-07-12,Standard Class,Art
+ORD-1423,CUST-9712,Technology,146.74,4,0.31,89.98,South,2023-10-21,Standard Class,Phones
+ORD-1424,CUST-6797,Furniture,860.52,1,0.4,-155.5,East,2023-12-29,Same Day,Chairs
+ORD-1425,CUST-8099,Office Supplies,505.06,3,0.22,147.0,Central,2022-02-16,First Class,Art
+ORD-1426,CUST-6109,Furniture,678.14,8,0.39,-116.79,East,2022-01-24,Second Class,Tables
+ORD-1427,CUST-7644,Office Supplies,246.68,8,0.23,193.18,South,2023-10-19,Same Day,Binders
+ORD-1428,CUST-1116,Furniture,760.46,8,0.47,-74.97,South,2022-03-30,First Class,Bookcases
+ORD-1429,CUST-3433,Office Supplies,762.41,6,0.24,8.52,Central,2022-06-23,Standard Class,Labels
+ORD-1430,CUST-6463,Office Supplies,319.47,6,0.23,-24.76,West,2023-07-30,First Class,Art
+ORD-1431,CUST-1583,Office Supplies,416.58,5,0.39,229.41,Central,2022-04-29,Second Class,Art
+ORD-1432,CUST-9586,Office Supplies,217.59,9,0.41,-136.73,West,2023-10-30,Standard Class,Paper
+ORD-1433,CUST-4788,Office Supplies,976.8,4,0.28,82.82,East,2022-06-27,Same Day,Art
+ORD-1434,CUST-5167,Office Supplies,649.15,7,0.09,-128.97,West,2022-12-08,First Class,Labels
+ORD-1435,CUST-9465,Office Supplies,935.2,1,0.23,152.4,Central,2023-07-22,First Class,Art
+ORD-1436,CUST-2389,Office Supplies,310.35,9,0.48,252.54,West,2022-02-28,Same Day,Labels
+ORD-1437,CUST-9357,Office Supplies,784.07,7,0.38,17.3,South,2023-03-14,First Class,Binders
+ORD-1438,CUST-7154,Furniture,768.2,9,0.41,44.05,East,2023-03-04,First Class,Bookcases
+ORD-1439,CUST-6420,Technology,694.74,7,0.02,263.71,South,2023-03-02,First Class,Accessories
+ORD-1440,CUST-9920,Office Supplies,965.98,2,0.23,60.5,South,2023-01-16,Standard Class,Art
+ORD-1441,CUST-3043,Technology,399.62,6,0.32,43.8,South,2023-05-01,Standard Class,Machines
+ORD-1442,CUST-5197,Office Supplies,139.41,4,0.42,89.16,South,2022-07-04,Second Class,Labels
+ORD-1443,CUST-4496,Office Supplies,674.99,3,0.02,144.61,West,2023-07-13,First Class,Paper
+ORD-1444,CUST-1778,Furniture,732.02,2,0.43,-146.56,South,2023-04-05,Second Class,Furnishings
+ORD-1445,CUST-1213,Furniture,579.31,6,0.27,210.56,West,2022-04-12,Standard Class,Bookcases
+ORD-1446,CUST-4762,Technology,214.75,8,0.1,17.75,South,2023-07-10,First Class,Machines
+ORD-1447,CUST-7731,Furniture,509.41,6,0.16,-163.83,Central,2022-01-15,Second Class,Bookcases
+ORD-1448,CUST-4117,Furniture,319.07,9,0.14,193.09,South,2022-02-20,First Class,Bookcases
+ORD-1449,CUST-6791,Technology,433.19,5,0.27,-11.53,Central,2022-11-05,First Class,Machines
+ORD-1450,CUST-9783,Furniture,648.77,2,0.03,-149.82,West,2022-02-03,Same Day,Tables
+ORD-1451,CUST-3720,Office Supplies,747.76,8,0.08,116.89,East,2023-09-28,Second Class,Binders
+ORD-1452,CUST-9905,Technology,239.9,9,0.41,240.07,West,2023-08-12,Standard Class,Accessories
+ORD-1453,CUST-7047,Technology,411.27,4,0.07,243.88,East,2023-09-27,Second Class,Phones
+ORD-1454,CUST-9032,Office Supplies,276.47,6,0.12,278.83,East,2022-07-24,Second Class,Paper
+ORD-1455,CUST-1001,Furniture,206.65,8,0.23,233.85,South,2022-03-11,Second Class,Bookcases
+ORD-1456,CUST-7368,Technology,785.55,9,0.26,-198.93,East,2022-08-18,Same Day,Copiers
+ORD-1457,CUST-2949,Technology,910.16,5,0.38,-9.88,West,2023-04-25,First Class,Machines
+ORD-1458,CUST-7732,Office Supplies,376.53,6,0.22,209.27,South,2023-06-17,Standard Class,Binders
+ORD-1459,CUST-8833,Office Supplies,753.77,4,0.39,-16.87,East,2022-04-18,Same Day,Binders
+ORD-1460,CUST-1917,Furniture,898.03,5,0.31,100.77,West,2022-08-29,Standard Class,Furnishings
+ORD-1461,CUST-4174,Technology,847.66,7,0.06,103.16,East,2022-09-08,Same Day,Accessories
+ORD-1462,CUST-8014,Furniture,190.99,9,0.08,-17.49,East,2022-05-15,First Class,Furnishings
+ORD-1463,CUST-1089,Furniture,956.73,6,0.22,252.24,South,2022-03-31,Standard Class,Tables
+ORD-1464,CUST-2709,Office Supplies,382.91,6,0.2,51.61,South,2023-08-14,Second Class,Labels
+ORD-1465,CUST-4041,Technology,345.85,8,0.37,32.39,West,2023-03-16,Same Day,Phones
+ORD-1466,CUST-1105,Technology,71.81,4,0.29,298.76,South,2023-11-20,Standard Class,Phones
+ORD-1467,CUST-9619,Technology,491.31,3,0.19,46.75,South,2022-10-25,First Class,Accessories
+ORD-1468,CUST-2895,Office Supplies,117.92,7,0.09,-110.8,Central,2023-02-11,Standard Class,Binders
+ORD-1469,CUST-7090,Office Supplies,256.05,5,0.11,56.53,Central,2022-11-04,Same Day,Binders
+ORD-1470,CUST-9508,Office Supplies,323.77,2,0.29,207.01,West,2022-04-12,First Class,Binders
+ORD-1471,CUST-7082,Office Supplies,810.74,2,0.21,188.43,South,2022-12-27,Second Class,Binders
+ORD-1472,CUST-1634,Office Supplies,876.73,6,0.26,194.29,West,2023-09-16,Same Day,Art
+ORD-1473,CUST-2925,Technology,309.44,8,0.09,154.01,Central,2023-11-24,Same Day,Machines
+ORD-1474,CUST-3056,Furniture,860.11,1,0.33,-72.89,Central,2023-09-08,First Class,Furnishings
+ORD-1475,CUST-7917,Technology,858.66,6,0.43,231.04,Central,2023-06-12,Same Day,Copiers
+ORD-1476,CUST-4144,Furniture,767.0,2,0.13,246.72,West,2023-08-31,Standard Class,Chairs
+ORD-1477,CUST-1552,Office Supplies,155.23,2,0.25,-102.92,South,2022-10-20,Second Class,Labels
+ORD-1478,CUST-9907,Furniture,693.42,7,0.49,-134.77,East,2022-05-26,Standard Class,Furnishings
+ORD-1479,CUST-6383,Technology,945.57,1,0.17,287.8,South,2023-02-08,First Class,Machines
+ORD-1480,CUST-4911,Technology,685.72,6,0.3,234.16,West,2022-01-02,Same Day,Accessories
+ORD-1481,CUST-4389,Furniture,338.3,7,0.05,246.62,Central,2022-04-29,Second Class,Bookcases
+ORD-1482,CUST-9442,Office Supplies,505.57,8,0.3,243.19,East,2023-08-29,First Class,Paper
+ORD-1483,CUST-3430,Office Supplies,649.27,7,0.04,70.84,West,2022-07-10,Standard Class,Paper
+ORD-1484,CUST-1458,Technology,515.46,6,0.48,123.2,Central,2022-01-03,Same Day,Copiers
+ORD-1485,CUST-1207,Furniture,128.75,9,0.36,72.68,West,2023-05-02,Same Day,Furnishings
+ORD-1486,CUST-1899,Office Supplies,318.94,3,0.39,-174.4,East,2023-09-15,First Class,Paper
+ORD-1487,CUST-1021,Office Supplies,804.37,6,0.35,172.75,Central,2022-06-26,Standard Class,Labels
+ORD-1488,CUST-9601,Technology,862.8,4,0.29,52.67,South,2022-09-14,Same Day,Accessories
+ORD-1489,CUST-1894,Office Supplies,145.93,2,0.22,123.85,West,2023-06-18,Standard Class,Labels
+ORD-1490,CUST-1514,Furniture,952.86,1,0.43,51.32,East,2023-04-22,Second Class,Chairs
+ORD-1491,CUST-8294,Technology,335.53,1,0.48,45.91,South,2023-02-02,Same Day,Phones
+ORD-1492,CUST-5904,Technology,665.69,3,0.25,-114.11,East,2023-05-11,Second Class,Phones
+ORD-1493,CUST-8867,Furniture,754.31,4,0.47,-60.64,West,2022-08-08,Same Day,Bookcases
+ORD-1494,CUST-5109,Technology,813.83,2,0.29,-120.57,East,2022-06-22,First Class,Phones
+ORD-1495,CUST-8179,Office Supplies,946.29,1,0.27,-102.17,Central,2023-01-25,Same Day,Paper
+ORD-1496,CUST-2560,Office Supplies,319.79,4,0.23,286.49,East,2023-05-17,Same Day,Labels
+ORD-1497,CUST-2266,Furniture,859.92,7,0.1,-123.44,West,2023-07-31,Standard Class,Furnishings
+ORD-1498,CUST-4638,Office Supplies,140.37,6,0.0,-65.36,Central,2022-09-17,Standard Class,Labels
+ORD-1499,CUST-9941,Furniture,707.99,6,0.12,95.29,East,2022-05-11,Second Class,Furnishings
+ORD-1500,CUST-4427,Furniture,744.56,9,0.25,105.09,East,2022-04-23,Second Class,Tables
+ORD-1501,CUST-5780,Office Supplies,680.95,2,0.19,-123.01,Central,2023-12-24,Second Class,Labels
+ORD-1502,CUST-2927,Furniture,259.79,4,0.22,196.86,South,2022-01-20,Same Day,Tables
+ORD-1503,CUST-3356,Office Supplies,874.31,5,0.49,192.6,South,2022-08-03,Same Day,Paper
+ORD-1504,CUST-5790,Technology,177.17,1,0.18,-81.34,Central,2022-11-06,Second Class,Machines
+ORD-1505,CUST-1306,Technology,63.1,8,0.23,-55.67,East,2022-09-08,First Class,Machines
+ORD-1506,CUST-8979,Furniture,720.29,8,0.07,268.99,South,2023-05-03,First Class,Furnishings
+ORD-1507,CUST-4665,Office Supplies,480.72,6,0.02,212.84,Central,2023-01-17,Same Day,Paper
+ORD-1508,CUST-8057,Office Supplies,850.61,5,0.39,148.9,West,2023-02-13,First Class,Art
+ORD-1509,CUST-1661,Technology,389.56,8,0.29,-158.88,East,2022-09-28,First Class,Accessories
+ORD-1510,CUST-5644,Technology,176.6,3,0.38,9.13,West,2023-02-11,Second Class,Copiers
+ORD-1511,CUST-9503,Office Supplies,838.08,3,0.07,79.65,East,2023-11-23,First Class,Labels
+ORD-1512,CUST-3920,Furniture,553.42,2,0.29,-106.29,South,2022-07-13,First Class,Tables
+ORD-1513,CUST-9946,Technology,197.3,5,0.13,24.11,West,2023-03-17,Same Day,Machines
+ORD-1514,CUST-7236,Furniture,723.18,3,0.11,100.51,West,2022-11-09,Same Day,Bookcases
+ORD-1515,CUST-7078,Furniture,516.0,3,0.01,-36.31,Central,2022-03-20,Same Day,Bookcases
+ORD-1516,CUST-1352,Technology,608.27,6,0.07,190.47,South,2022-06-29,First Class,Accessories
+ORD-1517,CUST-8005,Furniture,466.29,8,0.15,220.22,South,2023-11-06,Second Class,Tables
+ORD-1518,CUST-1158,Furniture,830.42,2,0.06,-38.2,East,2023-12-15,Standard Class,Tables
+ORD-1519,CUST-1956,Office Supplies,831.27,4,0.49,219.33,Central,2022-01-14,Same Day,Paper
+ORD-1520,CUST-3071,Furniture,712.29,7,0.15,-148.21,Central,2022-09-03,Same Day,Chairs
+ORD-1521,CUST-9595,Office Supplies,114.35,1,0.07,218.86,East,2022-01-14,Same Day,Binders
+ORD-1522,CUST-4453,Technology,840.47,1,0.1,-123.62,West,2022-04-09,Second Class,Machines
+ORD-1523,CUST-7675,Technology,674.3,7,0.29,-158.54,East,2022-02-02,Standard Class,Copiers
+ORD-1524,CUST-1955,Office Supplies,700.05,7,0.03,120.89,East,2023-03-12,Standard Class,Art
+ORD-1525,CUST-7295,Technology,369.35,1,0.43,35.97,East,2022-09-14,Same Day,Machines
+ORD-1526,CUST-2712,Furniture,880.49,1,0.48,253.95,Central,2022-02-03,First Class,Furnishings
+ORD-1527,CUST-5703,Furniture,728.12,4,0.12,-18.41,East,2022-01-19,Same Day,Furnishings
+ORD-1528,CUST-7563,Furniture,121.46,5,0.23,-56.42,East,2023-10-26,Same Day,Chairs
+ORD-1529,CUST-6631,Technology,413.7,5,0.01,50.37,East,2022-09-17,First Class,Machines
+ORD-1530,CUST-2394,Furniture,887.52,4,0.32,27.97,South,2023-11-07,First Class,Bookcases
+ORD-1531,CUST-5732,Technology,56.72,8,0.21,-27.79,West,2023-08-12,Same Day,Machines
+ORD-1532,CUST-4714,Furniture,961.8,7,0.14,146.87,West,2023-02-20,Second Class,Tables
+ORD-1533,CUST-1529,Office Supplies,682.37,9,0.1,179.78,West,2022-05-17,Second Class,Art
+ORD-1534,CUST-3958,Technology,635.06,7,0.33,226.49,West,2022-12-25,First Class,Copiers
+ORD-1535,CUST-8904,Technology,277.85,1,0.21,286.43,Central,2023-12-21,Same Day,Copiers
+ORD-1536,CUST-4591,Furniture,256.3,7,0.09,-66.67,Central,2023-08-02,Second Class,Chairs
+ORD-1537,CUST-7895,Technology,942.64,1,0.34,158.05,East,2022-04-26,Same Day,Phones
+ORD-1538,CUST-1525,Technology,305.29,7,0.28,-2.87,Central,2023-02-08,Same Day,Copiers
+ORD-1539,CUST-7477,Office Supplies,777.75,8,0.43,138.54,West,2022-07-21,Same Day,Paper
+ORD-1540,CUST-1001,Office Supplies,399.19,9,0.06,37.99,South,2023-01-11,Second Class,Art
+ORD-1541,CUST-1374,Furniture,147.86,3,0.39,296.89,East,2022-09-07,Standard Class,Chairs
+ORD-1542,CUST-5648,Office Supplies,20.61,4,0.34,164.45,East,2023-03-22,Same Day,Paper
+ORD-1543,CUST-3365,Furniture,548.81,4,0.06,276.25,West,2022-10-05,Second Class,Bookcases
+ORD-1544,CUST-2525,Furniture,976.02,9,0.35,217.48,West,2022-04-22,Standard Class,Chairs
+ORD-1545,CUST-2646,Furniture,375.44,7,0.22,251.45,West,2023-04-18,First Class,Tables
+ORD-1546,CUST-1013,Technology,363.62,3,0.47,207.21,Central,2023-11-19,Second Class,Machines
+ORD-1547,CUST-5599,Office Supplies,350.65,5,0.07,29.58,East,2023-01-27,Standard Class,Labels
+ORD-1548,CUST-3278,Furniture,525.34,7,0.32,-74.11,West,2022-05-23,Second Class,Bookcases
+ORD-1549,CUST-4155,Office Supplies,446.26,8,0.19,-14.84,South,2022-02-01,Standard Class,Labels
+ORD-1550,CUST-9321,Furniture,881.12,1,0.48,-189.88,East,2022-06-30,Standard Class,Chairs
+ORD-1551,CUST-4814,Office Supplies,510.47,2,0.16,62.0,East,2023-08-02,Second Class,Paper
+ORD-1552,CUST-4216,Office Supplies,512.68,7,0.48,52.53,Central,2023-05-31,First Class,Art
+ORD-1553,CUST-9219,Furniture,146.99,2,0.45,62.63,East,2022-09-26,Same Day,Tables
+ORD-1554,CUST-3113,Technology,982.91,7,0.14,287.02,West,2022-08-24,Standard Class,Accessories
+ORD-1555,CUST-5356,Office Supplies,257.47,9,0.4,255.73,West,2022-10-04,Same Day,Paper
+ORD-1556,CUST-6543,Technology,82.63,2,0.5,-119.14,South,2023-07-07,First Class,Phones
+ORD-1557,CUST-5555,Technology,666.51,7,0.13,-15.56,East,2023-09-25,Same Day,Copiers
+ORD-1558,CUST-8062,Furniture,599.41,4,0.22,11.98,East,2022-10-02,Same Day,Furnishings
+ORD-1559,CUST-4374,Furniture,420.99,2,0.26,-19.73,Central,2022-03-27,Second Class,Tables
+ORD-1560,CUST-7430,Furniture,427.97,7,0.15,199.25,West,2022-03-04,Second Class,Tables
+ORD-1561,CUST-4466,Office Supplies,787.21,5,0.01,62.02,South,2023-02-08,First Class,Paper
+ORD-1562,CUST-4081,Furniture,203.76,1,0.11,86.05,West,2022-07-11,Second Class,Chairs
+ORD-1563,CUST-1629,Furniture,822.05,5,0.14,226.51,East,2022-10-20,Standard Class,Furnishings
+ORD-1564,CUST-1269,Office Supplies,652.26,3,0.22,202.96,East,2022-01-31,First Class,Paper
+ORD-1565,CUST-6724,Office Supplies,424.78,7,0.09,-133.89,South,2022-11-26,Second Class,Binders
+ORD-1566,CUST-6897,Furniture,463.45,6,0.44,156.96,East,2023-10-20,Second Class,Chairs
+ORD-1567,CUST-4432,Furniture,264.08,8,0.35,17.72,South,2022-04-17,First Class,Tables
+ORD-1568,CUST-7276,Furniture,754.59,5,0.04,-52.68,South,2023-09-14,Standard Class,Tables
+ORD-1569,CUST-6895,Furniture,517.75,2,0.33,-174.99,West,2022-10-03,First Class,Chairs
+ORD-1570,CUST-8115,Technology,327.65,9,0.33,43.62,South,2023-12-23,Second Class,Phones
+ORD-1571,CUST-7656,Technology,600.09,8,0.48,-22.28,East,2023-10-13,Second Class,Accessories
+ORD-1572,CUST-1575,Furniture,995.78,6,0.0,-74.24,Central,2023-08-21,First Class,Chairs
+ORD-1573,CUST-8029,Technology,440.91,7,0.12,147.34,Central,2023-07-10,Standard Class,Phones
+ORD-1574,CUST-7099,Office Supplies,921.48,9,0.46,184.74,East,2022-03-23,Standard Class,Paper
+ORD-1575,CUST-4192,Technology,351.57,7,0.47,-77.61,Central,2022-03-05,Same Day,Accessories
+ORD-1576,CUST-4178,Technology,64.19,3,0.36,-175.28,Central,2023-07-21,Standard Class,Copiers
+ORD-1577,CUST-7052,Furniture,212.2,6,0.38,224.38,South,2023-08-09,First Class,Furnishings
+ORD-1578,CUST-3734,Technology,424.51,7,0.05,-195.02,Central,2022-05-09,Standard Class,Accessories
+ORD-1579,CUST-7116,Technology,227.44,2,0.26,268.56,Central,2022-09-13,Standard Class,Accessories
+ORD-1580,CUST-4568,Technology,10.22,3,0.12,113.81,Central,2022-08-19,Same Day,Accessories
+ORD-1581,CUST-3203,Technology,915.85,4,0.09,-39.08,West,2023-05-12,Standard Class,Machines
+ORD-1582,CUST-2390,Office Supplies,845.44,6,0.41,-76.76,East,2022-05-17,Same Day,Art
+ORD-1583,CUST-2742,Furniture,744.87,1,0.07,-195.5,South,2023-03-31,Same Day,Chairs
+ORD-1584,CUST-2925,Furniture,176.14,9,0.23,-82.26,Central,2022-12-21,Standard Class,Furnishings
+ORD-1585,CUST-1619,Office Supplies,129.16,5,0.47,-131.14,East,2023-09-16,Second Class,Paper
+ORD-1586,CUST-2274,Technology,76.93,7,0.09,106.08,Central,2023-04-30,First Class,Accessories
+ORD-1587,CUST-1956,Office Supplies,726.79,9,0.49,-116.73,West,2022-05-26,First Class,Art
+ORD-1588,CUST-2939,Technology,929.52,9,0.5,64.31,West,2022-02-02,Standard Class,Copiers
+ORD-1589,CUST-4953,Office Supplies,436.23,1,0.28,95.06,Central,2022-09-17,First Class,Art
+ORD-1590,CUST-1968,Furniture,127.95,1,0.09,-50.98,Central,2022-03-28,First Class,Chairs
+ORD-1591,CUST-1281,Furniture,517.27,3,0.16,-182.47,Central,2022-09-22,Same Day,Furnishings
+ORD-1592,CUST-7262,Furniture,355.34,6,0.21,-181.37,West,2023-06-26,Second Class,Furnishings
+ORD-1593,CUST-2058,Technology,381.08,2,0.15,-186.83,West,2023-01-27,First Class,Copiers
+ORD-1594,CUST-5293,Technology,625.12,1,0.14,169.56,East,2022-08-20,Second Class,Phones
+ORD-1595,CUST-6178,Office Supplies,721.53,1,0.49,-41.0,South,2023-08-11,First Class,Labels
+ORD-1596,CUST-7980,Office Supplies,119.5,5,0.08,198.15,South,2023-03-23,Second Class,Paper
+ORD-1597,CUST-2229,Furniture,45.23,4,0.37,15.87,West,2022-05-09,Second Class,Tables
+ORD-1598,CUST-5585,Technology,994.39,1,0.0,26.5,South,2022-09-28,First Class,Accessories
+ORD-1599,CUST-9467,Office Supplies,240.4,4,0.3,56.44,Central,2022-03-30,Same Day,Labels
+ORD-1600,CUST-3740,Technology,63.29,3,0.46,156.52,East,2023-04-11,Second Class,Copiers
+ORD-1601,CUST-3289,Technology,197.98,2,0.14,-63.25,West,2022-06-19,Second Class,Accessories
+ORD-1602,CUST-2239,Furniture,48.57,9,0.09,-139.21,West,2022-05-08,First Class,Bookcases
+ORD-1603,CUST-6370,Furniture,397.89,1,0.33,78.03,South,2022-06-23,Second Class,Chairs
+ORD-1604,CUST-1125,Technology,804.38,7,0.36,-36.51,Central,2022-01-26,Second Class,Accessories
+ORD-1605,CUST-8473,Technology,347.83,4,0.34,21.25,East,2023-07-27,Same Day,Phones
+ORD-1606,CUST-6342,Technology,449.74,5,0.16,123.47,South,2023-05-26,Second Class,Copiers
+ORD-1607,CUST-8351,Technology,678.83,5,0.13,47.06,West,2023-05-03,Same Day,Machines
+ORD-1608,CUST-7638,Furniture,513.81,1,0.48,110.14,West,2023-08-02,Second Class,Bookcases
+ORD-1609,CUST-7570,Office Supplies,862.83,6,0.46,72.1,South,2023-02-10,Second Class,Paper
+ORD-1610,CUST-4249,Furniture,867.38,9,0.23,169.9,Central,2022-01-26,Same Day,Tables
+ORD-1611,CUST-8595,Office Supplies,19.81,2,0.42,152.97,East,2022-03-24,Same Day,Art
+ORD-1612,CUST-7294,Technology,780.27,7,0.23,67.09,East,2022-12-30,Standard Class,Accessories
+ORD-1613,CUST-7527,Office Supplies,466.13,6,0.21,139.45,East,2023-01-02,Second Class,Paper
+ORD-1614,CUST-6757,Furniture,988.95,5,0.08,236.78,East,2022-03-01,Same Day,Chairs
+ORD-1615,CUST-2969,Furniture,488.4,4,0.21,16.14,Central,2023-07-05,Second Class,Furnishings
+ORD-1616,CUST-1891,Technology,987.03,4,0.27,6.38,West,2023-09-27,Second Class,Copiers
+ORD-1617,CUST-5470,Furniture,757.02,6,0.01,182.12,West,2022-10-19,Second Class,Chairs
+ORD-1618,CUST-8175,Technology,256.12,4,0.22,91.28,East,2022-07-10,First Class,Accessories
+ORD-1619,CUST-9320,Furniture,543.01,5,0.39,-164.5,East,2023-04-06,Standard Class,Chairs
+ORD-1620,CUST-7812,Furniture,992.21,6,0.34,246.06,East,2023-10-26,First Class,Furnishings
+ORD-1621,CUST-8519,Technology,858.96,5,0.32,-184.61,South,2022-08-21,Standard Class,Copiers
+ORD-1622,CUST-5612,Office Supplies,106.39,7,0.45,174.2,South,2023-04-19,Second Class,Labels
+ORD-1623,CUST-2198,Furniture,709.31,9,0.01,179.4,West,2023-02-09,Second Class,Furnishings
+ORD-1624,CUST-6238,Office Supplies,352.12,7,0.28,276.56,West,2023-10-20,Same Day,Binders
+ORD-1625,CUST-7089,Furniture,16.91,7,0.39,-172.93,East,2022-09-28,Standard Class,Chairs
+ORD-1626,CUST-7257,Furniture,409.45,4,0.27,98.43,South,2022-05-14,Standard Class,Furnishings
+ORD-1627,CUST-8705,Furniture,242.41,1,0.16,13.92,Central,2022-06-20,First Class,Tables
+ORD-1628,CUST-4719,Furniture,820.68,8,0.07,-34.68,South,2023-02-19,Standard Class,Bookcases
+ORD-1629,CUST-1302,Office Supplies,343.96,4,0.44,-154.84,West,2022-01-28,Second Class,Paper
+ORD-1630,CUST-1986,Office Supplies,829.25,1,0.24,81.33,South,2022-05-16,Same Day,Paper
+ORD-1631,CUST-5440,Furniture,10.59,5,0.44,39.52,West,2023-02-09,First Class,Bookcases
+ORD-1632,CUST-5909,Furniture,314.74,8,0.29,-147.72,East,2023-05-20,Same Day,Chairs
+ORD-1633,CUST-4072,Office Supplies,248.75,4,0.34,106.24,Central,2022-08-29,Standard Class,Paper
+ORD-1634,CUST-4124,Technology,241.23,8,0.4,168.98,East,2023-03-20,Standard Class,Phones
+ORD-1635,CUST-9125,Technology,77.5,8,0.33,183.64,East,2023-03-10,First Class,Copiers
+ORD-1636,CUST-4291,Office Supplies,195.25,3,0.2,252.69,Central,2022-08-16,Standard Class,Paper
+ORD-1637,CUST-5033,Furniture,559.99,9,0.26,4.74,Central,2023-05-24,Same Day,Chairs
+ORD-1638,CUST-6105,Furniture,298.45,3,0.4,276.54,Central,2022-10-30,Second Class,Chairs
+ORD-1639,CUST-1703,Technology,423.22,1,0.19,232.71,West,2022-02-03,First Class,Accessories
+ORD-1640,CUST-9133,Technology,383.1,2,0.19,-51.75,East,2022-01-02,Standard Class,Copiers
+ORD-1641,CUST-1574,Office Supplies,877.15,6,0.05,-120.36,West,2022-12-28,Same Day,Labels
+ORD-1642,CUST-6704,Technology,906.25,2,0.46,17.69,Central,2022-07-14,Second Class,Phones
+ORD-1643,CUST-8848,Office Supplies,498.03,6,0.05,0.95,West,2023-08-29,Standard Class,Art
+ORD-1644,CUST-6208,Technology,336.85,1,0.32,87.86,Central,2022-11-04,First Class,Accessories
+ORD-1645,CUST-7924,Technology,115.73,1,0.21,91.69,South,2023-10-09,Standard Class,Phones
+ORD-1646,CUST-4828,Technology,953.87,5,0.2,174.99,Central,2023-12-17,Standard Class,Phones
+ORD-1647,CUST-4230,Furniture,69.62,9,0.34,54.94,East,2022-09-07,Standard Class,Chairs
+ORD-1648,CUST-1488,Furniture,304.67,8,0.03,-147.59,East,2022-05-27,Second Class,Bookcases
+ORD-1649,CUST-8114,Furniture,305.09,3,0.3,229.15,East,2022-12-12,Second Class,Chairs
+ORD-1650,CUST-4173,Technology,327.2,3,0.39,-45.12,West,2022-12-14,Standard Class,Phones
+ORD-1651,CUST-2667,Office Supplies,172.64,1,0.41,285.65,East,2022-09-11,Standard Class,Paper
+ORD-1652,CUST-5114,Office Supplies,785.33,3,0.09,-141.07,Central,2023-02-03,First Class,Binders
+ORD-1653,CUST-4553,Office Supplies,131.27,1,0.45,279.13,South,2022-11-30,Standard Class,Art
+ORD-1654,CUST-8761,Office Supplies,638.56,8,0.33,-154.49,East,2022-06-25,Same Day,Paper
+ORD-1655,CUST-2000,Furniture,132.61,1,0.44,-84.48,West,2022-05-05,Same Day,Furnishings
+ORD-1656,CUST-2388,Furniture,79.83,5,0.24,-176.71,South,2023-02-02,First Class,Tables
+ORD-1657,CUST-6450,Technology,910.34,9,0.27,152.56,East,2022-05-11,Second Class,Phones
+ORD-1658,CUST-4712,Technology,198.23,7,0.46,225.15,East,2023-07-16,Standard Class,Machines
+ORD-1659,CUST-2367,Office Supplies,823.04,4,0.45,17.04,South,2023-08-28,First Class,Paper
+ORD-1660,CUST-9189,Furniture,549.18,9,0.22,264.26,East,2023-02-11,Second Class,Chairs
+ORD-1661,CUST-1454,Office Supplies,87.08,9,0.14,95.15,West,2022-11-30,First Class,Paper
+ORD-1662,CUST-3772,Technology,955.89,2,0.2,115.0,Central,2022-01-20,Second Class,Copiers
+ORD-1663,CUST-4726,Technology,254.49,6,0.19,222.71,Central,2022-07-24,Standard Class,Phones
+ORD-1664,CUST-8232,Office Supplies,861.05,4,0.14,-51.6,South,2023-08-26,First Class,Art
+ORD-1665,CUST-5806,Technology,177.12,8,0.13,-22.87,Central,2022-12-21,Standard Class,Phones
+ORD-1666,CUST-3190,Office Supplies,855.4,7,0.43,252.98,East,2022-06-22,First Class,Art
+ORD-1667,CUST-3875,Furniture,23.1,7,0.03,250.48,East,2022-07-08,Second Class,Furnishings
+ORD-1668,CUST-6592,Office Supplies,516.66,9,0.34,288.24,West,2022-01-02,First Class,Art
+ORD-1669,CUST-2440,Furniture,771.75,5,0.09,250.92,Central,2022-06-17,Same Day,Tables
+ORD-1670,CUST-9927,Furniture,935.45,6,0.17,-136.31,South,2023-01-03,Same Day,Chairs
+ORD-1671,CUST-7059,Technology,910.11,1,0.03,211.86,East,2023-06-20,First Class,Accessories
+ORD-1672,CUST-8010,Technology,821.43,6,0.13,4.92,South,2023-08-03,Same Day,Copiers
+ORD-1673,CUST-8117,Technology,889.31,2,0.38,295.4,East,2023-01-05,Standard Class,Phones
+ORD-1674,CUST-3989,Office Supplies,207.23,6,0.44,36.14,East,2023-12-07,Same Day,Art
+ORD-1675,CUST-7228,Office Supplies,291.34,9,0.11,76.92,West,2023-08-19,Same Day,Labels
+ORD-1676,CUST-7471,Technology,296.08,8,0.23,64.89,Central,2023-03-13,Standard Class,Machines
+ORD-1677,CUST-3863,Office Supplies,383.28,9,0.24,-39.13,West,2022-07-26,Standard Class,Labels
+ORD-1678,CUST-2177,Technology,399.39,8,0.44,-162.49,Central,2022-02-18,Second Class,Copiers
+ORD-1679,CUST-5760,Office Supplies,549.11,3,0.38,247.83,South,2023-06-28,Standard Class,Art
+ORD-1680,CUST-1011,Furniture,168.28,8,0.26,201.34,Central,2023-11-13,First Class,Furnishings
+ORD-1681,CUST-6252,Furniture,694.33,6,0.34,-130.24,South,2022-05-09,Same Day,Bookcases
+ORD-1682,CUST-5399,Technology,175.89,6,0.42,188.38,East,2023-03-23,Second Class,Accessories
+ORD-1683,CUST-9234,Office Supplies,317.21,6,0.0,112.92,South,2023-09-06,Standard Class,Art
+ORD-1684,CUST-6445,Office Supplies,508.31,3,0.2,4.57,South,2022-02-04,Same Day,Paper
+ORD-1685,CUST-7570,Furniture,798.48,1,0.45,-72.99,East,2022-07-18,First Class,Furnishings
+ORD-1686,CUST-9212,Furniture,742.07,4,0.37,229.86,South,2022-03-18,First Class,Bookcases
+ORD-1687,CUST-1406,Technology,649.08,6,0.27,150.09,South,2023-01-04,Second Class,Machines
+ORD-1688,CUST-5431,Furniture,164.22,2,0.26,73.87,East,2023-06-10,First Class,Chairs
+ORD-1689,CUST-6243,Technology,551.57,7,0.17,104.78,East,2022-12-15,Same Day,Copiers
+ORD-1690,CUST-7542,Furniture,96.57,7,0.26,-154.47,East,2023-05-21,Standard Class,Bookcases
+ORD-1691,CUST-7936,Furniture,383.59,4,0.33,36.96,Central,2023-10-05,First Class,Furnishings
+ORD-1692,CUST-9906,Office Supplies,419.38,4,0.21,-103.15,East,2022-08-26,Standard Class,Labels
+ORD-1693,CUST-5146,Furniture,49.41,1,0.36,-95.81,East,2022-10-07,Same Day,Furnishings
+ORD-1694,CUST-1140,Furniture,281.25,2,0.43,130.65,South,2023-07-31,Same Day,Chairs
+ORD-1695,CUST-5882,Technology,956.09,9,0.08,255.63,West,2023-03-08,Standard Class,Phones
+ORD-1696,CUST-7012,Furniture,954.1,8,0.23,1.88,West,2022-05-18,Same Day,Furnishings
+ORD-1697,CUST-1963,Technology,358.8,8,0.2,-96.13,Central,2022-09-26,Second Class,Copiers
+ORD-1698,CUST-8151,Furniture,52.67,9,0.34,124.37,Central,2022-07-20,First Class,Bookcases
+ORD-1699,CUST-9564,Furniture,187.3,7,0.12,235.59,West,2022-05-22,Second Class,Furnishings
+ORD-1700,CUST-4610,Technology,398.3,9,0.32,174.16,West,2023-09-04,Second Class,Accessories
+ORD-1701,CUST-7894,Office Supplies,948.3,2,0.44,234.38,East,2023-10-12,Second Class,Binders
+ORD-1702,CUST-8311,Technology,149.79,6,0.21,68.28,South,2023-11-11,Standard Class,Phones
+ORD-1703,CUST-1105,Technology,765.88,3,0.46,175.94,East,2023-09-03,Standard Class,Accessories
+ORD-1704,CUST-6539,Technology,117.6,6,0.5,-129.97,Central,2022-12-21,Same Day,Machines
+ORD-1705,CUST-7787,Office Supplies,981.45,3,0.05,-25.86,West,2023-08-01,Standard Class,Art
+ORD-1706,CUST-3137,Furniture,387.8,8,0.12,-5.23,Central,2022-11-25,Same Day,Bookcases
+ORD-1707,CUST-5445,Technology,777.48,4,0.48,55.65,East,2023-07-13,Standard Class,Phones
+ORD-1708,CUST-4530,Technology,349.17,6,0.48,264.54,Central,2022-08-19,Same Day,Accessories
+ORD-1709,CUST-2286,Office Supplies,631.39,9,0.05,237.15,Central,2022-11-04,First Class,Art
+ORD-1710,CUST-8052,Technology,200.1,2,0.01,-132.74,South,2023-10-20,Same Day,Phones
+ORD-1711,CUST-4654,Furniture,154.56,2,0.08,-113.61,Central,2023-12-20,First Class,Bookcases
+ORD-1712,CUST-8102,Office Supplies,938.68,7,0.5,-21.18,East,2022-05-26,Same Day,Art
+ORD-1713,CUST-3359,Furniture,918.47,2,0.09,-54.63,South,2022-06-01,Standard Class,Bookcases
+ORD-1714,CUST-9105,Furniture,888.59,2,0.25,107.39,Central,2022-05-20,Standard Class,Chairs
+ORD-1715,CUST-9636,Office Supplies,629.18,4,0.42,251.39,East,2023-10-25,First Class,Paper
+ORD-1716,CUST-7441,Technology,810.19,9,0.01,281.15,West,2022-01-21,Second Class,Machines
+ORD-1717,CUST-6047,Furniture,78.35,8,0.3,126.8,South,2022-09-11,Second Class,Tables
+ORD-1718,CUST-9227,Furniture,341.44,2,0.14,219.08,Central,2022-03-05,Same Day,Bookcases
+ORD-1719,CUST-6203,Furniture,320.57,8,0.43,62.6,Central,2022-08-06,Standard Class,Tables
+ORD-1720,CUST-2798,Furniture,639.29,4,0.14,-95.84,South,2022-03-13,Second Class,Bookcases
+ORD-1721,CUST-6291,Office Supplies,362.4,2,0.34,62.34,East,2022-06-11,Standard Class,Binders
+ORD-1722,CUST-6495,Office Supplies,157.02,7,0.34,77.54,Central,2022-05-10,Standard Class,Binders
+ORD-1723,CUST-7284,Furniture,600.5,6,0.11,171.23,East,2023-08-04,Standard Class,Chairs
+ORD-1724,CUST-8285,Technology,816.24,5,0.02,-90.06,South,2022-08-13,Same Day,Copiers
+ORD-1725,CUST-2300,Furniture,388.3,1,0.2,-15.84,Central,2023-08-03,First Class,Tables
+ORD-1726,CUST-7869,Technology,140.95,2,0.14,-17.99,West,2023-03-30,Same Day,Machines
+ORD-1727,CUST-4097,Furniture,204.72,8,0.4,279.72,West,2023-01-19,Second Class,Furnishings
+ORD-1728,CUST-5616,Technology,245.11,1,0.4,21.97,West,2022-04-17,First Class,Phones
+ORD-1729,CUST-1009,Furniture,306.9,3,0.23,177.55,South,2023-09-13,Second Class,Furnishings
+ORD-1730,CUST-6752,Technology,646.37,2,0.3,175.41,Central,2022-04-13,First Class,Copiers
+ORD-1731,CUST-7295,Furniture,604.94,5,0.3,-67.23,South,2022-05-21,First Class,Tables
+ORD-1732,CUST-5815,Furniture,699.12,4,0.41,85.93,Central,2023-07-31,Same Day,Furnishings
+ORD-1733,CUST-2072,Technology,368.88,7,0.21,247.15,West,2022-05-14,Standard Class,Machines
+ORD-1734,CUST-4225,Office Supplies,825.76,5,0.14,37.6,West,2022-07-18,Standard Class,Paper
+ORD-1735,CUST-2316,Technology,212.05,8,0.13,272.56,East,2023-05-25,First Class,Machines
+ORD-1736,CUST-6699,Office Supplies,474.35,4,0.27,-92.77,South,2023-10-29,Same Day,Paper
+ORD-1737,CUST-7807,Furniture,802.93,6,0.22,-162.92,South,2022-03-20,Second Class,Bookcases
+ORD-1738,CUST-7674,Technology,188.36,4,0.22,245.73,East,2023-04-27,Second Class,Copiers
+ORD-1739,CUST-4683,Technology,118.76,2,0.05,223.84,West,2023-05-27,Standard Class,Copiers
+ORD-1740,CUST-8227,Technology,884.85,1,0.36,296.29,West,2022-09-07,Standard Class,Phones
+ORD-1741,CUST-4273,Office Supplies,349.5,1,0.11,139.7,South,2023-08-22,Second Class,Art
+ORD-1742,CUST-8000,Office Supplies,687.03,8,0.1,268.34,Central,2023-08-23,Second Class,Labels
+ORD-1743,CUST-1145,Furniture,35.1,4,0.21,213.47,West,2023-04-28,Same Day,Chairs
+ORD-1744,CUST-6010,Office Supplies,693.15,5,0.11,222.21,East,2022-06-21,Second Class,Binders
+ORD-1745,CUST-4040,Office Supplies,322.94,8,0.29,84.57,East,2022-01-17,Same Day,Binders
+ORD-1746,CUST-1482,Furniture,65.18,7,0.19,-8.82,East,2022-10-21,Standard Class,Bookcases
+ORD-1747,CUST-4179,Technology,613.71,8,0.22,267.28,South,2023-01-29,Second Class,Phones
+ORD-1748,CUST-2249,Technology,248.4,8,0.27,16.06,South,2023-05-13,Standard Class,Copiers
+ORD-1749,CUST-1630,Furniture,392.94,6,0.1,69.41,South,2022-08-07,First Class,Bookcases
+ORD-1750,CUST-9853,Technology,89.78,2,0.08,23.06,South,2022-08-22,First Class,Phones
+ORD-1751,CUST-3852,Office Supplies,155.69,6,0.44,82.41,East,2023-01-25,First Class,Binders
+ORD-1752,CUST-1987,Furniture,305.0,1,0.22,35.25,East,2022-09-05,Second Class,Furnishings
+ORD-1753,CUST-8622,Furniture,98.86,1,0.21,-176.02,South,2022-02-21,Standard Class,Chairs
+ORD-1754,CUST-8327,Furniture,911.72,3,0.02,241.02,South,2022-01-15,Second Class,Bookcases
+ORD-1755,CUST-9841,Technology,15.99,3,0.25,22.2,East,2022-11-20,Standard Class,Machines
+ORD-1756,CUST-2100,Furniture,489.02,5,0.28,94.47,South,2023-03-17,Same Day,Furnishings
+ORD-1757,CUST-7652,Furniture,132.01,1,0.28,-130.41,South,2022-04-22,Second Class,Bookcases
+ORD-1758,CUST-9632,Furniture,314.6,6,0.35,-198.31,South,2023-11-27,First Class,Chairs
+ORD-1759,CUST-8421,Technology,926.8,7,0.09,-77.35,South,2022-01-07,Same Day,Phones
+ORD-1760,CUST-6016,Office Supplies,170.08,3,0.13,152.29,West,2023-07-17,Standard Class,Paper
+ORD-1761,CUST-1769,Furniture,966.17,4,0.41,-150.4,South,2022-09-02,Second Class,Chairs
+ORD-1762,CUST-2343,Office Supplies,213.74,3,0.47,254.44,East,2023-03-24,Standard Class,Paper
+ORD-1763,CUST-5358,Technology,744.15,1,0.07,-92.49,East,2022-12-31,Standard Class,Machines
+ORD-1764,CUST-7780,Technology,551.21,8,0.25,-97.7,East,2023-01-02,Second Class,Machines
+ORD-1765,CUST-7602,Technology,885.63,2,0.11,-109.25,East,2023-11-29,Second Class,Machines
+ORD-1766,CUST-3349,Technology,558.45,1,0.03,-193.01,South,2022-10-14,Standard Class,Accessories
+ORD-1767,CUST-6699,Office Supplies,539.21,8,0.16,185.9,West,2023-08-27,Standard Class,Art
+ORD-1768,CUST-2241,Furniture,203.5,7,0.07,237.52,Central,2022-04-16,Same Day,Bookcases
+ORD-1769,CUST-2125,Technology,174.57,7,0.35,107.08,Central,2022-01-13,First Class,Machines
+ORD-1770,CUST-7764,Technology,917.32,4,0.27,-105.9,Central,2022-05-26,Standard Class,Accessories
+ORD-1771,CUST-6101,Office Supplies,334.56,9,0.07,-57.36,Central,2023-04-23,First Class,Paper
+ORD-1772,CUST-8843,Office Supplies,378.36,6,0.0,37.96,East,2023-09-23,Same Day,Labels
+ORD-1773,CUST-1072,Technology,762.23,2,0.4,277.17,South,2023-12-16,First Class,Phones
+ORD-1774,CUST-6472,Furniture,345.44,1,0.09,-76.32,South,2023-10-15,First Class,Furnishings
+ORD-1775,CUST-6189,Furniture,952.54,1,0.3,165.82,Central,2022-04-25,Same Day,Tables
+ORD-1776,CUST-3472,Technology,740.55,9,0.17,19.72,Central,2023-05-24,Standard Class,Phones
+ORD-1777,CUST-1707,Office Supplies,601.45,4,0.29,-51.08,West,2022-06-01,First Class,Art
+ORD-1778,CUST-2804,Technology,882.09,5,0.16,27.96,West,2022-02-26,Standard Class,Phones
+ORD-1779,CUST-7704,Technology,59.11,3,0.04,-164.4,West,2023-01-17,Standard Class,Copiers
+ORD-1780,CUST-4713,Office Supplies,264.49,4,0.11,199.34,East,2022-06-06,Second Class,Paper
+ORD-1781,CUST-6051,Technology,470.39,8,0.09,-78.35,South,2022-05-13,Standard Class,Machines
+ORD-1782,CUST-3475,Technology,234.71,4,0.21,162.71,East,2022-06-12,Standard Class,Machines
+ORD-1783,CUST-4610,Technology,746.47,9,0.33,-165.83,East,2022-10-02,First Class,Machines
+ORD-1784,CUST-5255,Office Supplies,920.02,9,0.13,277.55,South,2023-11-26,Standard Class,Labels
+ORD-1785,CUST-8397,Furniture,429.53,6,0.01,-103.49,West,2022-03-18,Standard Class,Furnishings
+ORD-1786,CUST-2735,Furniture,348.71,2,0.26,241.37,South,2022-02-13,Second Class,Tables
+ORD-1787,CUST-9258,Office Supplies,961.94,7,0.3,204.74,Central,2023-12-19,Second Class,Paper
+ORD-1788,CUST-8979,Furniture,450.4,9,0.48,283.93,West,2023-07-04,First Class,Furnishings
+ORD-1789,CUST-3428,Technology,494.16,6,0.29,38.95,South,2022-11-14,First Class,Phones
+ORD-1790,CUST-8426,Furniture,358.13,3,0.24,163.7,East,2023-06-18,Second Class,Furnishings
+ORD-1791,CUST-9533,Technology,910.45,7,0.29,-14.64,South,2023-08-08,Second Class,Copiers
+ORD-1792,CUST-6249,Furniture,573.27,5,0.46,-107.82,West,2022-06-03,Same Day,Bookcases
+ORD-1793,CUST-6291,Office Supplies,764.55,1,0.41,21.54,Central,2022-08-25,Standard Class,Art
+ORD-1794,CUST-3817,Furniture,813.69,3,0.16,-117.13,East,2023-06-01,First Class,Bookcases
+ORD-1795,CUST-4874,Furniture,348.43,5,0.12,291.02,Central,2022-08-09,First Class,Furnishings
+ORD-1796,CUST-5211,Furniture,439.36,7,0.13,-151.88,Central,2022-11-06,Standard Class,Bookcases
+ORD-1797,CUST-1661,Office Supplies,849.99,3,0.25,94.61,East,2023-08-21,Standard Class,Binders
+ORD-1798,CUST-4374,Furniture,369.62,6,0.37,113.23,South,2022-06-26,First Class,Furnishings
+ORD-1799,CUST-1207,Office Supplies,796.0,5,0.25,69.04,South,2022-08-08,Second Class,Art
+ORD-1800,CUST-3665,Technology,941.58,1,0.03,131.09,Central,2022-02-07,Second Class,Machines
+ORD-1801,CUST-3493,Furniture,626.98,6,0.36,-141.91,South,2023-10-16,Standard Class,Furnishings
+ORD-1802,CUST-7813,Office Supplies,744.21,8,0.4,77.51,West,2023-03-07,First Class,Labels
+ORD-1803,CUST-1632,Office Supplies,807.05,1,0.14,-56.39,Central,2022-07-22,Standard Class,Paper
+ORD-1804,CUST-4083,Furniture,846.59,2,0.33,270.09,Central,2023-03-24,Second Class,Bookcases
+ORD-1805,CUST-4719,Technology,401.1,4,0.21,181.04,Central,2023-05-10,Same Day,Accessories
+ORD-1806,CUST-8123,Office Supplies,60.75,2,0.44,286.26,West,2023-11-15,Same Day,Binders
+ORD-1807,CUST-2679,Furniture,407.86,9,0.42,-181.22,Central,2022-05-05,Second Class,Chairs
+ORD-1808,CUST-1236,Technology,677.02,8,0.26,-57.43,South,2022-03-06,Standard Class,Accessories
+ORD-1809,CUST-8446,Office Supplies,455.85,8,0.35,-102.29,South,2022-09-01,Same Day,Art
+ORD-1810,CUST-5443,Office Supplies,751.47,4,0.44,-194.42,South,2023-06-11,Second Class,Labels
+ORD-1811,CUST-7770,Technology,363.41,5,0.25,-78.84,South,2022-08-14,First Class,Phones
+ORD-1812,CUST-7099,Technology,638.4,4,0.16,139.39,Central,2023-04-10,Standard Class,Phones
+ORD-1813,CUST-9555,Furniture,194.56,9,0.38,-84.46,West,2023-10-05,Standard Class,Chairs
+ORD-1814,CUST-3368,Furniture,751.88,2,0.11,54.5,East,2023-12-08,Same Day,Bookcases
+ORD-1815,CUST-1285,Office Supplies,550.24,8,0.19,243.91,South,2022-10-20,Standard Class,Paper
+ORD-1816,CUST-1148,Technology,212.02,2,0.43,146.88,East,2023-12-22,Same Day,Accessories
+ORD-1817,CUST-5037,Technology,298.99,1,0.36,-2.69,East,2023-01-16,Same Day,Copiers
+ORD-1818,CUST-7549,Technology,751.12,3,0.2,-13.77,Central,2023-09-17,Second Class,Phones
+ORD-1819,CUST-8121,Office Supplies,487.78,9,0.11,27.87,South,2022-06-15,Same Day,Art
+ORD-1820,CUST-5895,Technology,223.87,3,0.18,-111.48,South,2023-12-04,First Class,Copiers
+ORD-1821,CUST-6280,Technology,967.6,9,0.14,117.0,South,2022-08-06,Standard Class,Accessories
+ORD-1822,CUST-2012,Office Supplies,717.97,7,0.09,-17.92,East,2022-10-02,Same Day,Art
+ORD-1823,CUST-3785,Furniture,957.56,1,0.37,226.18,South,2022-02-21,Standard Class,Bookcases
+ORD-1824,CUST-4725,Furniture,432.83,5,0.13,178.28,South,2023-01-09,Same Day,Chairs
+ORD-1825,CUST-5576,Office Supplies,480.35,9,0.23,105.26,West,2023-11-01,Second Class,Labels
+ORD-1826,CUST-6782,Technology,898.98,3,0.19,-17.9,Central,2022-12-29,First Class,Phones
+ORD-1827,CUST-7257,Office Supplies,529.8,9,0.49,-95.03,South,2023-07-21,Standard Class,Paper
+ORD-1828,CUST-3408,Furniture,710.21,5,0.2,188.08,South,2022-01-14,Second Class,Furnishings
+ORD-1829,CUST-1340,Furniture,259.65,9,0.04,43.2,Central,2022-12-06,Standard Class,Chairs
+ORD-1830,CUST-3817,Office Supplies,452.26,6,0.04,-87.62,Central,2023-08-25,Second Class,Art
+ORD-1831,CUST-3496,Office Supplies,132.22,9,0.3,-102.41,East,2023-06-23,First Class,Art
+ORD-1832,CUST-6962,Furniture,213.92,7,0.3,-117.3,East,2022-03-30,Same Day,Furnishings
+ORD-1833,CUST-6299,Office Supplies,10.93,7,0.21,188.58,East,2022-02-10,Second Class,Labels
+ORD-1834,CUST-8574,Furniture,48.87,8,0.22,-85.51,Central,2022-10-31,Standard Class,Bookcases
+ORD-1835,CUST-2689,Office Supplies,977.51,7,0.03,63.32,West,2022-09-25,Standard Class,Paper
+ORD-1836,CUST-4267,Office Supplies,249.93,9,0.26,25.77,South,2022-05-18,Second Class,Binders
+ORD-1837,CUST-5406,Office Supplies,666.68,9,0.25,89.81,Central,2022-01-06,First Class,Art
+ORD-1838,CUST-9453,Furniture,840.71,6,0.07,238.58,West,2022-08-30,First Class,Chairs
+ORD-1839,CUST-2442,Office Supplies,555.15,7,0.05,233.87,Central,2022-06-11,Same Day,Binders
+ORD-1840,CUST-9597,Furniture,161.61,2,0.06,25.54,West,2023-11-23,Same Day,Chairs
+ORD-1841,CUST-5437,Furniture,730.84,9,0.05,-192.32,Central,2023-06-02,Standard Class,Chairs
+ORD-1842,CUST-6435,Office Supplies,604.25,1,0.3,13.22,Central,2023-02-05,Standard Class,Paper
+ORD-1843,CUST-9435,Office Supplies,733.94,1,0.1,103.1,West,2022-06-05,Same Day,Paper
+ORD-1844,CUST-5107,Furniture,772.05,3,0.13,78.88,West,2022-03-26,Same Day,Tables
+ORD-1845,CUST-1560,Furniture,975.66,6,0.09,125.67,West,2023-12-13,Same Day,Bookcases
+ORD-1846,CUST-9785,Technology,577.83,5,0.48,-122.96,West,2022-01-10,Second Class,Copiers
+ORD-1847,CUST-6548,Furniture,348.22,2,0.43,123.27,West,2022-05-18,Same Day,Bookcases
+ORD-1848,CUST-2826,Technology,651.98,9,0.12,-108.67,West,2023-12-14,Second Class,Accessories
+ORD-1849,CUST-8629,Technology,77.76,4,0.16,175.26,West,2022-06-05,Second Class,Phones
+ORD-1850,CUST-9325,Technology,898.42,4,0.1,-30.46,West,2023-02-12,Same Day,Accessories
+ORD-1851,CUST-4138,Office Supplies,128.19,5,0.25,154.95,Central,2022-08-13,First Class,Art
+ORD-1852,CUST-8693,Office Supplies,334.56,8,0.01,-176.07,West,2023-08-03,First Class,Labels
+ORD-1853,CUST-9264,Furniture,817.59,4,0.34,3.93,West,2022-07-03,Standard Class,Bookcases
+ORD-1854,CUST-8842,Technology,601.34,5,0.26,152.52,Central,2022-07-14,Same Day,Phones
+ORD-1855,CUST-7721,Office Supplies,399.7,4,0.45,-86.56,Central,2023-07-08,Standard Class,Paper
+ORD-1856,CUST-8002,Office Supplies,478.7,6,0.08,197.64,East,2023-01-31,Same Day,Labels
+ORD-1857,CUST-5225,Office Supplies,856.0,3,0.4,115.39,East,2023-10-25,Standard Class,Labels
+ORD-1858,CUST-3978,Office Supplies,346.6,8,0.4,93.78,West,2023-08-19,Second Class,Binders
+ORD-1859,CUST-8373,Office Supplies,870.95,6,0.06,-23.23,West,2022-05-14,Same Day,Paper
+ORD-1860,CUST-6907,Technology,97.25,5,0.2,41.23,East,2022-11-05,First Class,Machines
+ORD-1861,CUST-7097,Technology,779.03,2,0.09,98.67,East,2023-06-26,Same Day,Copiers
+ORD-1862,CUST-6656,Technology,849.07,7,0.13,36.23,South,2022-01-09,Standard Class,Phones
+ORD-1863,CUST-9984,Technology,190.0,2,0.13,149.16,South,2022-06-19,Standard Class,Machines
+ORD-1864,CUST-5259,Furniture,436.04,1,0.28,16.85,West,2022-10-17,Standard Class,Chairs
+ORD-1865,CUST-9286,Technology,173.84,7,0.21,-98.86,South,2022-06-17,Standard Class,Accessories
+ORD-1866,CUST-6901,Office Supplies,709.54,5,0.47,-93.03,East,2022-12-10,Standard Class,Paper
+ORD-1867,CUST-5917,Technology,539.99,1,0.06,-197.1,West,2023-05-12,Standard Class,Accessories
+ORD-1868,CUST-9429,Furniture,638.97,4,0.49,-49.52,Central,2022-05-25,First Class,Bookcases
+ORD-1869,CUST-3530,Office Supplies,204.52,4,0.12,174.46,Central,2023-02-17,Standard Class,Labels
+ORD-1870,CUST-2960,Technology,219.63,7,0.39,197.08,East,2023-08-11,First Class,Accessories
+ORD-1871,CUST-8045,Technology,51.08,9,0.17,-98.77,South,2023-11-20,Same Day,Copiers
+ORD-1872,CUST-2048,Technology,328.85,2,0.07,279.52,Central,2023-04-02,Second Class,Accessories
+ORD-1873,CUST-6772,Office Supplies,564.15,1,0.43,51.2,South,2023-12-02,First Class,Paper
+ORD-1874,CUST-3529,Office Supplies,859.36,2,0.15,258.49,Central,2022-10-29,Same Day,Labels
+ORD-1875,CUST-3964,Furniture,670.26,7,0.33,153.38,South,2022-02-15,Second Class,Bookcases
+ORD-1876,CUST-8137,Office Supplies,441.04,6,0.28,161.22,Central,2022-01-17,First Class,Paper
+ORD-1877,CUST-1963,Office Supplies,953.59,4,0.24,-157.48,Central,2023-08-01,First Class,Art
+ORD-1878,CUST-1536,Technology,722.05,1,0.25,-90.0,West,2022-12-26,Same Day,Copiers
+ORD-1879,CUST-8340,Office Supplies,930.86,1,0.37,-195.59,West,2022-09-18,Standard Class,Paper
+ORD-1880,CUST-8179,Technology,532.31,5,0.04,158.06,East,2022-05-03,First Class,Accessories
+ORD-1881,CUST-8967,Technology,266.32,1,0.33,-27.78,Central,2022-08-19,First Class,Phones
+ORD-1882,CUST-9734,Office Supplies,62.3,7,0.45,193.33,South,2023-09-29,Same Day,Labels
+ORD-1883,CUST-1845,Furniture,728.82,1,0.03,-30.53,Central,2022-04-22,Standard Class,Tables
+ORD-1884,CUST-6777,Furniture,130.09,1,0.07,209.67,South,2023-08-16,Second Class,Chairs
+ORD-1885,CUST-4036,Office Supplies,309.75,2,0.36,-134.65,South,2022-09-03,Standard Class,Labels
+ORD-1886,CUST-6947,Furniture,537.15,3,0.22,-113.31,Central,2023-01-26,Standard Class,Tables
+ORD-1887,CUST-3494,Technology,568.77,1,0.2,-29.56,South,2023-01-27,Same Day,Copiers
+ORD-1888,CUST-3719,Technology,604.58,9,0.07,4.24,East,2022-11-24,Standard Class,Machines
+ORD-1889,CUST-2884,Office Supplies,174.59,8,0.25,-25.65,West,2022-08-03,Same Day,Art
+ORD-1890,CUST-5349,Furniture,385.94,5,0.06,181.82,South,2023-01-02,Second Class,Chairs
+ORD-1891,CUST-6179,Furniture,621.02,2,0.24,-151.52,Central,2022-03-23,First Class,Tables
+ORD-1892,CUST-7610,Technology,970.12,5,0.38,-24.39,West,2022-03-17,First Class,Phones
+ORD-1893,CUST-7430,Office Supplies,730.35,6,0.13,218.62,East,2023-06-11,Same Day,Paper
+ORD-1894,CUST-8154,Furniture,923.38,1,0.24,-166.6,South,2023-05-18,Same Day,Tables
+ORD-1895,CUST-7488,Office Supplies,764.59,4,0.5,271.17,South,2023-04-24,Standard Class,Art
+ORD-1896,CUST-5737,Furniture,595.8,9,0.34,293.16,West,2023-01-07,Standard Class,Chairs
+ORD-1897,CUST-7525,Technology,200.1,2,0.42,-155.72,South,2022-09-22,First Class,Copiers
+ORD-1898,CUST-4850,Technology,670.02,5,0.21,-54.36,Central,2022-09-21,First Class,Copiers
+ORD-1899,CUST-1689,Office Supplies,627.15,1,0.38,-13.8,West,2022-04-20,First Class,Art
+ORD-1900,CUST-6175,Technology,606.44,4,0.02,188.2,West,2022-11-03,Same Day,Phones
+ORD-1901,CUST-9648,Furniture,494.89,4,0.06,97.96,South,2022-07-19,Second Class,Tables
+ORD-1902,CUST-6078,Technology,533.37,6,0.1,122.18,East,2022-08-14,Second Class,Accessories
+ORD-1903,CUST-6448,Office Supplies,341.1,9,0.2,178.75,East,2022-07-04,Same Day,Binders
+ORD-1904,CUST-2179,Office Supplies,524.12,3,0.42,-141.01,East,2022-01-31,Standard Class,Paper
+ORD-1905,CUST-7406,Office Supplies,205.58,9,0.17,216.6,East,2023-09-06,Second Class,Binders
+ORD-1906,CUST-9591,Furniture,807.12,6,0.33,152.81,West,2022-04-09,Standard Class,Chairs
+ORD-1907,CUST-7907,Furniture,193.92,7,0.35,88.67,West,2022-12-05,First Class,Tables
+ORD-1908,CUST-9800,Furniture,94.12,2,0.29,244.87,South,2022-09-23,First Class,Furnishings
+ORD-1909,CUST-2638,Furniture,441.88,6,0.18,150.15,East,2023-10-14,Standard Class,Bookcases
+ORD-1910,CUST-6671,Furniture,661.72,6,0.29,-99.15,East,2022-12-16,First Class,Chairs
+ORD-1911,CUST-7928,Technology,443.34,2,0.17,14.87,South,2023-12-29,Same Day,Phones
+ORD-1912,CUST-2382,Furniture,283.99,2,0.04,47.02,South,2023-06-28,Standard Class,Furnishings
+ORD-1913,CUST-2403,Furniture,562.59,2,0.5,-172.39,South,2023-04-02,Standard Class,Chairs
+ORD-1914,CUST-4292,Technology,353.53,1,0.06,277.32,Central,2022-03-29,Standard Class,Phones
+ORD-1915,CUST-1419,Furniture,933.54,5,0.04,-135.71,South,2022-03-04,Second Class,Tables
+ORD-1916,CUST-5517,Office Supplies,923.42,8,0.44,148.73,South,2023-01-22,Standard Class,Paper
+ORD-1917,CUST-4302,Furniture,507.35,2,0.15,53.12,Central,2023-04-04,Standard Class,Furnishings
+ORD-1918,CUST-8857,Furniture,334.61,5,0.33,-187.18,East,2023-08-09,Standard Class,Chairs
+ORD-1919,CUST-8870,Office Supplies,739.76,8,0.16,262.37,West,2023-09-28,Second Class,Art
+ORD-1920,CUST-6693,Office Supplies,46.35,5,0.2,225.92,East,2022-09-26,First Class,Paper
+ORD-1921,CUST-1767,Office Supplies,480.02,2,0.13,62.13,West,2023-09-25,Second Class,Art
+ORD-1922,CUST-3044,Office Supplies,342.96,3,0.17,-85.53,West,2022-12-12,Same Day,Art
+ORD-1923,CUST-2549,Furniture,921.33,6,0.21,-139.19,South,2023-12-25,Standard Class,Furnishings
+ORD-1924,CUST-7140,Office Supplies,21.88,5,0.36,-18.3,South,2023-10-22,Same Day,Labels
+ORD-1925,CUST-4716,Office Supplies,557.29,4,0.26,-72.29,Central,2022-03-19,Second Class,Binders
+ORD-1926,CUST-5481,Technology,743.26,4,0.47,53.35,East,2022-12-31,First Class,Machines
+ORD-1927,CUST-8898,Office Supplies,490.17,5,0.02,283.2,East,2022-01-14,First Class,Paper
+ORD-1928,CUST-7548,Office Supplies,94.55,2,0.25,87.48,West,2022-05-16,Standard Class,Binders
+ORD-1929,CUST-3293,Technology,972.74,9,0.29,244.97,South,2022-10-31,First Class,Phones
+ORD-1930,CUST-5837,Technology,522.83,2,0.46,125.44,South,2023-02-01,Second Class,Copiers
+ORD-1931,CUST-8758,Furniture,618.04,2,0.02,37.62,East,2022-03-20,Second Class,Bookcases
+ORD-1932,CUST-7793,Technology,244.24,9,0.29,227.3,Central,2023-12-06,First Class,Copiers
+ORD-1933,CUST-8638,Furniture,488.66,3,0.43,35.68,South,2023-02-22,Standard Class,Chairs
+ORD-1934,CUST-8993,Technology,434.86,7,0.12,234.31,Central,2022-08-30,Standard Class,Machines
+ORD-1935,CUST-7007,Technology,84.15,4,0.44,-54.21,East,2022-02-20,Second Class,Machines
+ORD-1936,CUST-6542,Furniture,115.1,6,0.01,-135.59,East,2023-01-19,First Class,Furnishings
+ORD-1937,CUST-7356,Technology,839.1,4,0.37,227.66,Central,2023-01-10,Second Class,Phones
+ORD-1938,CUST-9433,Furniture,247.42,7,0.47,93.71,South,2023-12-31,Second Class,Chairs
+ORD-1939,CUST-8380,Technology,203.01,1,0.33,244.55,East,2022-07-25,Same Day,Phones
+ORD-1940,CUST-3385,Office Supplies,509.86,3,0.22,268.91,West,2023-05-04,Second Class,Binders
+ORD-1941,CUST-5268,Technology,771.06,3,0.02,-173.19,East,2023-01-16,Standard Class,Phones
+ORD-1942,CUST-1671,Furniture,71.33,1,0.46,50.48,South,2022-11-07,First Class,Furnishings
+ORD-1943,CUST-1163,Technology,581.04,6,0.24,-12.52,West,2023-01-10,First Class,Phones
+ORD-1944,CUST-9656,Furniture,128.02,9,0.01,112.93,East,2023-09-24,Same Day,Furnishings
+ORD-1945,CUST-5592,Furniture,46.1,8,0.34,196.8,South,2023-08-15,Same Day,Chairs
+ORD-1946,CUST-5795,Office Supplies,62.22,7,0.24,-59.7,South,2022-02-11,Standard Class,Labels
+ORD-1947,CUST-5798,Office Supplies,835.82,8,0.06,78.4,East,2023-06-17,Same Day,Paper
+ORD-1948,CUST-7036,Furniture,126.79,6,0.11,154.36,South,2023-06-06,Second Class,Tables
+ORD-1949,CUST-3355,Technology,54.7,9,0.03,-132.78,Central,2022-06-02,Second Class,Machines
+ORD-1950,CUST-6887,Furniture,443.52,3,0.29,207.03,West,2022-11-08,Standard Class,Tables
+ORD-1951,CUST-8961,Furniture,845.55,9,0.31,103.05,Central,2022-10-21,First Class,Tables
+ORD-1952,CUST-6827,Technology,269.78,4,0.25,274.77,East,2023-08-21,Standard Class,Machines
+ORD-1953,CUST-9737,Technology,427.5,7,0.41,-30.24,Central,2022-04-23,Same Day,Phones
+ORD-1954,CUST-5719,Technology,49.52,9,0.43,-145.93,East,2023-12-02,First Class,Phones
+ORD-1955,CUST-1593,Technology,454.59,2,0.31,53.25,East,2022-04-22,First Class,Machines
+ORD-1956,CUST-5839,Furniture,581.84,2,0.01,-157.09,South,2022-06-24,First Class,Bookcases
+ORD-1957,CUST-8394,Furniture,575.2,9,0.35,284.76,South,2022-10-29,Same Day,Bookcases
+ORD-1958,CUST-4493,Office Supplies,339.1,3,0.21,-180.66,East,2023-05-31,Second Class,Paper
+ORD-1959,CUST-7164,Furniture,322.38,9,0.28,176.75,West,2022-08-09,Second Class,Bookcases
+ORD-1960,CUST-3672,Technology,115.56,5,0.32,62.55,West,2022-06-20,Same Day,Accessories
+ORD-1961,CUST-5200,Office Supplies,373.13,6,0.18,-15.69,West,2022-11-14,Same Day,Binders
+ORD-1962,CUST-1016,Technology,108.5,2,0.46,-167.08,Central,2022-08-01,Standard Class,Machines
+ORD-1963,CUST-4191,Furniture,768.93,8,0.07,111.08,East,2022-09-10,Standard Class,Chairs
+ORD-1964,CUST-1392,Office Supplies,966.61,9,0.34,92.61,South,2022-05-04,Second Class,Labels
+ORD-1965,CUST-9616,Technology,970.37,2,0.0,-59.56,Central,2023-10-02,Same Day,Copiers
+ORD-1966,CUST-7272,Office Supplies,866.42,6,0.46,255.11,Central,2022-08-01,Standard Class,Binders
+ORD-1967,CUST-1571,Office Supplies,604.78,6,0.06,-47.94,South,2023-09-16,Same Day,Binders
+ORD-1968,CUST-4631,Furniture,703.86,8,0.05,24.86,East,2022-03-26,Same Day,Tables
+ORD-1969,CUST-7172,Technology,292.35,5,0.17,71.88,Central,2023-05-31,Second Class,Machines
+ORD-1970,CUST-8177,Office Supplies,634.46,9,0.19,-149.88,East,2022-03-06,Second Class,Art
+ORD-1971,CUST-9433,Office Supplies,461.09,1,0.11,266.08,East,2022-11-14,Same Day,Binders
+ORD-1972,CUST-4897,Technology,487.2,9,0.29,-12.73,East,2022-12-12,First Class,Machines
+ORD-1973,CUST-9123,Office Supplies,760.2,7,0.22,-159.61,South,2023-09-24,First Class,Art
+ORD-1974,CUST-3279,Office Supplies,289.1,4,0.02,-6.35,East,2022-08-31,Same Day,Binders
+ORD-1975,CUST-9980,Office Supplies,324.86,3,0.16,100.1,Central,2022-05-17,Second Class,Labels
+ORD-1976,CUST-8451,Technology,925.4,6,0.41,56.83,South,2022-09-04,First Class,Accessories
+ORD-1977,CUST-9906,Technology,65.66,1,0.34,147.27,South,2023-03-17,Second Class,Phones
+ORD-1978,CUST-1775,Technology,490.78,3,0.36,-172.26,Central,2022-02-14,First Class,Machines
+ORD-1979,CUST-7869,Technology,913.67,2,0.35,-57.73,South,2023-10-20,Same Day,Copiers
+ORD-1980,CUST-3247,Furniture,614.26,9,0.16,209.62,Central,2023-11-19,Standard Class,Bookcases
+ORD-1981,CUST-8088,Office Supplies,550.94,3,0.05,-160.05,West,2023-07-08,Standard Class,Paper
+ORD-1982,CUST-1078,Technology,257.25,2,0.14,227.74,Central,2022-03-30,Second Class,Phones
+ORD-1983,CUST-9080,Office Supplies,349.84,4,0.42,-154.05,South,2023-12-31,Second Class,Paper
+ORD-1984,CUST-8099,Office Supplies,853.53,2,0.49,217.23,Central,2022-08-16,First Class,Labels
+ORD-1985,CUST-4926,Furniture,563.63,1,0.25,-19.61,West,2022-10-18,Same Day,Bookcases
+ORD-1986,CUST-8340,Technology,519.59,6,0.0,106.1,East,2023-02-26,First Class,Accessories
+ORD-1987,CUST-8083,Technology,108.58,8,0.07,-123.56,East,2022-03-08,Same Day,Phones
+ORD-1988,CUST-7230,Office Supplies,25.87,2,0.16,-166.92,East,2022-09-08,Same Day,Labels
+ORD-1989,CUST-5940,Technology,964.05,9,0.29,-92.03,South,2022-02-10,Second Class,Phones
+ORD-1990,CUST-4271,Office Supplies,383.22,3,0.04,-136.07,West,2022-04-09,Standard Class,Paper
+ORD-1991,CUST-4456,Office Supplies,607.18,8,0.47,-43.8,Central,2022-11-02,Standard Class,Art
+ORD-1992,CUST-8788,Furniture,88.92,8,0.18,57.19,Central,2023-04-01,Second Class,Bookcases
+ORD-1993,CUST-9599,Furniture,686.28,3,0.46,94.38,Central,2023-08-14,Standard Class,Tables
+ORD-1994,CUST-8650,Furniture,933.24,3,0.39,194.93,Central,2022-10-28,Second Class,Chairs
+ORD-1995,CUST-3711,Office Supplies,579.91,6,0.38,128.12,South,2022-07-18,First Class,Binders
+ORD-1996,CUST-2668,Technology,134.85,1,0.3,104.38,South,2023-10-21,Same Day,Phones
+ORD-1997,CUST-1147,Furniture,585.9,4,0.31,5.89,West,2023-05-03,Standard Class,Chairs
+ORD-1998,CUST-7420,Technology,768.68,1,0.32,36.9,Central,2022-04-16,Standard Class,Copiers
+ORD-1999,CUST-1365,Furniture,412.35,3,0.31,7.26,East,2023-02-05,First Class,Chairs
+ORD-2000,CUST-5531,Furniture,881.04,9,0.28,221.08,South,2023-12-06,First Class,Tables
